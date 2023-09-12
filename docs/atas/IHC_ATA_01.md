@@ -26,7 +26,7 @@ Local: Microsoft Teams
 - Nenhuma pendência
 
 ## Link da gravação:
-[Link]
+[Link](https://youtu.be/hMo7hoLkOxQ)
 
 ## Próxima Reunião 
 ### Data: 18/09/2023 às 21h
@@ -36,3 +36,5 @@ Local: Microsoft Teams
 | Versão | Data       | Descrição                       | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------        | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 11/09/2023 | Criação da documentação.        | [Millena](https://github.com/millenaqueiroz)     | Todos                                            |
+| `2.0`  | 11/09/2023 | Adição do link da gravação no youtube.        | [Millena](https://github.com/millenaqueiroz)     | Todos                                            |
+
