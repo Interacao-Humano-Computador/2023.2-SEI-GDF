@@ -1,4 +1,4 @@
-# GRUPO 8
+# SEI - GDF
 
 ## Sobre o projeto
 
