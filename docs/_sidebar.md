@@ -6,3 +6,7 @@
     - [Ata 01](atas/IHC_ATA_01.md)
     - [Ata 02](atas/IHC_ATA_02.md)
 
+- Planejamento
+    
+    - [Sites avaliados](planejamento/sites-avaliados.md)
+
