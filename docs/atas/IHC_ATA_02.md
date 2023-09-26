@@ -33,14 +33,16 @@ Local: Microsoft Teams
 - Foram entregues os planejamentos e avaliações dos sites individuais de cada integrante.
 
 ## Link da gravação:
-[Link]()
+[Link](https://youtu.be/ka1vBsMG_fM)
 
 ## Próxima Reunião 
 ### Data: 30/09/2023 às 18h30
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                       | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------------        | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 11/09/2023 | Criação da documentação.        | [Millena](https://github.com/millenaqueiroz)     | Todos                                            |
+| Versão | Data       | Descrição                                                                | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ------------------------                                                 | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 11/09/2023 | Criação da documentação.                                                 | [Millena](https://github.com/millenaqueiroz)     | Todos                                            |
+| `2.0`  | 11/09/2023 | Revisão da documentação e inserção do link da gravação da reunião        | [Felipe](https://github.com/fsousac)             | Todos                                            |
+
                                           
