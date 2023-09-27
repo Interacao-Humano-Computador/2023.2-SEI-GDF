@@ -10,6 +10,8 @@ A **Tabela 1** trata do cronograma planejado para o desenvolvimento de todas as 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto e do Processo de Design</p></font>
 
+<center>
+
 | Atividades                        | Período de desenvolvimento | Responsáveis | Período de revisão | Revisores |
 | --------------------------------- | --------------- | - | --------------- | - |
 | Selecionar site                   | Início:<br>Fim: | - | Início:<br>Fim: | - |
@@ -20,6 +22,8 @@ A **Tabela 1** trata do cronograma planejado para o desenvolvimento de todas as 
 | Gravar apresentação               | Início:<br>Fim: | - | Início:<br>Fim: | - |
 | Implementar Git Pages             | Início:<br>Fim: | - | Início:<br>Fim: | - |
 | Correção pós apresentação         | Início:<br>Fim: | - | Início:<br>Fim: | - |
+
+</center>
 
 <font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic) e [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
 
@@ -29,6 +33,8 @@ A **Tabela 2** trata do cronograma executado do desenvolvimento de todas as ativ
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto e do Processo de Design</p></font>
 
+<center>
+
 | Atividades                        | Período de desenvolvimento | Responsáveis | Período de revisão | Revisores |
 | --------------------------------- | --------------- | - | --------------- | - |
 | Selecionar site                   | Início:<br>Fim: | - | Início:<br>Fim: | - |
@@ -39,6 +45,8 @@ A **Tabela 2** trata do cronograma executado do desenvolvimento de todas as ativ
 | Gravar apresentação               | Início:<br>Fim: | - | Início:<br>Fim: | - |
 | Implementar Git Pages             | Início:<br>Fim: | - | Início:<br>Fim: | - |
 | Correção pós apresentação         | Início:<br>Fim: | - | Início:<br>Fim: | - |
+
+</center>
 
 <font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic) e [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
 
