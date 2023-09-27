@@ -6,7 +6,7 @@ Com base nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-niel
 <font size="2"><p style="text-align: center">Tabela 1: Tabela de sites avaliados.</p></font>
 
 
-<center>
+<div align="center">
 
 | Site avaliado | Membro que fez a avaliação|
 | :---------------------------------------------: | :----------------------: 
@@ -15,8 +15,7 @@ Com base nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-niel
 | [Hospital Santa Luzia](#hospital-santa-luzia) | [Millena Queiroz](https://github.com/MillenaQueiroz)
 | [Cebraspe](#cebraspe) | [Felipe de Sousa](https://github.com/fsousac)
 
-
-</center>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
 
@@ -44,6 +43,18 @@ O responsável por realizar essa avaliação foi o integrante [Felipe de Sousa](
 * Verificar a conformidade com um padrão. Assegurar que o site esteja seguindo as conformidades com um padrão para que um usuário com certas limitações físicas não encontre barreiras intransponíveis para acessar a interface do sistema e interagir com ele.
 * Analisar a apropriação da tecnologia. Certificar que o usuário consiga realizar suas funções sem nenhuma dificuldade ou barreira no caminho.
 * [Link para a avaliação detalhada.](avaliacoes/avaliacao-cebraspe.pdf)
+
+## São Sebastião do Alto
+Apresenta o planejamento de avaliação do site governamental de [São Sebastião do Alto, RJ](http://ssalto.rj.gov.br/), determinando a página inicial como escopo da avaliação. Foi utilizado o framework DECIDE, para guiar o planejamento. O responsável por tal avaliação foi o integrante [João Pedro](https://github.com/JoosPerro).
+
+* [Link para a avaliação detalhada.](avaliacoes/avaliacao-ssalto-rj.pdf)
+
+## Lattes
+O integrante [Caio Mesquita](https://github.com/Caiomesvie) realizou o planejamento de uma avaliação de IHC no site da Plataforma [Lattes](https://lattes.cnpq.br) com base no Framework DECIDE e com base no livro Interação Humano-Computador de Bruno Santana da Silva e Simone Diniz
+Junqueira Barbosa, capítulos 11 e 12.
+A Plataforma lattes consiste em um site onde há o repertório de uma base de dados de currículos, grupos de pesquisa e projetos e entre outras funcionalidades, mas o foco da avaliação será baseado principalmente na parte curricular.
+
+* [Link para a avaliação detalhada.](avaliacoes/avaliacao-lattes.pdf)
 
 ## Histórico de Versões
 
