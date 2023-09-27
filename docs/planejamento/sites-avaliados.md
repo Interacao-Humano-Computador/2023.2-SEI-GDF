@@ -6,7 +6,7 @@ Com base nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-niel
 <font size="2"><p style="text-align: center">Tabela 1: Tabela de sites avaliados.</p></font>
 
 
-<div align="center">
+<center>
 
 | Site avaliado | Membro que fez a avaliação|
 | :---------------------------------------------: | :----------------------: 
@@ -14,8 +14,10 @@ Com base nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-niel
 | [Siape](#siape) | [Artur Ricardo](https://github.com/algorithmorphic) 
 | [Hospital Santa Luzia](#hospital-santa-luzia) | [Millena Queiroz](https://github.com/MillenaQueiroz)
 | [Cebraspe](#cebraspe) | [Felipe de Sousa](https://github.com/fsousac)
+| [São Sebastião do Alto](#sao-sebastiao-do-alto) | [João Pedro](https://github.com/JoosPerro)
+| [Lattes](#lattes) | [Caio Mesquita](https://github.com/Caiomesvie)
 
-</div>
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
 
