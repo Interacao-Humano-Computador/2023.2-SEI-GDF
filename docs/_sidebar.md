@@ -9,4 +9,5 @@
 - Planejamento
     
     - [Sites avaliados](planejamento/sites-avaliados.md)
+    - [Cronograma](planejamento/cronograma.md)
 
