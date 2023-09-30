@@ -10,3 +10,9 @@ Repositório dedicado à disciplina de Interação Humano-Computador da Universi
 | --- | --- | --- | --- | --- | --- | --- |
 | [Artur Ricardo](https://github.com/algorithmorphic) | [Caio Mesquita](https://github.com/Caiomesvie) | [Felipe de Sousa](https://github.com/fsousac) | [João Pedro](https://github.com/JoosPerro) | [Lucas Caldas](https://github.com/lucascaldasb) | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Pablo Santos](https://github.com/pabloheika) |
 
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--: | --------- | ----------- | ------ |
+| `1.0`  | 10/09/2023 | Criação do documento | [Millena Queiroz](https://github.com/MillenaQueiroz)  | [Pablo Santos](https://github.com/pabloheika) |
+| `1.1`  | 30/09/2023 | Adiciona sobre o documento | [Lucas Caldas](https://github.com/lucascaldasb)  | [Pablo Santos](https://github.com/pabloheika) |

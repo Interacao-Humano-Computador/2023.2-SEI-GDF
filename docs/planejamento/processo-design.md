@@ -55,12 +55,12 @@
 
 ### Bibliografia
 
-- SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
+> - SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
 
 ## Histórico de Versões
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ------ | ---------- | ----------
+:-------: | :-----: | ------ | ---------- | ----------
  `0.1` | 28/09/2023 | Criação do documento | [Felipe](https://github.com/fsousac)| Todos
  `1.0` | 29/09/2023 | Finalização do documento e envio para revisão | [Felipe](https://github.com/fsousac)| [Caio Mesquita](https://github.com/Caiomesvie)
 

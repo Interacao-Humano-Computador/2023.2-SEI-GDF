@@ -61,7 +61,7 @@ A Plataforma lattes consiste em um site onde há o repertório de uma base de da
 ## Histórico de Versões
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ------ | ---------- | ----------
+:-------: | :-----: | ------ | ---------- | ----------
  `1.0` | 26/09/2023 | Criação do documento | [Lucas Caldas](https://github.com/lucascaldasb)|
 
 

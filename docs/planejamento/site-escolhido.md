@@ -35,10 +35,10 @@ O SEI possui diversas funcionalidades e permitem estabelecer a gestão de docume
 
 ## Bibliografia
 
-[1] Portal SEI-GDF. Disponívem em: https://portalsei.df.gov.br/category/sobre-o-sei/o-que-e-o-sei. Acesso: 30/09/2023.
+> - Portal SEI-GDF. Disponívem em: https://portalsei.df.gov.br/category/sobre-o-sei/o-que-e-o-sei. Acesso: 30/09/2023.
 
 ## Histórico de Versão
 
 | Versão  | Data       | Descrição                           | Autor(es)                                                                                             | Revisor(es)                                |
-| ------- | ---------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| :------: | :----------: | ----------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | `1.0`   | 30/09/2023 | Adicionando informações sobre o site escolhido. | [Lucas Caldas](https://github.com/lucascaldasb) |  |

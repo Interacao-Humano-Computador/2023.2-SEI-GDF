@@ -37,7 +37,7 @@ Local: Microsoft Teams
 ## Histórico de versão
 
 | Versão | Data       | Descrição                       | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------------        | ------------------------------------------------ | ------------------------------------------------ |
+| :------: | :----------: | ------------------------        | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 04/09/2023 | Criação da documentação.        | [Millena](https://github.com/millenaqueiroz)     | Todos                                            |
 | `2.0`  | 04/09/2023 | Mudança do link para o Youtube. | [Felipe](https://github.com/fsousac)             | Todos                                            |
 | `3.0`  | 11/09/2023 | Atualização da presença. | [Millena](https://github.com/millenaqueiroz)            | Todos                                            |
