@@ -10,4 +10,5 @@
     
     - [Sites avaliados](planejamento/sites-avaliados.md)
     - [Cronograma](planejamento/cronograma.md)
+    - [Processo de design](planejamento/processo-design.md)
 
