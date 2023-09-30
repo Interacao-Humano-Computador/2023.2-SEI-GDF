@@ -8,7 +8,10 @@
 
 - Planejamento
     
-    - [Sites avaliados](planejamento/sites-avaliados.md)
     - [Cronograma](planejamento/cronograma.md)
     - [Processo de design](planejamento/processo-design.md)
+    - [Metodologias](planejamento/metodologias.md)
+    - [Ferramentas](planejamento/ferramentas.md)
+    - [Sites avaliados](planejamento/sites-avaliados.md)
+    - [Site escolhido](planejamento/site-escolhido.md)
 
