@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Descrição do projeto
+Repositório dedicado à disciplina de Interação Humano-Computador da Universidade de Brasília. O objetivo do projeto é realizar o planejamento e avaliação do site [SEI-GDF](https://portalsei.df.gov.br/) utilizando os conceitos aprendidos em sala. O site em questão é um sistema de produção e gestão de documentos e processos eletrônicos desenvolvido pelo Tribunal Regional Federal da 4ª Região (TRF4) e cedido gratuitamente à administração pública. 
 
 ## Equipe
 
