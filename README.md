@@ -1,6 +1,6 @@
 # SEI - GDF
 
-<p align="center"><img src="imagens/logo_sei.png" width="40%" alt="logo"></p>
+<p align="center"><img src="docs/imagens/logo_sei.png" width="40%" alt="logo"></p>
 
 ## Sobre o projeto
 
