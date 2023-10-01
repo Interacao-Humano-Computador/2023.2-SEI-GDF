@@ -64,5 +64,5 @@ A Plataforma lattes consiste em um site onde há o repertório de uma base de da
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 :-------: | :-----: | ------ | ---------- | ----------
  `1.0` | 26/09/2023 | Criação do documento | [Lucas Caldas](https://github.com/lucascaldasb)| [Millena](https://github.com/millenaqueiroz)|
- `2.0` | 01/10/2023 | Atualização do link dos documentos individuais | [Millena](https://github.com/millenaqueiroz)| |
+ `2.0` | 01/10/2023 | Atualização do link dos documentos individuais | [Millena](https://github.com/millenaqueiroz)| [Artur Ricardo](https://github.com/algorithmorphic) |
 
