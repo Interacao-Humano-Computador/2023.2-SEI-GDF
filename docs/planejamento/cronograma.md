@@ -16,7 +16,7 @@ A **Tabela 1** trata do cronograma planejado para o desenvolvimento de todas as 
 
 | Atividades                                            | Período de desenvolvimento  | Responsáveis | Período de revisão          | Revisores |
 | ----------------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Documentar a Equipe                                   | Início: 04/09<br>Fim: 10/09 | [Millena Queiroz](https://github.com/millenaqueiroz) | Início: 11/09<br>Fim: 12/09 | - |
+| Documentar a Equipe                                   | Início: 04/09<br>Fim: 10/09 | [Millena Queiroz](https://github.com/millenaqueiroz) | Início: 11/09<br>Fim: 12/09 |  [Pablo S. Costa](https://github.com/pabloheika)  |
 | Produzir o Heatmap de disponibilidade dos integrantes | Início: 25/09<br>Fim: 30/09 | [Pablo Costa](https://github.com/pabloheika) | Início: 01/10<br>Fim: 02/10 | [Millena Queiroz](https://github.com/millenaqueiroz) |
 | Incluir lista de sites avaliados por cada integrante  | Início: 25/09<br>Fim: 30/09 | [Lucas Caldas](https://github.com/lucascaldasb) | Início: 01/10<br>Fim: 02/10 | - |
 | Selecionar site para o projeto                        | Início: 07/09<br>Fim: 11/09 | Todos        | Início: 01/10<br>Fim: 02/10 | - |
