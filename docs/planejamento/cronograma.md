@@ -2,6 +2,8 @@
 
 ## Descrição
 
+Este documento apresenta o cronograma do nosso projeto de Interação Humano Computador, abrangendo o planejamento e a execução das atividades desenvolvidas por cada integrante da equipe. É um guia prático das etapas que seguimos para alcançar nossos objetivos, atualizado conforme avançamos no projeto.
+
 ## Etapa 1 - Planejamento do Projeto e do Processo de Design
 
 ### Planejado
@@ -62,3 +64,4 @@ A **Tabela 2** trata do cronograma executado do desenvolvimento de todas as ativ
 | :-----: | :--------: | ----------------------------------- | --------- | ----------- |
 | `1.0`   | 27/09/2023 | Criação da estrutura do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) e [Lucas Caldas](https://github.com/lucascaldasb) | [João Pedro](https://github.com/JoosPerro) |
 | `1.1`   | 30/09/2023 | Alteração da bibliografia.          | [Pablo S. Costa](https://github.com/pabloheika)  | [Artur Ricardo](https://github.com/algorithmorphic) |
+| `1.2`   | 01/10/2023 | Adição da descrição do cronograma.  | [Artur Ricardo](https://github.com/algorithmorphic) | |
