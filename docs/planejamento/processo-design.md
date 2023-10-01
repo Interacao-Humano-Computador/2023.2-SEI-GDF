@@ -13,8 +13,9 @@
   Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em duas atividades: design (ou redesign) e na construção de uma versão interativa.
 
   No design ou redesign, o designer busca alternativas de design a fim de encontrar uma solução adequada às necessidades e aos requisitos definidos na atividade de análise (BARBOSA e SILVA, 2011, p.101). Os resultados dessa atividade são apresentados em formas de descrições textuais ou esboços dos modelos e da interação usuário-sistema. O designer, também constroí versões interativas das soluções propostas, demonstrando de maneira clara como as interfaces ou as interações funcionam (BARBOSA e SILVA, 2011, p.102).
-  
+
   ![image](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/0fc7083b-1cce-4c82-adf1-51a38dadd848)
+   <font size="3"><p style="text-align: center"><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida Simples.</p></font>
 
 ### Ciclo de Vida em estrela
   Nesse modelo, é de responsabilidade do designer escolher qual atividade será realizada primeiro, porém, passar pela avaliação após concluir cada atividade é obrigatório independente do caminho escolhido.
@@ -22,7 +23,7 @@
   Em relação a atividade, ela possui um papel fundamental nesse modelo, pois são verificados se os dados coletados e os requisitos especificados estão de acordo ao que o usuário necessita. Ela também, é usada para detectar problemas de usabilidade nas representações de design, nos protótipos e no sistema final (BARBOSA e SILVA, 2011, p.104).
 
 ![image](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/991cf26e-b0e1-4924-a6b6-1e7249a8f95b)
-
+   <font size="3"><p style="text-align: center"><b>Figura 2</b> - Atividades do Modelo de Ciclo de Vida Estrela.</p></font>
   
 ### Engenharia de Usabilidade de Nielsen
   Segundo Jakob Nielsen, engenharia de usabilidade é um conjunto de atividades que devem acontecer durante todo o ciclo de vida do produto (BARBOSA e SILVA, 2011, p.104). A tabela 1 mostra as atividades definidas por Nielsen em seu ciclo de vida:
@@ -34,12 +35,14 @@
   |3     |Defina as metas de usabilidade  |8      |Faça protótipos                                   |
   |4     |Faça designs paralelos          |9      |Realize testes empíricos                          |
   |5     |Adote o design participativo    |10     |Pratique design iterativo                         |
-  ##### *Tabela 1 - Atividades do Ciclo de Vida de Nielsen (BARBOSA e SILVA, 2011, p.105).*
+#####
+   <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Atividades da Engenharia de Usabilidade de Nielsen.</p></font>
   
 ### Engenharia de Usabilidade de Mayhew
   Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Esse ciclo de vida está ilustrado na figura 1 e logo após há uma descrição de suas fases:
-
+  
   ![image](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/9c20cdfe-8f71-49ff-8eef-6207c7d24753)
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
 
 * **Análise de requisitos**: Nessa fase, são definidas as metas de usabilidade considerando aspectos como o perfil dos usuários, a análise das tarefas a serem realizadas, as possibilidades e limitações da plataforma em que o sistema será executado, e princípios gerais de design de IHC. Para facilitar a verificação dessas metas em etapas posteriores do processo de desenvolvimento, é comum apresentá-las em guias de estilo que incluem diretrizes relacionadas a diversos elementos da interface do usuário, como layout, cores, fontes, imagens, ícones e sons.
 
