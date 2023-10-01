@@ -61,7 +61,7 @@ A **Tabela 2** trata do cronograma executado do desenvolvimento de todas as ativ
 ## Bibliografia
 
 > - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692453/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf>>. Acesso em 27 de set. de 2023.
-
+>
 > - Cronograma Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em 27 de set. de 2023.
 
 ## Histórico de Versão
