@@ -28,14 +28,14 @@
 ### Engenharia de Usabilidade de Nielsen
   Segundo Jakob Nielsen, engenharia de usabilidade é um conjunto de atividades que devem acontecer durante todo o ciclo de vida do produto (BARBOSA e SILVA, 2011, p.104). A tabela 1 mostra as atividades definidas por Nielsen em seu ciclo de vida:
 
-  |Num   |Descrição                       |Num    |Descrição                                         |
-  |------|--------------------------------|-------|--------------------------------------------------|
-  |1     |Conheça seu usuário             |6      |Faça o design coordenado da interface como um todo|
-  |2     |Realize uma análise competitiva |7      |Aplique diretrizes e análise heurística           |
-  |3     |Defina as metas de usabilidade  |8      |Faça protótipos                                   |
-  |4     |Faça designs paralelos          |9      |Realize testes empíricos                          |
-  |5     |Adote o design participativo    |10     |Pratique design iterativo                         |
-#####
+  | Num  | Descrição                       | Num   | Descrição                                          |
+  | ---- | ------------------------------- | ----- | -------------------------------------------------- |
+  | 1    | Conheça seu usuário             | 6     | Faça o design coordenado da interface como um todo |
+  | 2    | Realize uma análise competitiva | 7     | Aplique diretrizes e análise heurística            |
+  | 3    | Defina as metas de usabilidade  | 8     | Faça protótipos                                    |
+  | 4    | Faça designs paralelos          | 9     | Realize testes empíricos                           |
+  | 5    | Adote o design participativo    | 10    | Pratique design iterativo                          |
+
    <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Atividades da Engenharia de Usabilidade de Nielsen.</p></font>
   
 ### Engenharia de Usabilidade de Mayhew
