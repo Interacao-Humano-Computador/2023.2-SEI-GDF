@@ -12,13 +12,13 @@ O grupo utilizará softwares que auxiliarão nas atividades de planejamento, coo
 
 | Logo | Ferramenta | Finalidade |
 | :--: | ---------- | ---------- |
-| <img alt="Logo Github" src="./imagens/planejamento/ferramentas/github.png" width="90"> | GitHub | Repositório git online para armazenar e organizar toda a produção da equipe |
-| <img alt="Logo do Microsoft Teams" src="./imagens/planejamento/ferramentas/teams.png" width="90"> | Microsoft Teams | Realizar videos chamadas e gravações de reuniões e apresentações. |
-| <img alt="Logo do Docsify" src="./imagens/planejamento/ferramentas/docsify.png" width="90"> | Docsify | Geração da documentação no gitpages. |
-| <img alt="Logo do Visual Studio Code" src="./imagens/planejamento/ferramentas/vscode.png" width="90"> | Visual Studio Code | Criação e edição dos arquivos de documentação. |
-| <img alt="Logo do WhatsApp" src="./imagens/planejamento/ferramentas/whatsapp.png" width="90"> | WhatsApp | Comunicação via chat com a equipe |
-| <img alt="Logo do Youtube" src="./imagens/planejamento/ferramentas/youtube.png" width="90"> | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
-| <img alt="Logo do Google Forms" src="./imagens/planejamento/ferramentas/google_forms.png" width="90"> | Google Forms | Produção e distribuição de questionarios e formularios online. |
+| <img alt="Logo Github" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/079bdf8f-7bce-446e-9146-3dc388827732" width="90"> | GitHub | Repositório git online para armazenar e organizar toda a produção da equipe |
+| <img alt="Logo do Microsoft Teams" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/c2441be1-90da-44cc-96fd-3a6c938ed80e" width="90"> | Microsoft Teams | Realizar videos chamadas e gravações de reuniões e apresentações. |
+| <img alt="Logo do Docsify" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/45b39f76-a248-4a0f-aa3b-103504eb4e4a" width="90"> | Docsify | Geração da documentação no gitpages. |
+| <img alt="Logo do Visual Studio Code" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/f3db70c9-326f-4b2c-8279-66441e7e619a" width="90"> | Visual Studio Code | Criação e edição dos arquivos de documentação. |
+| <img alt="Logo do WhatsApp" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/f6f5eabb-5c12-4e4a-8092-05f0ce968649" width="90"> | WhatsApp | Comunicação via chat com a equipe |
+| <img alt="Logo do Youtube" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/7efd08e3-c792-4789-a677-0b131b0935de" width="90"> | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+| <img alt="Logo do Google Forms" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/4c093ad1-3d24-49a3-9cef-a4471a4cadbf" width="90"> | Google Forms | Produção e distribuição de questionarios e formularios online. |
 
 </center>
 
@@ -45,4 +45,5 @@ O grupo utilizará softwares que auxiliarão nas atividades de planejamento, coo
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | -------------------- | ----------------------------------------------- | ----------- |
-| `1.0`  | 30/09/2023 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) |  |
+| `1.0`  | 30/09/2023 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) | [Felipe de Sousa](https://github.com/fsousac) |  |
+| `1.1`  | 01/10/2023 | Revisão do documento | [Felipe de Sousa](https://github.com/fsousac) |  |
