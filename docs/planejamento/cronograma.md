@@ -22,8 +22,8 @@ A **Tabela 1** trata do cronograma planejado para o desenvolvimento de todas as 
 | Selecionar site para o projeto                        | Início: 07/09<br>Fim: 11/09 | Todos        | Início: 01/10<br>Fim: 02/10 | - |
 | Selecionar ferramentas para o projeto                 | Início: 11/09<br>Fim: 30/09 | [Pablo Costa](https://github.com/pabloheika) | Início: 01/10<br>Fim: 02/10 | [Felipe de Sousa](https://github.com/fsousac) |
 | Escolher/definir o Processo de Design                 | Início: 25/09<br>Fim: 29/09 | [Felipe de Sousa](https://github.com/fsousac)  | Início: 30/09<br>Fim: 01/10 | - |
-| Produzir cronograma de planejamento                   | Início: 11/09<br>Fim: 30/09 | [Artur Ricardo](https://github.com/algorithmorphic) e [João Pedro](https://github.com/JoosPerro) | Início: 01/10<br>Fim: 02/10 | - |
-| Produzir cronograma de execução                       | Início: 11/09<br>Fim: 30/09 | [Artur Ricardo](https://github.com/algorithmorphic) e [João Pedro](https://github.com/JoosPerro) | Início: 01/10 <br>Fim: 02/10 | - |
+| Produzir cronograma de planejamento                   | Início: 11/09<br>Fim: 30/09 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 01/10<br>Fim: 02/10 | [João Pedro](https://github.com/JoosPerro) |
+| Produzir cronograma de execução                       | Início: 11/09<br>Fim: 30/09 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 01/10 <br>Fim: 02/10 | [João Pedro](https://github.com/JoosPerro) |
 | Gravar a apresentação                                 | Início: 24/09<br>Fim: 30/09 | Todos | Início: 01/10 <br>Fim: 02/10 | - |
 | Implementar o GitHub Pages do projeto                 | Início: 11/09<br>Fim: 30/09 | [Pablo Costa](https://github.com/pabloheika) e [Lucas Caldas](https://github.com/lucascaldasb)| Início: 01/10<br>Fim: 02/10 | - |
 | Correção pós entrega/apresentação                     | Início: 04/10<br>Fim: 07/10 | Todos | Início: 08/10<br>Fim: 09/10 | - |
