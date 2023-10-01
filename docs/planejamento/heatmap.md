@@ -31,4 +31,4 @@ A partir dos dados da tabela acima, podemos estabelecer nossos encontros princip
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 30/09/2023 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  |  |
+| `1.0`  | 30/09/2023 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | [Millena](https://github.com/millenaqueiroz) |
