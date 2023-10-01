@@ -18,15 +18,15 @@ A **Tabela 1** trata do cronograma planejado para o desenvolvimento de todas as 
 | ----------------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
 | Documentar a Equipe                                   | Início: 04/09<br>Fim: 10/09 | [Millena Queiroz](https://github.com/millenaqueiroz) | Início: 11/09<br>Fim: 12/09 |  [Pablo S. Costa](https://github.com/pabloheika)  |
 | Produzir o Heatmap de disponibilidade dos integrantes | Início: 25/09<br>Fim: 30/09 | [Pablo Costa](https://github.com/pabloheika) | Início: 01/10<br>Fim: 02/10 | [Millena Queiroz](https://github.com/millenaqueiroz) |
-| Incluir lista de sites avaliados por cada integrante  | Início: 25/09<br>Fim: 30/09 | [Lucas Caldas](https://github.com/lucascaldasb) | Início: 01/10<br>Fim: 02/10 | - |
-| Selecionar site para o projeto                        | Início: 07/09<br>Fim: 11/09 | Todos        | Início: 01/10<br>Fim: 02/10 | - |
+| Incluir lista de sites avaliados por cada integrante  | Início: 25/09<br>Fim: 30/09 | [Lucas Caldas](https://github.com/lucascaldasb) | Início: 01/10<br>Fim: 02/10 | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Selecionar site para o projeto                        | Início: 07/09<br>Fim: 11/09 | Todos        | Início: 01/10<br>Fim: 02/10 | Todos |
 | Selecionar ferramentas para o projeto                 | Início: 11/09<br>Fim: 30/09 | [Pablo Costa](https://github.com/pabloheika) | Início: 01/10<br>Fim: 02/10 | [Felipe de Sousa](https://github.com/fsousac) |
-| Escolher/definir o Processo de Design                 | Início: 25/09<br>Fim: 29/09 | [Felipe de Sousa](https://github.com/fsousac)  | Início: 30/09<br>Fim: 01/10 | - |
+| Escolher/definir o Processo de Design                 | Início: 25/09<br>Fim: 29/09 | [Felipe de Sousa](https://github.com/fsousac) e [Caio Mesquita](https://github.com/Caiomesvie) | Início: 30/09<br>Fim: 01/10 | [Lucas Caldas](https://github.com/lucascaldasb) |
 | Produzir cronograma de planejamento                   | Início: 11/09<br>Fim: 30/09 | [Artur Ricardo](https://github.com/algorithmorphic) e [João Pedro](https://github.com/JoosPerro) | Início: 01/10<br>Fim: 02/10 | [João Pedro](https://github.com/JoosPerro) |
 | Produzir cronograma de execução                       | Início: 11/09<br>Fim: 30/09 | [Artur Ricardo](https://github.com/algorithmorphic) e [João Pedro](https://github.com/JoosPerro) | Início: 01/10 <br>Fim: 02/10 | [João Pedro](https://github.com/JoosPerro) |
-| Gravar a apresentação                                 | Início: 24/09<br>Fim: 30/09 | Todos | Início: 01/10 <br>Fim: 02/10 | - |
-| Implementar o GitHub Pages do projeto                 | Início: 11/09<br>Fim: 30/09 | [Pablo Costa](https://github.com/pabloheika) e [Lucas Caldas](https://github.com/lucascaldasb)| Início: 01/10<br>Fim: 02/10 | - |
-| Correção pós entrega/apresentação                     | Início: 04/10<br>Fim: 07/10 | Todos | Início: 08/10<br>Fim: 09/10 | - |
+| Gravar a apresentação                                 | Início: 24/09<br>Fim: 30/09 | Todos | Início: 01/10 <br>Fim: 02/10 | Todos |
+| Implementar o GitHub Pages do projeto                 | Início: 11/09<br>Fim: 30/09 | [Pablo Costa](https://github.com/pabloheika) e [Lucas Caldas](https://github.com/lucascaldasb)| Início: 01/10<br>Fim: 02/10 | [Caio Mesquita](https://github.com/Caiomesvie) |
+| Correção pós entrega/apresentação                     | Início: 04/10<br>Fim: 07/10 | Todos | Início: 08/10<br>Fim: 09/10 | Todos |
 
 </center>
 
@@ -49,10 +49,10 @@ A **Tabela 2** trata do cronograma executado do desenvolvimento de todas as ativ
 | Selecionar ferramentas para o projeto                 | Início: 11/09<br>Fim: 30/09 | [Pablo Costa](https://github.com/pabloheika) | Início: 01/10<br>Fim: 01/10 | [Felipe de Sousa](https://github.com/fsousac) |
 | Escolher/definir o Processo de Design                 | Início: 28/09<br>Fim: 29/09 | [Felipe de Sousa](https://github.com/fsousac)  | Início: 29/09<br>Fim: 29/09 | [Caio Mesquita](https://github.com/Caiomesvie) |
 | Produzir cronograma de planejamento                   | Início: 27/09<br>Fim: 01/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 01/10<br>Fim: 01/10 | [João Pedro](https://github.com/JoosPerro) |
-| Produzir cronograma de execução                       | Início: 27/09<br>Fim: 01/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 01/10 <br>Fim: 01/10 | - |
-| Gravar a apresentação                                 | Início: <br>Fim: | Todos | Início: <br>Fim: | - |
+| Produzir cronograma de execução                       | Início: 27/09<br>Fim: 01/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 01/10 <br>Fim: 01/10 | |
+| Gravar a apresentação                                 | Início: 01/10<br>Fim: 01/10 | Todos | Início: 01/10<br>Fim: 01/10 | Todos |
 | Implementar o GitHub Pages do projeto                 | Início: 25/09<br>Fim: 01/10 | [Pablo Costa](https://github.com/pabloheika) e [Lucas Caldas](https://github.com/lucascaldasb)| Início: 01/10<br>Fim: 01/10 | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Correção pós entrega/apresentação                     | Início: 04/10<br>Fim: 07/10 | Todos | Início: 08/10<br>Fim: 09/10 | - |
+| Correção pós entrega/apresentação                     | Início: <br>Fim: | | Início: <br>Fim: | |
 
 </center>
 
@@ -71,5 +71,6 @@ A **Tabela 2** trata do cronograma executado do desenvolvimento de todas as ativ
 | `1.0`   | 27/09/2023 | Criação da estrutura do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) e [Lucas Caldas](https://github.com/lucascaldasb) | [João Pedro](https://github.com/JoosPerro) |
 | `1.1`   | 30/09/2023 | Alteração da bibliografia. | [Pablo S. Costa](https://github.com/pabloheika)  | [Artur Ricardo](https://github.com/algorithmorphic) |
 | `1.2`   | 01/10/2023 | Adição da descrição do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) | |
-| `1.3`   | 01/10/2023 | Atualização da estrutura do documento e dos dados da **Tabela 1** | [Artur Ricardo](https://github.com/algorithmorphic) | [João Pedro](https://github.com/JoosPerro) |
-| `1.4`   | 01/10/2023 | Atualização dos dados da **Tabela 2**| [Artur Ricardo](https://github.com/algorithmorphic) | |
+| `1.3`   | 01/10/2023 | Atualização da estrutura do documento e dos dados da **Tabela 1**. | [Artur Ricardo](https://github.com/algorithmorphic) | [João Pedro](https://github.com/JoosPerro) |
+| `1.4`   | 01/10/2023 | Atualização dos dados da **Tabela 2**. | [Artur Ricardo](https://github.com/algorithmorphic) | |
+| `1.5`   | 01/10/2023 | Atualização dos dados de ambas as tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | |
