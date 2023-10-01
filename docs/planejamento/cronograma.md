@@ -53,12 +53,12 @@ A **Tabela 2** trata do cronograma executado do desenvolvimento de todas as ativ
 ## Bibliografia
 
 > - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692453/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf>>. Acesso em 27 de set. de 2023.
-> <br>
-> - Cronograma Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>. Acesso em 27 de set. de 2023.
+
+> - Cronograma Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em 27 de set. de 2023.
 
 ## Histórico de Versão
 
-| Versão  | Data       | Descrição                           | Autor(es)                                                                                             | Revisor(es)                                |
-| :-----: | :--------: | ----------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Versão  | Data       | Descrição                           | Autor(es) | Revisor(es) |
+| :-----: | :--------: | ----------------------------------- | --------- | ----------- |
 | `1.0`   | 27/09/2023 | Criação da estrutura do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) e [Lucas Caldas](https://github.com/lucascaldasb) | [João Pedro](https://github.com/JoosPerro) |
-| `1.1`   | 30/09/2023 | Altera bibliografia. | [Pablo S. Costa](https://github.com/pabloheika)  |  |
+| `1.1`   | 30/09/2023 | Alteração da bibliografia.          | [Pablo S. Costa](https://github.com/pabloheika)  | [Artur Ricardo](https://github.com/algorithmorphic) |
