@@ -8,6 +8,7 @@
 
 - Planejamento
     
+    - [Heatmap](planejamento/heatmap.md)
     - [Cronograma](planejamento/cronograma.md)
     - [Processo de design](planejamento/processo-design.md)
     - [Metodologias](planejamento/metodologias.md)
