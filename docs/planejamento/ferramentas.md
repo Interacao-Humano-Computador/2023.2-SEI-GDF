@@ -46,4 +46,4 @@ O grupo utilizará softwares que auxiliarão nas atividades de planejamento, coo
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | -------------------- | ----------------------------------------------- | ----------- |
 | `1.0`  | 30/09/2023 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) | [Felipe de Sousa](https://github.com/fsousac) |  |
-| `1.1`  | 01/10/2023 | Revisão do documento | [Felipe de Sousa](https://github.com/fsousac) |  |
+| `1.1`  | 01/10/2023 | Revisão do documento | [Felipe de Sousa](https://github.com/fsousac) |   [Pablo S. Costa](https://github.com/pabloheika) |
