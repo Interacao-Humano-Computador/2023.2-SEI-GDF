@@ -42,7 +42,8 @@ Local: Microsoft Teams
 
 | Versão | Data       | Descrição                                                                | Autor(es)                                        | Revisor(es)                                      |
 | :------: | :----------: | ------------------------                                                 | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 11/09/2023 | Criação da documentação.                                                 | [Millena](https://github.com/millenaqueiroz)     | Todos                                            |
-| `2.0`  | 11/09/2023 | Revisão da documentação e inserção do link da gravação da reunião        | [Felipe](https://github.com/fsousac)             | Todos                                            |
+| `1.0`  | 25/09/2023 | Criação da documentação.                                                 | [Millena](https://github.com/millenaqueiroz)     | Todos                                            |
+| `2.0`  | 25/09/2023 | Revisão da documentação e inserção do link da gravação da reunião        | [Felipe](https://github.com/fsousac)             | Todos                                            |
+| `3.0`  | 01/10/2023 | Atualização da data das versões | [Millena](https://github.com/millenaqueiroz)            | Todos                                            |
 
                                           
