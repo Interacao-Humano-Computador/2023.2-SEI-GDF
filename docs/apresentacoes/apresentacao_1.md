@@ -36,4 +36,4 @@ Nesta apresentação, demonstrou-se o que foi foi realizado para a primeira entr
 
 | Versão | Data       | Descrição                    | Autor(es)                                     | Revisor(es) |
 | ------ | ---------- | ---------------------------- | --------------------------------------------- | ----------- |
-| 1.0    | 23/04/2023 | Documentação da apresentação | [Felipe de Sousa](https://github.com/fsousac) |
+| 1.0    | 03/10/2023 | Documentação da apresentação | [Felipe de Sousa](https://github.com/fsousac) | [Lucas Caldas](https://github.com/lucascaldasb)
