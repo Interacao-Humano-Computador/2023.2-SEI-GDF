@@ -20,7 +20,9 @@
   - [Apresentação 1](apresentacoes/apresentacao_1.md)
 
 * Análise de Requisitos
-  - [Aspectos Éticos](analise-de-requisitos/analise-de-tarefas.md)
+  - [Aspectos Éticos](analise-de-requisitos/analise-de-tarefas/)
+    - [Análise Hierárquica de Tarefas](analise-de-requisitos/analise-de-tarefas/hta.md)
+    - [GOMS](analise-de-requisitos/analise-de-tarefas/goms.md)
   - [Perfil de Usuário](analise-de-requisitos/perfil-de-usuario.md)
   - [Personas](analise-de-requisitos/personas.md)
   - [Análise de Tarefas](analise-de-requisitos/analise-de-tarefas.md)
