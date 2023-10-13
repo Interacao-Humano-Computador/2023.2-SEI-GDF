@@ -22,7 +22,7 @@ Local: Microsoft Teams
 ## Decisões:
 - Perfil do usuário: Lucas e Artur 
 - Aspectos éticos: João e Caio
-- Análise de pessoas: Millena e Felipe
+- Análise de tarefas: Millena e Felipe
 
 ## Pendências Anteriores:
 - Correções do gitpages conforme feedback da primeira entrega
@@ -39,6 +39,6 @@ Local: Microsoft Teams
 | :------: | :------------: | ------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`    | 09/10/2023     | Criação da documentação.                                                 | [Millena](https://github.com/millenaqueiroz)     | [Felipe](https://github.com/fsousac)             |
 | `1.1`    | 10/10/2023     | Revisão e inserção do link da gravação                                   | [Felipe](https://github.com/fsousac)             | [Millena](https://github.com/millenaqueiroz)     |
-
+| `1.2`    | 13/10/2023     | Correção do texto                                   | [Millena](https://github.com/millenaqueiroz)             |    |
 
                                           
