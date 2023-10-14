@@ -21,8 +21,8 @@
 
 * Análise de Requisitos
   - [Aspectos Éticos](analise-de-requisitos/analise-de-tarefas/)
-    - [Análise Hierárquica de Tarefas](analise-de-requisitos/analise-de-tarefas/hta.md)
-    - [GOMS](analise-de-requisitos/analise-de-tarefas/goms.md)
   - [Perfil de Usuário](analise-de-requisitos/perfil-de-usuario.md)
   - [Personas](analise-de-requisitos/personas.md)
-  - [Análise de Tarefas](analise-de-requisitos/analise-de-tarefas.md)
+  - Análise de Tarefas
+    * [Análise Hierárquica de Tarefas](analise-de-requisitos/analise-de-tarefas/hta.md)
+    * [GOMS](analise-de-requisitos/analise-de-tarefas/goms.md)  
