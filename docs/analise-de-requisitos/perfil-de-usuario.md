@@ -95,4 +95,4 @@ Classificação:
 
 | Versão | Data       | Descrição                                                                                                        | Autor(es)                                                                                    | Revisor(es)                                                                                         |
 | ------ | ---------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| `1.0`  | 14/10/2023 | Criação da página Perfil de Usuário.                                                                             | [Lucas Caldas](https://github.com/lucascaldasb) |  |
+| `1.0`  | 14/10/2023 | Criação da página Perfil de Usuário.                                                                             | [Lucas Caldas](https://github.com/lucascaldasb) | [Artur Ricardo](https://github.com/algorithmorphic) |
