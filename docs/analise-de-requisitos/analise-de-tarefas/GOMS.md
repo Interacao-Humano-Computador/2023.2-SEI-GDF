@@ -23,7 +23,7 @@ Obs: Durante o processo de análise subentende-se que o usuário já havia acess
 
 Para a análise das tarefas, ao observar o site, foram identificados duas principais áreas, a de _Cidadão_ e a de _Servidor_, como mostra a Figura 1.
 
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Áreas de acesso SEI - GDF (Acesso em: 14 de outubro 2023).</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Áreas de acesso SEI - GDF.</p></font>
 
 ![image](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/4566468e-ff46-44f6-8126-b813adfa489e)
 
