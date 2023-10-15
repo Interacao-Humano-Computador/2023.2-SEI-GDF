@@ -26,8 +26,8 @@ Para a análise das tarefas, ao observar o site, foram identificados duas princi
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Áreas de acesso SEI - GDF.</p></font>
 
 <center>
-    
-![image](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/4566468e-ff46-44f6-8126-b813adfa489e)
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/4566468e-ff46-44f6-8126-b813adfa489e" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/4566468e-ff46-44f6-8126-b813adfa489e" alt="image">
 
 </center>
 
