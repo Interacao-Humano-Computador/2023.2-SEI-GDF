@@ -87,9 +87,9 @@ Nessa tarefa, o usuário possui o objetivo de fazer a conferência da autentica�
 | Objetivos/Operações                        | Problemas e Recomendações                                             |
 | ----------------------------------------- | -------------------------------------------------------------------- |
 | Autenticação de documentos                |  <b>Input:</b> formulário de verificação de documento <br> <b>Feedback:</b>É retornado se documento é válido ou não <br> <b>Plano:</b> Informar dados de busca e depois ter retorno da validade dos processos.                                                                      |
-| 1. Especificar Código Verificador         | <b>Input:</b> código verificador contido no documento<br><b>Recomendação:</b> mostrar obrigatoriedade do campo.                                                                       |
-| 2. Especificar Código CRC                 | <b>Input:</b> código CRC<br><b>Recomendação:</b> mostrar obrigatoriedade do campo.                                                                                    |
-| 3. Completar Captcha                       |                                                                        |
+| 1. Especificar Código Verificador   1+2       | <b>Input:</b> código verificador contido no documento<br><b>Recomendação:</b> mostrar obrigatoriedade do campo                                                                       |
+| 2. Especificar Código CRC 1+2                 | <b>Input:</b> código CRC<br><b>Recomendação:</b> mostrar obrigatoriedade do campo                                                                                     |
+| 3. Completar Captcha 1>2                      |                                                                        |
 | 4. Conferir autenticação | <b>Feedback:</b>É retornado se documento é válido ou não <br>|
 </center>
 
@@ -116,12 +116,12 @@ Nessa tarefa, o usuário possui o objetivo de iniciar um processo como servidor 
 | ---------------------------------------- | -------------------------------------------------------------------- |
 | 0. Iniciar processo                          |  <b>Input:</b> formulário de criação de processo <br> <b>Feedback:</b>É retornado se documento foi criado e o seu respectivo número. <br> <b>Plano:</b> Retornar número do processo.                                                                       |
 | 1. Selecionar tipo do processo            |  <b>Input:</b> Campo de seleção <br> <b>Feedback:</b>O usuário é redirecionado para o próximo passo do formulário <br>                                                                      |
-| 2. Especificar o processo                 |                                                                        |
-| 3. Descrever os assuntos                  |                                                                        |
-| 4. Selecionar os Interessados             |                                                                        |
-| 5. (Opcional) Fazer observações desta unidade |                                                                     |
-| 6. Definir nível de acesso                | <b>Input:</b> Campo de seleção <br> <b>Feedback:</b>Se caso o processo for restrito é mostrado um campo de hipótese legal. <br>                                                                      |
-| Enviar processo |<b>Input:</b> formulário de criação de processo <br> <b>Feedback:</b>É retornado se documento foi criado e o seu respectivo número. <br> <b>Plano:</b> Retornar número do processo.           |
+| 2.1.1 Especificar o processo                 |                                                                        |
+| 2.1.2 Descrever os assuntos                  |                                                                        |
+| 2.1.3 Selecionar os Interessados             |                                                                        |
+| 2.1.4 (Opcional) Fazer observações desta unidade |                                                                     |
+| 2.1.5 Definir nível de acesso                | <b>Input:</b> Campo de seleção <br> <b>Feedback:</b>Se caso o processo for restrito é mostrado um campo de hipótese legal. <br>                                                                      |
+| 3. Enviar processo |<b>Input:</b> formulário de criação de processo <br> <b>Feedback:</b>É retornado se documento foi criado e o seu respectivo número. <br> <b>Plano:</b> Retornar número do processo.           |
 </center>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Millena Queiroz](https://github.com/millenaqueiroz) </p></font>
@@ -147,9 +147,9 @@ Nessa tarefa, o usuário possui o objetivo de encontrar um processo a partir de 
 | Busca e Pesquisa                                           | <b>Input:</b> formulário de busca de processo ou documento<br> <b>Feedback:</b> São retornados os processos relacionados a busca.<br> <b>Plano:</b> Informar dados de busca e depois ter retorno de processos.                                                                         |
 | 1. Fazer login                                              |                                                                         |
 | 2. Selecionar pesquisa                                      |   <b>Input:</b> número do processo ou documento.<br> <b>Recomendação:</b> Especificar a relação de dependência com o campo "Pesquisar em"                                                                                                                          |
-| 3. Selecionar onde pesquisar                                |                                                                         |
-| 4. Especificar texto para a pesquisa, órgão gerador, unidade geradora, o assunto... | |
-| 5. Pesquisar processo                                       | <b>Input:</b> formulário de busca de processo ou documento<br> <b>Feedback:</b> São retornados os processos relacionados a busca.<br> <b>Plano:</b> Informar dados de busca e depois ter retorno de processos.  |
+| 2.1 Selecionar onde pesquisar                                |                                                                         |
+| 2.1.2 Especificar texto para a pesquisa, órgão gerador, unidade geradora, o assunto... | |
+| 3. Pesquisar processo                                       | <b>Input:</b> formulário de busca de processo ou documento<br> <b>Feedback:</b> São retornados os processos relacionados a busca.<br> <b>Plano:</b> Informar dados de busca e depois ter retorno de processos.  |
 
 
 </center>
@@ -165,3 +165,4 @@ Nessa tarefa, o usuário possui o objetivo de encontrar um processo a partir de 
 | Versão | Data     | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | -------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
 | `1.0`  | 14/10/23 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) |  |
+| `1.1`  | 14/10/23 | Correção de enumeração de tarefas | [Millena Queiroz](https://github.com/millenaqueiroz) |  |
