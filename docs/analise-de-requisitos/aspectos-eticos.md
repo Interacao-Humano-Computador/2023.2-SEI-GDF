@@ -11,8 +11,8 @@ Visando o respeito dos participantes e colaboradores de nossa pesquisa para a av
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Termo de conscentimento.</p></font>
 
 <center>
- 
- ![image](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/ad67723b-68fc-4f99-bde1-15628f3cbfe0)
+
+ <img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/ad67723b-68fc-4f99-bde1-15628f3cbfe0" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/ad67723b-68fc-4f99-bde1-15628f3cbfe0" alt="image">
 
 </center>
 
