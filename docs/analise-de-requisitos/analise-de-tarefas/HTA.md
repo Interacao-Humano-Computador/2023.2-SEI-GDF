@@ -148,7 +148,7 @@ Nessa tarefa, o usuário possui o objetivo de encontrar um processo a partir de 
 | 1. Fazer login                                              |                                                                         |
 | 2. Selecionar pesquisa                                      |   <b>Input:</b> número do processo ou documento.<br> <b>Recomendação:</b> Especificar a relação de dependência com o campo "Pesquisar em"                                                                                                                          |
 | 2.1 Selecionar onde pesquisar                                |                                                                         |
-| 2.1.2 Especificar texto para a pesquisa, órgão gerador, unidade geradora, o assunto... | |
+| 2.1.1 Especificar texto para a pesquisa, órgão gerador, unidade geradora, o assunto... | |
 | 3. Pesquisar processo                                       | <b>Input:</b> formulário de busca de processo ou documento<br> <b>Feedback:</b> São retornados os processos relacionados a busca.<br> <b>Plano:</b> Informar dados de busca e depois ter retorno de processos.  |
 
 
@@ -164,5 +164,5 @@ Nessa tarefa, o usuário possui o objetivo de encontrar um processo a partir de 
 
 | Versão | Data     | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | -------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 14/10/23 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) |  |
-| `1.1`  | 14/10/23 | Correção de enumeração de tarefas | [Millena Queiroz](https://github.com/millenaqueiroz) |  |
+| `1.0`  | 14/10/23 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) | [Felipe de Sousa](https://github.com/fsousac) |
+| `1.1`  | 14/10/23 | Correção de enumeração de tarefas | [Millena Queiroz](https://github.com/millenaqueiroz) | [Felipe de Sousa](https://github.com/fsousac) |
