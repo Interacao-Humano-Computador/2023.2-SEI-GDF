@@ -20,7 +20,7 @@
   - [Apresentação 1](apresentacoes/apresentacao_1.md)
 
 * Análise de Requisitos
-  - [Aspectos Éticos](analise-de-requisitos/aspectos-eticos.md/)
+  - [Aspectos Éticos](analise-de-requisitos/aspectos-eticos.md)
   - [Perfil de Usuário](analise-de-requisitos/perfil-de-usuario.md)
   - [Personas](analise-de-requisitos/personas.md)
   - Análise de Tarefas
