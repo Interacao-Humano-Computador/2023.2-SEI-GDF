@@ -30,6 +30,7 @@ Para a análise das tarefas, ao observar o site, foram identificados duas princi
 ![image](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/4566468e-ff46-44f6-8126-b813adfa489e)
 
 </center>
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> https://portalsei.df.gov.br (Acesso em: 14 de outubro 2023).</p></font>
 
 ### Pesquisa Processual (Cidadão)
