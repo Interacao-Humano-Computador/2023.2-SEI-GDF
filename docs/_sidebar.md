@@ -22,7 +22,7 @@
 * Análise de Requisitos
   - [Aspectos Éticos](analise-de-requisitos/aspectos-eticos.md)
   - [Perfil de Usuário](analise-de-requisitos/perfil-de-usuario.md)
-  - [Personas](analise-de-requisitos/personas.md)
+  - [Cenários](analise-de-requisitos/cenarios.md)
   - Análise de Tarefas
     * [Análise Hierárquica de Tarefas](analise-de-requisitos/analise-de-tarefas/HTA.md)
     * [GOMS](analise-de-requisitos/analise-de-tarefas/GOMS.md)  
