@@ -1,0 +1,24 @@
+## Aspectos Éticos 
+
+Visando o respeito dos participantes e colaboradores de nossa pesquisa para a avaliação de ihc, todo o processo teve como base 4 preceitos:
+- Princípio da autonomia: Diz respeito a ao conscentimento livre e esclarecido dos participantes e a proteção de grupos vulneráveis, visando tratar a todos com respeito e dignidade.
+- Princípio da não maleficência: Envolve em previnir danos previsíveis relacionados á pesquisa, tanto imediatos quanto tardios.
+- Princípio da beneficência: Dita a busca pelo máximo de benefícios adventos da pesquisa e o mínimo de malefícios, danos e riscos
+- Princípio da justiça e equidade: Envolve a relevância social da pesquisa e a busca da minimização do ônus para os participantes mais vulneráveis.
+
+ Tendo em vista o que foi dito, foi elaborado um termo de conscentimento para garantir a ciência dos participantes de todos os aspectos que tangem a participação da entrevista e assim garantir a segurança e satisfação de todos os envolvidos.
+
+<center>
+  figura 1: termo de conscentimento
+  <img src="../imagens/termo_consc.jpg">
+  Fonte: [Caio Mesquita](https://github.com/Caiomesvie), 2023
+</center> 
+
+
+## Bibliografia
+>BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador, Capítulo 5. Edição de 2010, São Paulo. Editora: Elsevier Editora Ltda. 
+
+
+| Versão | Data       | Descrição                                       | Autor(es)                                                                                     | Revisor(es)                                      |
+| ------ | ---------- | ----------------------------------------------- | ------------------------------------------------| ------------------------------------------------ |
+| `1.0`  | 06/05/2023 | Criação da página da página de aspectos éticos. | [Caio Mesquita](https://github.com/Caiomesvie)  | [João Pedro Veras Gomes](https://github.com/joosPerro)
