@@ -8,11 +8,11 @@ Visando o respeito dos participantes e colaboradores de nossa pesquisa para a av
 
  Tendo em vista o que foi dito, foi elaborado um termo de conscentimento para garantir a ciência dos participantes de todos os aspectos que tangem a participação da entrevista e assim garantir a segurança e satisfação de todos os envolvidos.
 
-<center>
-  <img src="../imagens/termo_consc.jpg"/>
-  figura 1: termo de conscentimento
-  Fonte: [Caio Mesquita](https://github.com/Caiomesvie), 2023
-</center> 
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Termo de conscentimento.</p></font>
+
+ ![image](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/ad67723b-68fc-4f99-bde1-15628f3cbfe0)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
 
 
 ## Bibliografia
@@ -22,4 +22,4 @@ Visando o respeito dos participantes e colaboradores de nossa pesquisa para a av
 | Versão | Data       | Descrição                                       | Autor(es)                                                                                     | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------------- | ------------------------------------------------| ------------------------------------------------ |
 | `1.0`  | 14/10/2023 | Criação da página da página de aspectos éticos. | [Caio Mesquita](https://github.com/Caiomesvie)  | [João Pedro Veras Gomes](https://github.com/joosPerro)
-| `1.1`  | 14/10/2023 | Corrreções na página. | [Caio Mesquita](https://github.com/Caiomesvie)  |
+| `1.1`  | 14/10/2023 | Corrreções na página. | [Caio Mesquita](https://github.com/Caiomesvie)  | [Felipe de Sousa](https://github.com/fsousac)
