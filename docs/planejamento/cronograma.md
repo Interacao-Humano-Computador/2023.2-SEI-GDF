@@ -14,7 +14,7 @@ A **Tabela 1** trata do cronograma planejado para o desenvolvimento de todas as 
 
 <center>
 
-| Atividades                                            | Período de desenvolvimento  | Responsáveis | Período de revisão          | Revisores |
+| Atividades                                            | Período de desenvolvimento  | Responsáveis | Período de revisão | Revisores |
 | ----------------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
 | Documentar a Equipe                                   | Início: 04/09<br>Fim: 10/09 | [Millena Queiroz](https://github.com/millenaqueiroz) | Início: 11/09<br>Fim: 12/09 |  [Pablo S. Costa](https://github.com/pabloheika)  |
 | Produzir o Heatmap de disponibilidade dos integrantes | Início: 25/09<br>Fim: 30/09 | [Pablo Costa](https://github.com/pabloheika) | Início: 01/10<br>Fim: 02/10 | [Millena Queiroz](https://github.com/millenaqueiroz) |
@@ -52,11 +52,65 @@ A **Tabela 2** trata do cronograma executado do desenvolvimento de todas as ativ
 | Produzir cronograma de execução                       | Início: 27/09<br>Fim: 01/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 01/10 <br>Fim: 01/10 | [João Pedro](https://github.com/JoosPerro) |
 | Gravar a apresentação                                 | Início: 01/10<br>Fim: 01/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb), [Millena Queiroz](https://github.com/MillenaQueiroz) e [Pablo Santos](https://github.com/pabloheika) | Início: 01/10<br>Fim: 01/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb), [Millena Queiroz](https://github.com/MillenaQueiroz) e [Pablo Santos](https://github.com/pabloheika) |
 | Implementar o GitHub Pages do projeto                 | Início: 25/09<br>Fim: 01/10 | [Pablo Costa](https://github.com/pabloheika) e [Lucas Caldas](https://github.com/lucascaldasb)| Início: 01/10<br>Fim: 01/10 | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Correção pós entrega/apresentação                     | Início: <br>Fim: | | Início: <br>Fim: | |
+| Correção pós entrega/apresentação                     | Início: 05/10<br>Fim: 16/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb) e [Millena Queiroz](https://github.com/MillenaQueiroz) | Início: 16/10<br>Fim: 16/10| [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb) e [Millena Queiroz](https://github.com/MillenaQueiroz) |
 
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic) e [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
+
+## Etapa 2 - Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas e Análise de tarefas
+
+### Planejado
+
+A **Tabela 3** trata do cronograma planejado para o desenvolvimento de todas as atividades referentes à segunda entrega (Etapa 2) do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas e Análise de tarefas</p></font>
+
+<center>
+
+| Atividades                                              | Período de desenvolvimento  | Responsáveis | Período de revisão | Revisores |
+| ------------------------------------------------------- | --------------------------- | ------------ | ------------------ | --------- |
+| Produzir cronograma de planejamento referente à Etapa 2 | Início: 04/10<br>Fim: 07/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 08/10<br>Fim: 09/10 | [João Pedro](https://github.com/JoosPerro) |
+| Produzir cronograma de execução referente à Etapa 2 | Início: 04/10<br>Fim: 07/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 08/10 <br>Fim: 09/10 | [João Pedro](https://github.com/JoosPerro) |
+| Produção do perfil do usuário                           | Início: 10/10<br>Fim: 13/10 | [Artur Ricardo](https://github.com/algorithmorphic) e [Lucas Caldas](https://github.com/lucascaldasb) | Início: 14/10<br>Fim: 15/10 | [Felipe de Sousa](https://github.com/fsousac) e [Millena Queiroz](https://github.com/MillenaQueiroz) |
+| Produção dos aspectos éticos de pesquisas com pessoas   | Início: 10/10<br>Fim: 13/10 | [Felipe de Sousa](https://github.com/fsousac) e [Millena Queiroz](https://github.com/MillenaQueiroz) | Início: 14/10<br>Fim: 15/10 | [Caio Mesquita](https://github.com/Caiomesvie) e [João Pedro](https://github.com/JoosPerro) |
+| Produção da análise de tarefas                          | Início: 10/10<br>Fim: 13/10 | [Caio Mesquita](https://github.com/Caiomesvie) e [João Pedro](https://github.com/JoosPerro) | Início: 14/10<br>Fim: 15/10 | [Artur Ricardo](https://github.com/algorithmorphic) e [Lucas Caldas](https://github.com/lucascaldasb) |
+| Gravar a apresentação da Etapa 2 do projeto             | Início: 14/10<br>Fim: 14/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb) e [Millena Queiroz](https://github.com/MillenaQueiroz) | Início: 15/10 <br>Fim: 15/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb) e [Millena Queiroz](https://github.com/MillenaQueiroz) |
+| Correção pós entrega/apresentação da Etapa 2 do projeto | Início: 18/10<br>Fim: 21/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb) e [Millena Queiroz](https://github.com/MillenaQueiroz) | Início: 22/10<br>Fim: 23/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb) e [Millena Queiroz](https://github.com/MillenaQueiroz) |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+### Executado
+
+A **Tabela 4** trata do cronograma executado do desenvolvimento de todas as atividades referentes à segunda entrega (Etapa 2) do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas e Análise de tarefas</p></font>
+
+<center>
+
+| Atividades                                              | Período de desenvolvimento  | Responsáveis | Período de revisão | Revisores |
+| ------------------------------------------------------- | --------------------------- | ------------ | ------------------ | --------- |
+| Produzir cronograma de planejamento referente à Etapa 2 | Início: 16/10<br>Fim: 16/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: ||
+| Produzir cronograma de execução referente à Etapa 2     | Início: 16/10<br>Fim: 16/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: ||
+| Produção do perfil do usuário                           | Início: 14/10<br>Fim: 14/10 | [Lucas Caldas](https://github.com/lucascaldasb) | Início: 14/10<br>Fim: 14/10 | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Produção dos cenários                                   | Início: 15/10<br>Fim: 16/10 | [Lucas Caldas](https://github.com/lucascaldasb) | Início: <br>Fim: ||
+| Produção do GOMS¹                                       | Início: 14/10<br>Fim: 14/10 | [Felipe de Sousa](https://github.com/fsousac) | Início: 14/10<br>Fim: 14/10 | [Millena Queiroz](https://github.com/MillenaQueiroz) |
+| Produção da HTA²                                        | Início: 14/10<br>Fim: 14/10 | [Millena Queiroz](https://github.com/MillenaQueiroz) | Início: 14/10<br>Fim: 14/10 | [Felipe de Sousa](https://github.com/fsousac) |
+| Escolha do termo de consentimento                       | Início: 14/10<br>Fim: 14/10 | [Caio Mesquita](https://github.com/Caiomesvie) | Início: 14/10<br>Fim: 14/10 | [João Pedro](https://github.com/JoosPerro) |
+| Produção dos aspectos éticos                            | Início: 14/10<br>Fim: 14/10 | [Caio Mesquita](https://github.com/Caiomesvie) | Início: 14/10<br>Fim: 14/10 | [João Pedro](https://github.com/JoosPerro) e [Felipe de Sousa](https://github.com/fsousac) |
+| Gravar a apresentação da Etapa 2 do projeto             | Início: 15/10<br>Fim: 15/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb) e [Millena Queiroz](https://github.com/MillenaQueiroz) | Início: 15/10 <br>Fim: 15/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb) e [Millena Queiroz](https://github.com/MillenaQueiroz) |
+| Correção pós entrega/apresentação da Etapa 2 do projeto | Início: <br>Fim: || Início: <br>Fim: ||
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+¹ Goals, Operators, Methods, and Selection Rules — Objetivos, Operadores, Métodos e
+Regras de Seleção.
+
+² Hierarchical Task Analysis — Análise Hierárquica de Tarefas.
 
 ## Bibliografia
 
@@ -66,7 +120,7 @@ A **Tabela 2** trata do cronograma executado do desenvolvimento de todas as ativ
 
 ## Histórico de Versão
 
-| Versão  | Data       | Descrição | Responsáveis | Revisores |
+| Versão  | Data       | Descrição | Autor(es) | Revisor(es) |
 | :-----: | :--------: | --------- | --------- | ----------- |
 | `1.0`   | 27/09/2023 | Criação da estrutura do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) e [Lucas Caldas](https://github.com/lucascaldasb) | [João Pedro](https://github.com/JoosPerro) |
 | `1.1`   | 30/09/2023 | Alteração da bibliografia. | [Pablo S. Costa](https://github.com/pabloheika)  | [Artur Ricardo](https://github.com/algorithmorphic) |
@@ -75,3 +129,4 @@ A **Tabela 2** trata do cronograma executado do desenvolvimento de todas as ativ
 | `1.4`   | 01/10/2023 | Atualização dos dados da **Tabela 2**. | [Artur Ricardo](https://github.com/algorithmorphic) | [João Pedro](https://github.com/JoosPerro) |
 | `1.5`   | 01/10/2023 | Atualização dos dados de ambas as tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | [João Pedro](https://github.com/JoosPerro) |
 | `1.6`   | 04/10/2023 | Atualização dos dados sobre Autores e Revisores. | [Artur Ricardo](https://github.com/algorithmorphic) | |
+| `1.7`   | 16/10/2023 | Inserção dos dados dos cronogramas de planejamento (**Tabela 3**) e execução (**Tabela 4**) referentes à Etapa 2 do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | |
