@@ -18,6 +18,7 @@
 
 * Apresentações
   - [Apresentação 1](apresentacoes/apresentacao_1.md)
+  - [Apresentação 2](apresentacoes/apresentacao_2.md)
 
 * Análise de Requisitos
   - [Aspectos Éticos](analise-de-requisitos/aspectos-eticos.md)
