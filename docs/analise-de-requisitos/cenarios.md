@@ -2,7 +2,15 @@
 
 ## Introdução
 
-Cenários são descrições minuciosas do ambiente e das interações dos usuários com a aplicação. Eles se concentram em descrever situações de uso, revelando comportamentos e experiências dos usuários. Esta técnica é essencial para entender a dimensão comportamental do software. 
+Cenário no contexto de IHC é uma narrativa imaginária e contextual de um usuário realizando uma atividade. Ela é uma ferramenta utilizada no Design baseado em Cenários, com o objetivo de descrever de forma clara o e compreensiva um contexto específico de uso de uma parte da interface. Um cenário é uma hipótese do qual é extraído o perfil do usuário e seus objetivos, entre outros detalhes. Ao ler e discutir sobre o cenário, a equipe de design analisa e aprende como a interface influencia a atividade do usuário, facilitando encontrar alternativas adequadas para o problema. Esse processo envolvendo cenários é iterativa, tentando aprimorar a solução a cada passo.
+
+O design baseado em cenários se divide basicamente em três atividades sucessivas, sempre com espaço para iteração e transformações de cenários. As atividades são:
+
+1. Análise do problema: para análise e estudo do problema, todos os interessados na solução (stakeholders) participam, a fim de conhecer a situação atual. Então a equipe cria cenários baseados no que foi analisado a respeito do usuário, suas atividades, o contexto de uso, e as ferramentas e artefatos envolvidos;
+
+2. Projeto de uma solução de IHC: criados os cenários que consolidam o que foi compreendido pela equipe de design, parte-se para elaboração de uma solução para os problemas descritos. Cenários são divididos em: cenários de atividade, que relatam principalmente as funcionalidades do sistema; cenários de informação especificam as informações oferecidas ao usuário pelo sistema; cenários de interação são os mais detalhados que os anteriores, e abordam as ações do usuário e as respectivas respostas do sistema;
+
+3. Prototipação e avaliação da solução proposta: nesse estágio a solução é consolidada em forma de um protótipo, também sujeito a avaliação. Até nesse estágio os cenários são úteis e relevantes, baseado neles, a equipe pode avaliar o desenvolvimento e o resultado de processo. 
 
 ## Metodologia
 
