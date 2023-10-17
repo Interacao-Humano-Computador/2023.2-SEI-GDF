@@ -25,5 +25,5 @@ Visando o respeito dos participantes e colaboradores de nossa pesquisa para a av
 
 | Versão | Data       | Descrição                                       | Autor(es)                                                                                     | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------------- | ------------------------------------------------| ------------------------------------------------ |
-| `1.0`  | 14/10/2023 | Criação da página da página de aspectos éticos. | [Caio Mesquita](https://github.com/Caiomesvie)  | [João Pedro Veras Gomes](https://github.com/joosPerro)
-| `1.1`  | 14/10/2023 | Corrreções na página. | [Caio Mesquita](https://github.com/Caiomesvie)  | [Felipe de Sousa](https://github.com/fsousac)
+| `1.0`  | 14/10/2023 | Criação da página de aspectos éticos. | [Caio Mesquita](https://github.com/Caiomesvie)  | [João Pedro Veras Gomes](https://github.com/joosPerro)
+| `1.1`  | 14/10/2023 | Correções na página. | [Caio Mesquita](https://github.com/Caiomesvie)  | [Felipe de Sousa](https://github.com/fsousac)
