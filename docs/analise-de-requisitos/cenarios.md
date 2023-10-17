@@ -52,7 +52,7 @@ Os cenários identificados, tendo como base os usuários entrevistados e documen
 | :-----------------: | --------- |
 | Objetivo            | Realizar a pesquisa de um processo como cidadão. |
 | Ambiente/Contexto   | Local: Em casa;<br>Tempo: Durante a noite;<br>Pré-condições: Acesso à Internet.|
-| Recursos            | Internet, computador e site/plataforma do SEI - GDF |
+| Recursos            | Internet, computador e site/plataforma do SEI - GDF. |
 | Atores              | Um advogado. |
 | Episódios           | - Guia o mouse para a aba meu Pesquisa processual, no menu Cidadão;<br>- Pressiona o botão;<br>- Guia o mouse para a caixa de texto dentre as disponíveis;<br>- Clica na opção desejada e digita os dados para a pesquisa;<br>- Seleciona uma ou mais opções de "Pesquisar em:" dentre as disponíveis;<br>- Seleciona uma das opões em "Data do Processo/Documento" dentre as disponíveis;<br>- Caso a opção selecionada seja "Período explícito", especifica as datas de início e fim do período desejado;<br>- Responde a caixa de Captcha presente na página; e<br>- Clica no botão "Pesquisar".|
 | Restrições          | Fluxo de navegação intuitivo. |
@@ -72,7 +72,7 @@ _Fonte: [Artur Ricardo](https://github.com/algorithmorphic)._
 | :-----------------: | --------- |
 | Objetivo            | Fazer a conferência da autenticação de documentos como cidadão. |
 | Ambiente/Contexto   | Local: No trabalho;<br>Tempo: Durante o dia;<br>Pré-condições: Acesso à Internet. |
-| Recursos            | Internet, computador e site/plataforma do SEI - GDF |
+| Recursos            | Internet, computador e site/plataforma do SEI - GDF. |
 | Atores              | Um advogado. |
 | Episódios           | - Guia o mouse para opção de autenticação de documentos, no menu Cidadão;<br>- Clica no botão;<br>- Guia o mouse para a caixa de texto "Código Verificador" e clica;<br>- Digita o código verificador;<br>- Guia o mouse para a caixa de texto "Código CRC" e clica;<br>- Digita o código CRC;<br>- Responde a caixa de Captcha presente na página; e<br>- Clica no botão "Pesquisar". |
 | Restrições          | Fluxo de navegação intuitivo. |
@@ -92,7 +92,7 @@ _Fonte: [Artur Ricardo](https://github.com/algorithmorphic)._
 | :-----------------: | --------- |
 | Objetivo            | Iniciar um processo como servidor de um orgão. |
 | Ambiente/Contexto   | Local: No trabalho;<br>Tempo: Durante o dia;<br>Pré-condições: Acesso à Internet. |
-| Recursos            | Internet, computador e site/plataforma do SEI - GDF |
+| Recursos            | Internet, computador e site/plataforma do SEI - GDF. |
 | Atores              | Um servidor público. |
 | Episódios           | - Guia o mouse para a caixa de texto de "Usuário" e clica;<br>- Digita o login do usuário;<br>- Guia o mouse para a caixa de texto de "Senha" e clica;<br>- Digita a senha do usuário;<br>- Guia o mouse para a caixa de seleção de "Órgão" e clica;<br>- Seleciona o órgão do usuário;<br>- (Opcional) Seleciona a opção de "Lembrar" para mantê-lo conectado para as próximas vezes que acessar o sistema;<br>- Clica no botão "Acessar";<br>- Guia o mouse para a opção 'Iniciar Processo' na barra lateral da página inicial;<br>- Clica no botão;<br>- Seleciona o Tipo do processo;<br>- Especifica o processo;<br>- Descreve os assuntos;<br>- Seleciona os Interessados;<br>- Faz observações desta unidade;<br>- Define nível de acesso; e<br>- Clica em "Salvar" para criar o Processo. |
 | Restrições          | Fluxo de navegação intuitivo. |
@@ -112,7 +112,7 @@ _Fonte: [Artur Ricardo](https://github.com/algorithmorphic)._
 | :-----------------: | --------- |
 | Objetivo            | Encontrar um processo a partir de alguma informação que possui partindo da área principal, após o login. |
 | Ambiente/Contexto   | Local: Em casa;<br>Tempo: Durante a noite;<br>Pré-condições: Acesso à Internet. |
-| Recursos            | Internet, computador e site/plataforma do SEI - GDF |
+| Recursos            | Internet, computador e site/plataforma do SEI - GDF. |
 | Atores              | Um servidor público. |
 | Episódios           | - Guia o mouse para a caixa de texto de "Usuário" e clica;<br>- Digita o login do usuário;<br>- Guia o mouse para a caixa de texto de "Senha" e clica;<br>- Digita a senha do usuário;<br>- Guia o mouse para a caixa de seleção de "Órgão" e clica;<br>- Seleciona o órgão do usuário;<br>- (Opcional) Seleciona a opção de "Lembrar" para mantê-lo conectado para as próximas vezes que acessar o sistema;<br>- Clica no botão "Acessar";<br>- Guia o mouse para a opção 'Pesquisa' na barra lateral da página inicial;<br>- Clica no botão;<br>- Escolhe uma ou mais áreas para filtrar;<br>- Guia o mouse para a caixa de texto ou caixa de seleção e a preenche; e<br>- Clica no botão "Pesquisar".|
 | Restrições          | Fluxo de navegação intuitivo. |
