@@ -118,7 +118,9 @@ _Fonte: [Artur Ricardo](https://github.com/algorithmorphic)._
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 >
-> <a id="REF1" href="#anchor_1">2.</a> Cenários Identificados, Banco Central do Brasil. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/cenarios?id=cen%c3%a1rios-identificados>>. Acesso em 16 de outubro de 2023.
+> <a id="REF1" href="#anchor_1">2.</a> CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em 16 de outubro de 2023.
+>
+> <a id="REF1" href="#anchor_1">3.</a> Cenários Identificados, Banco Central do Brasil. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/cenarios?id=cen%c3%a1rios-identificados>>. Acesso em 16 de outubro de 2023.
 
 ## Histórico de Versões
 
