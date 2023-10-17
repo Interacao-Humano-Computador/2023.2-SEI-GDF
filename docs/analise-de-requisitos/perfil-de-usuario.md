@@ -69,11 +69,11 @@ Os resultados da entrevista foram bem parecidos, visto que os usuários costumam
 
 ## Perfil dos usuários entrevistados
 
-<span style = "color: #97b927"> Gabriel</span>: OCUPAÇÃO - Advogado / IDADE - 35 / SEXO - Masculino
-
-<span style = "color: #97b927">Pedro Igor</span>: OCUPAÇÃO - Advogado / IDADE - 30 / SEXO - Masculino
-
-<span style = "color: #97b927">Cristiano</span>: OCUPAÇÃO - Servidor público / IDADE - 42 / SEXO - Masculino
+| Usuário                                          | Ocupação         | Idade   | Sexo      |
+| :----------------------------------------------: | :--------------: | :-----: | :-------: |
+| <span style = "color: #97b927">Gabriel</span>    | Advogado         | 35 anos | Masculino |
+| <span style = "color: #97b927">Pedro Igor</span> | Advogado         | 30 anos | Masculino |
+| <span style = "color: #97b927">Cristiano</span>  | Servidor público | 42 anos | Masculino |
 
 ## Conclusão
 
