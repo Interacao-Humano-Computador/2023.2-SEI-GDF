@@ -21,7 +21,13 @@
   - [Apresentação 2](apresentacoes/apresentacao_2.md)
 
 * Análise de Requisitos
-  - [Aspectos Éticos](analise-de-requisitos/aspectos-eticos.md)
+  - Aspectos Éticos
+    * [Aspectos Éticos](analise-de-requisitos/aspectos-eticos/aspectos-eticos.md)
+    * [Resolução 466](analise-de-requisitos/aspectos-eticos/reso466.pdf)
+    - Termos Assinados
+      * [Usuário 1](analise-de-requisitos/aspectos-eticos/termo_user1.pdf)
+      * [Usuário 2](analise-de-requisitos/aspectos-eticos/termo_user2.pdf)
+      * [Usuário 3](analise-de-requisitos/aspectos-eticos/termo_user3.pdf)
   - [Perfil de Usuário](analise-de-requisitos/perfil-de-usuario.md)
   - [Cenários](analise-de-requisitos/cenarios.md)
   - Análise de Tarefas
