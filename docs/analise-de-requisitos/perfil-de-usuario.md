@@ -6,7 +6,7 @@ Para organizar e registrar o entendimento de quem é o usuário, do que ele prec
 
 ## Metodologias
 
-Para definir o perfil do usuário foram utilizadas duas técnicas: Questionário e Entrevista. Com isso, foi desenvolvido um formulário no Google Forms, que foi encaminhado para servidores públicos e estagiários que utilizam o site e a entrevista foi realizada via Discord no dia **13/10/2023**, das **19:00 às 19:15**, tendo o integrante [Lucas Caldas](https://github.com/lucascaldasb) como entrevistador.
+Para definir o perfil do usuário, foram utilizadas duas técnicas: Questionário e Entrevista. Com isso, foi desenvolvido um formulário no Google Forms, que foi encaminhado para servidores públicos e estagiários que utilizam o site e, com base no questionário, alguns usuários foram selecionados para a realização da entrevista, que foi realizada via Discord, individualmente, no dia **13/10/2023**, das **19:00 às 19:15**, tendo o integrante [Lucas Caldas](https://github.com/lucascaldasb) como entrevistador e os usuários abaixo como participantes.
 
 <center>
 
@@ -25,7 +25,7 @@ _Fonte: [Lucas Caldas](https://github.com/lucascaldasb)._
 
 ## Resultado da Entrevista
 
-Os resultados da entrevista foram bem parecidos, visto que os usuários costumam ocupar cargos que utilizam o site de forma semelhante.
+Os resultados da entrevista foram bem parecidos, visto que os usuários costumam ocupar cargos que utilizam o site de forma semelhante. Logo abaixo, segue a lista com algumas perguntas realizadas nas entrevistas com as respostas correspondentes a cada usuário entrevistado.
 
 ### 1 - Qual seu nível de experiência no uso do Portal SEI - GDF?
 
@@ -67,6 +67,23 @@ Os resultados da entrevista foram bem parecidos, visto que os usuários costumam
 
 <span style = "color: #97b927">Cristiano</span>: Ruim. Mudaria a forma de acessos aos processos, pois todos os processo que possuem em meu nome, eu preciso pedir habilitação.
 
+## Resultados do Questionário
+
+### Idades
+
+![image](../imagens/analise-de-requisitos/grafico_idades.png)
+
+### Gêneros
+![image](../imagens/analise-de-requisitos/grafico_generos.png)
+
+### Níveis de experiência com o site
+
+![image](../imagens/analise-de-requisitos/grafico_experiencia.png)
+
+### Respostas se o site atinge os objetivos nas tarefas
+
+![image](../imagens/analise-de-requisitos/grafico_atinge_obj.png)
+
 ## Perfil dos usuários entrevistados
 
 | Usuário                                          | Ocupação         | Idade   | Sexo      |
@@ -96,4 +113,5 @@ Classificação:
 | Versão | Data       | Descrição                            | Autor(es)                                           | Revisor(es) |
 | ------ | ---------- | ------------------------------------ | --------------------------------------------------- | ----------- |
 | `1.0`  | 14/10/2023 | Criação da página Perfil de Usuário. | [Lucas Caldas](https://github.com/lucascaldasb)     | [Artur Ricardo](https://github.com/algorithmorphic) |
-| `1.1`  | 14/10/2023 | Correções e melhorias ortográficas.  | [Artur Ricardo](https://github.com/algorithmorphic) ||
+| `1.1`  | 14/10/2023 | Correções e melhorias ortográficas.  | [Artur Ricardo](https://github.com/algorithmorphic) | [Lucas Caldas](https://github.com/lucascaldasb) |
+| `1.2` | 17/10/2023 | Adição de resultados do questionário e ajuste de textos. | [Lucas Caldas](https://github.com/lucascaldasb) | |
