@@ -168,3 +168,4 @@ GOAL 0: Gerar um documento
 | Versão | Data     | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | -------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
 | `1.0`  | 14/10/23 | Criação do documento | [Felipe de Sousa](https://github.com/fsousac) | [Millena Queiroz](https://github.com/millenaqueiroz) |
+| `2.0`  | 18/10/23 | Inclusão de Tarefas | [João Pedro Veras Gomes](https://github.com/JoosPerro) |  |
