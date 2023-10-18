@@ -127,6 +127,36 @@ GOAL 0: Encontrar Processo
 
 ```
 
+### Gerar Documento (Servidor)
+
+Nessa tarefa, o usuário possui o objetivo de gerar um documento num processo, considerando que ele possui acesso e buscou (ou iniciou) o processo no qual o documento será gerado.
+
+```
+GOAL 0: Gerar um documento
+    GOAL 1: Incluir documento
+        OP 1.1: Selecionar com o mouse ícone de novo documento, representado por uma folha em branco e um sol
+        OP 1.2: Selecionar o ícone verde com o sinal '+' para expandir as opções de tipo do documento
+    GOAL 2: Especificar o documento
+        OP 2.1: Guiar o mouse para a caixa de texto de "Escolha o Tipo de Documento"
+        OP 2.2: Digitar o tipo de documento desejado
+        OP 2.3: Selecionar a sugestão oferecida pelo sistema logo abaixo da caixa de texto
+    GOAL 3: Detalhar o documento
+        OP 3.1: Selecionar uma opção em "Texto Inicial"
+        OP 3.2: (Opcional) Preencher campo "Descrição"
+        OP 3.3: Selecionar uma ou mais opções em "Interessados"
+        OP 3.4: Selecionar uma ou mais opções em "Destinatários"
+        OP 3.5: (Opcional) Selecionar opção em "Classificação por assuntos"
+        OP 3.6: (Opcional) Preencher campo "Observações desta Unidade"
+        OP 3.7: Selecionar opção em "Nível de Acesso"
+        (Sel. Rule: Se o usuário selecionar um nível com restrições, ele deve especificar a hipótese legal)
+            OP 3.8: Selecionar opção em "Hipóteste Legal"
+        OP 3.9: Clicar em "Confirmar Dados"
+        (Sel. Rule: Se os pop-ups estiverem bloqueados, o usuário deve abrir o documento manualmente)
+            OP 3.10: Selecionar ícone "Editar Conteúdo", representado visualmente por um pergaminho e uma caneta
+        OP 3.11: Editar conteúdo do documento
+        
+```
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
