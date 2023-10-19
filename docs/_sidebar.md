@@ -33,3 +33,7 @@
   - Análise de Tarefas
     * [Análise Hierárquica de Tarefas](analise-de-requisitos/analise-de-tarefas/HTA.md)
     * [GOMS](analise-de-requisitos/analise-de-tarefas/GOMS.md)  
+  - [Características da Plataforma](analise-de-requisitos/caract-da-plataforma.md)
+  - [Princípios Gerais do Projeto](analise-de-requisitos/principios-gerais.md)
+  - [Metas de Usabilidade](analise-de-requisitos/metas-de-usabilidade.md)
+  - [Guia de Estilo](analise-de-requisitos/guia-de-estilo.md)
