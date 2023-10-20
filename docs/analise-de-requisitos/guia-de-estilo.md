@@ -32,10 +32,9 @@ A maioria dos usuários acessa a plataforma SEI por meio de computadores. Portan
 
 ## Elementos de Interface
 
-Os elementos sobre disposição espacial e grid, janelas, tipografia, símbolos não tipográficos, cores e animações são apresentados na figura 1.
+Os elementos sobre disposição espacial e grid, janelas, tipografia, símbolos não tipográficos, cores e animações são apresentados no link abaixo.
 
-<figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="" allowfullscreen></iframe><figcaption> Fonte: [Lucas Caldas](https://github.com/lucascaldasb), 2023.</figcaption></figure>
+ - [ACESSE O FIGMA](https://www.figma.com/file/obtciqfCgFJWTQLxIRIOsP/SEi-GDF?type=design&node-id=0%3A1&mode=design&t=mgdYf1KSQFGnCwAr-1)
 
 ## Elementos de Interação
 
@@ -55,7 +54,7 @@ Os campos na interface do sistema necessitam da inserção manual de informaçõ
 
 ### Seleção
 
-Há alguns elementos de seleção como por exemplo seleção de protocolos.
+Há alguns elementos de seleção como por exemplo seleção de protocolos, filtro de pesquisa e seleção de idioma na tela de autenticação de documentos.
 
 ### Ativação
 
