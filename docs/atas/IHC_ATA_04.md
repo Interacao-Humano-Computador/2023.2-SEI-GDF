@@ -29,7 +29,7 @@ Local: Microsoft Teams
 - Correções do gitpages conforme feedback da segunda entrega.
 
 ## Link da gravação:
-- [Link]()
+- [Link](https://youtu.be/l4QrrgmKGg4)
 
 ## Próxima Reunião 
 ### Data: 22/10/2023 às 21h
@@ -38,6 +38,7 @@ Local: Microsoft Teams
 
 | Versão   | Data           | Descrição                                                                | Autor(es)                                        | Revisor(es)                                      |
 | :------: | :------------: | ------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`    | 19/10/2023     | Criação da documentação.                                                 | [Millena](https://github.com/millenaqueiroz)     |              |
+| `1.0`    | 19/10/2023     | Criação da documentação.                                                 | [Millena](https://github.com/millenaqueiroz)     | [Felipe](https://github.com/fsousac)       |
+| `1.1`    | 19/10/2023     | Revisão e inserção do link da gravação                                   | [Felipe](https://github.com/fsousac)             | [Millena](https://github.com/millenaqueiroz)     | 
 
                                           
