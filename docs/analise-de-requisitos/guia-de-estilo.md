@@ -96,5 +96,4 @@ Além disso, foram avaliados outros aspetos cruciais, como o equilíbrio entre o
 
 | Versão  | Data       | Descrição                                                                                       | Autor(es)                                                                                   | Revisor(es)                                                                                         |
 | ------- | ---------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| `1.0`   | 19/10/2023 | Criação da página guia de estilo.                                                               | [Lucas Caldas](https://github.com/lucascaldasb)                                              |                                                         |
-|
+| `1.0`   | 19/10/2023 | Criação da página guia de estilo.                                                               | [Lucas Caldas](https://github.com/lucascaldasb)                                              |          [Felipe de Sousa](https://github.com/fsousac)                                                    |
