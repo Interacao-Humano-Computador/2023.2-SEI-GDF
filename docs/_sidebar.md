@@ -23,11 +23,11 @@
 * Análise de Requisitos
   - Aspectos Éticos
     * [Aspectos Éticos](analise-de-requisitos/aspectos-eticos/aspectos-eticos.md)
-    * [Resolução 466](analise-de-requisitos/aspectos-eticos/reso466.pdf)
+    * [Resolução 466](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/files/13059265/reso466.pdf)
     - Termos Assinados
-      * [Usuário 1](analise-de-requisitos/aspectos-eticos/termo_user1.pdf)
-      * [Usuário 2](analise-de-requisitos/aspectos-eticos/termo_user2.pdf)
-      * [Usuário 3](analise-de-requisitos/aspectos-eticos/termo_user3.pdf)
+      * [Usuário 1](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/files/13059220/termo_user1.pdf)
+      * [Usuário 2](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/files/13059261/termo_user2.pdf)
+      * [Usuário 3](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/files/13059263/termo_user3.pdf)
   - [Perfil de Usuário](analise-de-requisitos/perfil-de-usuario.md)
   - [Cenários](analise-de-requisitos/cenarios.md)
   - Análise de Tarefas
