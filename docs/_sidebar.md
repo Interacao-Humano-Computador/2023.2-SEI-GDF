@@ -5,6 +5,8 @@
   - [Reunião 00](atas/IHC_ATA_00.md)
   - [Reunião 01](atas/IHC_ATA_01.md)
   - [Reunião 02](atas/IHC_ATA_02.md)
+  - [Reunião 03](atas/IHC_ATA_03.md)
+  - [Reunião 04](atas/IHC_ATA_04.md)
 
 * Planejamento
 
