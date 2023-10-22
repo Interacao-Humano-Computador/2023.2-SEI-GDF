@@ -113,11 +113,13 @@ A expressão "Meu Painel", não está em acordo com a máxima da relação ou re
 
 ### Definição
 
-Dado que tanto o usuário quanto o sistema são passíveis de erro, o sistema deve se preparar para os potenciais erros que podem ocorrer. Sendo assim, tal preparação deve informar a ocorrência do erro ao usuário e instruir como reverter a possível perda ou ação indesejada. Além disso, ações irreversíveis devem requisitar uma confirmação persistente do usuário<a id="anchor_1" href="#REF1">^1^</a>.
+O designer deve considerar que o usuário comete erros e precisa ser capaz de se recuperar deles. O usuário não deve sentir receio de explorar a plataforma por conta de um resultado indesejado que tenha consequências permanentes. Sendo assim, o sistema deve procidenciar formas de desfazer ações, e para ações irreversíveis, requerir confirmação persistente. Além disso, é recomendável separar botões utilizados com frequência dos que são raramente utilizados ou perigosos <a id="anchor_1" href="#REF1">^1^</a>.
 
 ### Violação
 
-Durante o processo de alteração de email, não foi apresentada ao usuário qualquer mensagem de confirmação adicional, ou seja o usuário poderia clicar sem querer no botão de confirmação o que resulatria em email alterado sem que esse fosse o objetivo do usuário, como mostrado nas Figuras 13 e 14.
+Durante o processo de alteração de email, não foi apresentada ao usuário qualquer mensagem de confirmação adicional, ou seja, o usuário poderia clicar sem querer no botão de confirmação o que resulatria em email alterado sem que esse fosse o objetivo do usuário, como mostrado nas Figuras 13 e 14.
+
+Outra violação ocorre na funcionalidade de edição de um documento. Uma janela separada é aberta, onde o usuário pode fazer alterações no documento. Entretanto, é possível fechar essa janela sem que o sistema peça confirmação do usuário. O usuário pode então perder todo seu trabalho que foi empregado naquele documento desde que começou a edição.
 
 ## Bibliografia
 
