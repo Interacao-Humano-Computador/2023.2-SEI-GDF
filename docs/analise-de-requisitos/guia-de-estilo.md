@@ -14,7 +14,7 @@ O propósito deste guia de estilo é oferecer diretrizes e melhores práticas pa
 
 ### Público-alvo do Guia de Estilo
 
-Este guia de estilo foi criado com a finalidade de satisfazer as necessidades de diversos grupos, incluindo estagiários, servidores públicos, advogados e usuários externos que interagem com o site, bem como a equipe de design e desenvolvedores do SEI GDF que possam demonstrar interesse no documento. Através dele, os envolvidos têm a capacidade de fundamentar suas decisões de design com base em diretrizes e práticas recomendadas, como mencionadas em [Metas de Usabilidade]() e os [Princípios Gerais]().
+Este guia de estilo foi criado com a finalidade de satisfazer as necessidades de diversos grupos, incluindo estagiários, servidores públicos, advogados e usuários externos que interagem com o site, bem como a equipe de design e desenvolvedores do SEI GDF que possam demonstrar interesse no documento. Através dele, os envolvidos têm a capacidade de fundamentar suas decisões de design com base em diretrizes e práticas recomendadas, como mencionadas em [Metas de Usabilidade](analise-de-requisitos/metas-de-usabilidade) e os [Princípios Gerais](analise-de-requisitos/principios-gerais.md).
 
 ### Como utilizar o Guia
 
@@ -28,7 +28,7 @@ Este guia de estilo se presta como um ponto de referência válido para a tomada
 
 ### Descrição do Ambiente de Trabalho do Usuário
 
-A maioria dos usuários acessa a plataforma SEI por meio de computadores. Portanto, é de extrema importância levar em conta as particularidades desses dispositivos durante o processo de design e desenvolvimento da interface do sistema, assegurando uma experiência de usuário satisfatória e eficaz para aqueles que utilizam a plataforma nessas plataformas. Isso requer a adaptação da interface para diferentes tamanhos de tela, a escolha de elementos visuais apropriados e a implementação de funcionalidades que sejam intuitivas e facilmente acessíveis para os usuários. Por fim, a Figura 1 apresenta os elementos de interface de forma explícita.
+A maioria dos usuários acessa a plataforma SEI por meio de computadores. Portanto, é de extrema importância levar em conta as particularidades desses dispositivos durante o processo de design e desenvolvimento da interface do sistema, assegurando uma experiência de usuário satisfatória e eficaz para aqueles que utilizam a plataforma. Isso requer a adaptação da interface para diferentes tamanhos de tela, a escolha de elementos visuais apropriados e a implementação de funcionalidades que sejam intuitivas e facilmente acessíveis para os usuários.
 
 ## Elementos de Interface
 
@@ -74,19 +74,6 @@ As telas aderem a um estilo simples e minimalista, mantendo uma uniformidade not
 
 As sequências mantêm uma consistência, apresentando botões de confirmação e cancelamento que são uniformes em várias páginas.
 
-## Propostas de Intervenção
-
-As sugestões de melhorias foram elaboradas tendo como base as diretrizes estabelecidas no projeto do SEI GDF, incluindo as Metas de Usabilidade e os Princípios Gerais. Estas orientações foram empregadas como um ponto de referência para identificar áreas que precisam de aperfeiçoamento e para formular recomendações com o intuito de aprimorar a usabilidade e a experiência do usuário.
-
-### Metas de Usabilidade
-
-Foram levantados pontos específicos que podem ser aprimorados no sistema. Para a meta de utilidade, foi proposto o botão de filtro em que o usuário verá eventos do próprio estado com mais facilidade de acordo com data, localidade, público alvo e preço. Para a meta de segurança, será pedida para o usuário confirmar ações consideradas críticas, como cancelar um pedido. Para a meta de eficiência, serão introduzidos elementos que auxiliem os usuários a realizarem as suas tarefas como a quantidade de ingressos restantes.
-
-### Princípios Gerais
-
-Foram consideradas alterações que visam aderir aos princípios de consistência, feedback, prevenção de erros, flexibilidade e simplicidade. Por exemplo, para aprimorar a consistência, procedeu-se à padronização de elementos visuais e interações em todo o sistema, simplificando a compreensão e navegação do usuário por diferentes partes da aplicação.
-
-Além disso, foram avaliados outros aspetos cruciais, como o equilíbrio entre o controle e a liberdade do usuário e a correspondência com as expectativas do usuário. Quanto ao primeiro aspeto, notou-se que o site permite apenas o filtro por estado, sem disponibilizar opções adicionais, como categoria, data e local. Em relação ao segundo ponto, identificou-se que o botão que representa um localizador é meramente uma imagem e não possui funcionalidade, o que poderia induzir o usuário a cometer erros, não atendendo às suas expectativas.
 
 ## Referências Bibliográficas
 
@@ -97,3 +84,4 @@ Além disso, foram avaliados outros aspetos cruciais, como o equilíbrio entre o
 | Versão  | Data       | Descrição                                                                                       | Autor(es)                                                                                   | Revisor(es)                                                                                         |
 | ------- | ---------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | `1.0`   | 19/10/2023 | Criação da página guia de estilo.                                                               | [Lucas Caldas](https://github.com/lucascaldasb)                                              |          [Felipe de Sousa](https://github.com/fsousac)                                                    |
+| `1.1`   | 22/10/2023 | Ajustes da página guia de estilo.                                                               | [Lucas Caldas](https://github.com/lucascaldasb)                                              |                                                              |
