@@ -166,6 +166,8 @@ Como mostrado na Figura 8, o sistema não indica nenhum aviso ao pesquisar sem e
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+> MELO, Arthur; CAMPELO, Gabriel. Princípios Gerais. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/>. Acesso em: 22 de outubro 2023.
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> NORMAN, Don. The Psychology Of Everyday Things. Basic Books, New York, illustrated edition, 1988.
