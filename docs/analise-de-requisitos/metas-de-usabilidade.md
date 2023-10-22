@@ -23,7 +23,8 @@ Sem metas definidas nesse aspecto.
 No que tange a eficiência, o suporte para o usário é escasso, não possui recursos de acesseibilidade como suporte para pessoas com dificuldades visuais, ou a plataforma é minimalista demais ou muito poluída. A navgação da plataforma não é muito intuitivas, botões não são tão bem vizualizados.
 Uma das metas definidas foi o aprimoramento do design visando melhorar a experiência do usuário final.
 Temos aqui um exemplo de uma tela de cadastro de usuário, que demonstra a falta de um design intuitivo como o do botão "clique aqui para continuar" e o quanto a tela fica poluída.
- <img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/blob/main/docs/imagens/tela_exemplo_cadastro.jpg" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/blob/main/docs/imagens/tela_exemplo_cadastro.jpg" alt="image">
+ ![tela_exemplo_cadastro](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/96022527/cf2835c0-2e2b-4d18-8a81-dedb865fa1cb)
+
  Figura 1 - fonte: SEI! GDF 
 
 
