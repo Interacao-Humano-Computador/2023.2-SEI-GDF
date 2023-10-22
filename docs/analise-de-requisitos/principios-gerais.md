@@ -39,6 +39,7 @@ O planejamento e a resolução de problemas requisitados devem ser reduzidos a f
 Uma violação da Simplicidade nas Estruturas das Tarefas é claramente visível ao tentermos criar uma conta no SEI-GDF como usuário externo, sendo necessário preencher um formulário muito extenso, como mostrado na Figura 2, além disso ainda é necessário fazer uma autênticação pessoal para a criação da conta, dando uma complexidade muito grande para a tarefa.
 
 <font size="3"><p style="text-align: center"><b>Figura 2</b> - Violação da Simplicidade nas Estruturas das Tarefas.</p></font>
+
 <center>
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/c2fa1aaf-b258-42c7-843d-bfe7c1644ee4" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/c2fa1aaf-b258-42c7-843d-bfe7c1644ee4">
 </center>
@@ -52,7 +53,14 @@ A partir da ideia de que o usuário é o proprietário do computador, da interfa
 
 ### Violação
 
-Neste tópico, o principal entrave é a liberdade do usuário, o site não permite ao usuário aprimorar sua busca de diversas formas, o único filtro aplicável é o de Estado e a busca não pode ser reorganizada pelo usuário. Por exemplo, ele não pode ordenar por data ou por preço. O padrão não muda e é sempre: por data, sendo em ordem e listando os resultados de acordo com a data mais recente, como demonstrado na Figura 4.
+Neste tópico, o principal entrave é a liberdade do usuário, o site não permite ao usuário aprimorar sua busca para uma melhor organização, a busca não pode ser reorganizada pelo usuário. Por exemplo, ele não pode ordenar por data ou por região de origem. O padrão não muda e é sempre: por número do documento, como demonstrado na Figura 3.
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Violação do Equilíbrio entre Controle e Liberdade do Usuário.</p></font>
+
+<center>
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/584220f3-e970-42f6-a9b7-f8cb2c4f75a6" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/584220f3-e970-42f6-a9b7-f8cb2c4f75a6">
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> ScreenShot da tela de pesquisa como servidor em um exemplo de busca por tipo de documento (Acesso em: 22 de outubro 2023).</p></font>
 
 ## Consistência e Padronização
 
@@ -62,7 +70,14 @@ Com o intuito de facilitar o aprendizado e o uso de um sistema, recomenda-se um 
 
 ### Violação
 
-Ao comprar um ingresso o qual permite a escolha de uma poltrona, o site, para selecionar a poltrona, abre um pop-up com o mapa. Diferente de outros diversos elementos do site, o mapa não fica centralizado na tela, ele aparece alinhado à esquerda. Além disso, pode-se visualizar na Figura 5, o mapa é mostrado em uma página completamente diferente dos demais elementos do site.
+Ao entrar no site, vemos as opções do menu de cidadão e servidor, e abaixo vemos as notícias do SEI, as quais estão em um padrão de escala diferentes do resto do site. Violando o princípio, como mostra a Figura 4.
+
+<font size="3"><p style="text-align: center"><b>Figura 4</b> - Violação da Consistência e Padronização.</p></font>
+
+<center>
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/ea791716-fea0-42be-9d3f-356fd2124def" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/ea791716-fea0-42be-9d3f-356fd2124def">
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> ScreenShot da tela inicial do SEI-GDF mostrando a falta de padronização nas escalas do site (Acesso em: 22 de outubro 2023).</p></font>
 
 ## Promoção da Eficiência do Usuário
 
@@ -72,7 +87,14 @@ O espectro predominante neste tópico é o econômico. Sendo assim, a eficiênci
 
 ### Violação
 
-Na aba de "Central de ajuda", o usuário ao yenatr retornar à página inicial, clicando na logo do site, é impedido de efetuar essa operação, sendo, portanto, obrigado à utiliazar o botão de retorno do navegador como mostrado na Figura 6. Isso pode causar estranhesa ao consumidor e afetar a eficiência das operções realizadas no site. Outro problema encontrado foi durante o processo de compra. Ao descer a página de um evento podemos encontrar uma funcionalidade destinada à visualizar o local do evento. No entanto essa funcionalidade não abre corretamente no site do Google Maps, como mostrado na figura 7.
+Neste tópico, o principal entrave é a liberdade do usuário, o site não permite ao usuário a volta à página inicial, uma vez que foi iniciado um processo como servidor. Ferindo o princípio e forçando o usuário a terminar a tarefa imediatamente como mostrado na figura 5.
+
+<font size="3"><p style="text-align: center"><b>Figura 5</b> - Violação da Promoção da Eficiência do Usuário.</p></font>
+
+<center>
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/887e70ec-bcce-496e-af34-74fe89b04550" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/887e70ec-bcce-496e-af34-74fe89b04550">
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> ScreenShot da tela de Iniciar processo como Servidor (Acesso em: 22 de outubro 2023).</p></font>
 
 ## Antecipação
 
@@ -82,7 +104,14 @@ Todo o tipo de informação essencial ao usuário naquele determinado momento de
 
 ### Violação
 
-Durante o uso do site, mesmo o usuário tendo se cadastrado e informado seu endereço, a página inicial continua com eventos do estado de São Paulo como padrão, para acessar eventos da sua região o próprio usuário deve selecionar seu estado, como mostardo nas Figuras 8 e 9.
+Ao interagir com um processo, naturalmente é esperado que o servidor irá abri-lo mais vezes com o tempo. Entretanto, o site não disponibiliza nenhuma aba relacionada com "processos recentes" que demonstraria quais processos o usuário acessou recentemete, sendo mandatória uma busca do usuário sempre que deseja conferir um processo. Ferindo, portanto, o princípio da Antecipação como mostra a Figura 6.
+
+<font size="3"><p style="text-align: center" id="FIG6"><b>Figura 6</b> - Violação da Antecipação.</p></font>
+
+<center>
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/06dfc959-4e81-4580-af07-95d846330fa9" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/06dfc959-4e81-4580-af07-95d846330fa9">
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> ScreenShot da tela inicial do acesso como Servidor no SEI (Acesso em: 22 de outubro 2023).</p></font>
 
 ## Visibilidade e Reconhecimento
 
@@ -92,7 +121,7 @@ Antes que uma ação seja executada, o usuário precisa ter uma visão prévia d
 
 ### Violação
 
-Na central de ajuda, na aba de "Política de Privacidade", existe um link associado ao título da página que abre informações redundantes, como mostrado na Figura 10. Além disso, o site não apresenta informações essenciais para a completude do processo de compra, como por exemplo a chave pix necessária para efetuar o pagamento, apresentado na Figura 11.
+Também na página inicial do sevidor, temos o menu lateral e uma série de ícones para realizar ações dentro do site. No entanto, a parte de ícones é bem desconexa da função que o botão exerce e a área do menu lateral não possui nenhum ícone que facilite a pre-visualização do que cada opção realiza, cabendo ao usuário aprender sobre cada coisa, o que fere o princípio como mostra também a <a id="anchor_fig6" href="#FIG6">Figura 6</a>.
 
 ## Conteúdo Relavante e Expressão Adequada
 
@@ -107,19 +136,31 @@ Para o tópico de Conteúdo Relavante e Expressão Adequada, destacam-se quatro 
 
 ### Violação
 
-A expressão "Meu Painel", não está em acordo com a máxima da relação ou relevância. Tendo em vista que não é uma expressão comumente utilizada para apresentar as informações do usuário cadastrado, como mostrado na Figura 12.
+Algumas áreas do menu lateral não tem um nome de fácil entendimento para cada área. Por exemplo, Base de conhecimento, Pontos de controle, etc. Demonstrando, portanto, a violação das expressões adequadas, ferindo o princípio como mostra a Figura 7.
+
+<font size="3"><p style="text-align: center"><b>Figura 7</b> - Violação da Conteúdo Relavante e Expressão Adequada.</p></font>
+
+<center>
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/8eeedde8-ce8e-4a31-94d6-98a65b1d8fa4" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/8eeedde8-ce8e-4a31-94d6-98a65b1d8fa4">
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> ScreenShot da aba lateral da página inicial do SEI-GDF (Acesso em: 22 de outubro 2023).</p></font>
 
 ## Projeto para Erros
 
 ### Definição
 
-O designer deve considerar que o usuário comete erros e precisa ser capaz de se recuperar deles. O usuário não deve sentir receio de explorar a plataforma por conta de um resultado indesejado que tenha consequências permanentes. Sendo assim, o sistema deve procidenciar formas de desfazer ações, e para ações irreversíveis, requerir confirmação persistente. Além disso, é recomendável separar botões utilizados com frequência dos que são raramente utilizados ou perigosos <a id="anchor_1" href="#REF1">^1^</a>.
+Dado que tanto o usuário quanto o sistema são passíveis de erro, o sistema deve se preparar para os potenciais erros que podem ocorrer. Sendo assim, tal preparação deve informar a ocorrência do erro ao usuário e instruir como reverter a possível perda ou ação indesejada. Além disso, ações irreversíveis devem requisitar uma confirmação persistente do usuário<a id="anchor_1" href="#REF1">^1^</a>.
 
 ### Violação
 
-Durante o processo de alteração de email, não foi apresentada ao usuário qualquer mensagem de confirmação adicional, ou seja, o usuário poderia clicar sem querer no botão de confirmação o que resulatria em email alterado sem que esse fosse o objetivo do usuário, como mostrado nas Figuras 13 e 14.
+Como mostrado na Figura 8, o sistema não indica nenhum aviso ao pesquisar sem especificar algum filtro e retorna o mesmo site sem respostas, fato que pode causar ao usuário uma confusão sobre o status do sistema, e ferindo, portanto, o princípio do Projeto para Erros.
 
-Outra violação ocorre na funcionalidade de edição de um documento. Uma janela separada é aberta, onde o usuário pode fazer alterações no documento. Entretanto, é possível fechar essa janela sem que o sistema peça confirmação do usuário. O usuário pode então perder todo seu trabalho que foi empregado naquele documento desde que começou a edição.
+<font size="3"><p style="text-align: center"><b>Figura 8</b> - Violação do Projeto para Erros.</p></font>
+
+<center>
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/26de2298-6993-487a-b42c-88ac1b379ec4" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/26de2298-6993-487a-b42c-88ac1b379ec4">
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> ScreenShot da tela de pesquisa como servidor após realizar uma pesquisa sem filtros (Acesso em: 22 de outubro 2023).</p></font>
 
 ## Bibliografia
 
@@ -137,6 +178,7 @@ Outra violação ocorre na funcionalidade de edição de um documento. Uma janel
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                           | Autor(es)                                     | Revisor(es)                                    |
-| ------ | ---------- | ----------------------------------- | --------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 20/10/2023 | Documentação dos Princípios Gerais. | [Felipe de Sousa](https://github.com/fsousac) | [Caio Mesquita](https://github.com/caiomesvie) |
+| Versão | Data       | Descrição                                  | Autor(es)                                     | Revisor(es)                                    |
+| ------ | ---------- | ------------------------------------------ | --------------------------------------------- | ---------------------------------------------- |
+| `1.0`  | 20/10/2023 | Documentação dos Princípios Gerais.        | [Felipe de Sousa](https://github.com/fsousac) | [Caio Mesquita](https://github.com/caiomesvie) |
+| `1.1`  | 22/10/2023 | Finalização da Documentação dos princípios | [Felipe de Sousa](https://github.com/fsousac) | [João Pedro](https://github.com/JoosPerro.png) |
