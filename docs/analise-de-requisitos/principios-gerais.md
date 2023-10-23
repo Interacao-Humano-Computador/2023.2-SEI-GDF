@@ -1,3 +1,5 @@
+# Princípios Gerais do Projeto
+
 ## Introdução
 
 Para que um modelo conceitual seja eficaz, ele deve seguir princípios e diretrizes gerais que facilitem a aprendizagem e o uso por parte dos usuários. Esses princípios e diretrizes incluem: Restrições: O design deve ajudar os usuários a entender quais ações são possíveis em um determinado momento. Isso pode ser feito usando restrições, como limites de tempo ou condições de entrada; Clareza visual: O design deve tornar os aspectos importantes do sistema visualmente claros. Isso pode ser feito usando cores, ícones e outros elementos visuais para representar conceitos e ações; Mapeamentos naturais: O design deve usar mapeamentos naturais entre as intenções dos usuários, as ações necessárias, os efeitos das ações e a interpretação do estado do sistema. Isso torna o sistema mais fácil de aprender e usar.<a id="anchor_1" href="#REF1">^1^</a>.
