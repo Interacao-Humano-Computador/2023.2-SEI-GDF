@@ -12,7 +12,7 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Segunda Entr
 
 Nesta apresentação, demonstrou-se o que foi foi realizado para a segunda entrega da disciplina, a qual foi planejada sob os critérios estabelecidos no plano de ensino disponibilizado pelo professor. Estes critérios estão explicitados na Tabela 1 a seguir:
 
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> - Critérios para a Entrega 2.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Critérios para a Entrega 2.</p></font>
 
 | Questão | Resposta |
 |---|:---:|
