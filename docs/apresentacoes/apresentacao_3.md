@@ -32,10 +32,10 @@ Nesta apresentação, demonstrou-se o que foi foi realizado para a terceira entr
 |13 - As metas de usabilidade que devem ser alcançadas no projeto?|**Sim** |
 |14 - A razão da seleção das metas de usabilidade?|**Sim** |
 |15 - O Guia de Estilo do projeto?|**Sim** |
-|16 - O Guia de Estilo do projeto possui a seguinte estrutura:</br>• 1. Introdução (com Objetivo do guia de estilo, Organização e conteúdo do guia de estilo, Público-alvo do guia de estilos (programadores, gerentes, equipe de suporte), Como utilizar o guia (em produção e manutenção), Como manter o guia </br>• 2. Resultados de análise • Descrição do ambiente de trabalho do usuário </br>• 3. Elementos de interface • Disposição espacial e grid • Janelas • Tipografia • Cores </br>• 4. Elementos de interação - • Estilos de interação • Seleção de um estilo • Aceleradores (teclas de atalho) </br>• 5. Elementos de ação • Preenchimento de campos • Seleçã • Ativação </br>• 6. Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)|**Sim** |
+|16 - O Guia de Estilo do projeto possui a seguinte estrutura:</br>• 1. Introdução (com Objetivo do guia de estilo, Organização e conteúdo do guia de estilo, Público-alvo do guia de estilos (programadores, gerentes, equipe de suporte), Como utilizar o guia (em produção e manutenção), Como manter o guia </br>• 2. Resultados de análise • Descrição do ambiente de trabalho do usuário </br>• 3. Elementos de interface • Disposição espacial e grid • Janelas • Tipografia • Cores </br>• 4. Elementos de interação - • Estilos de interação • Seleção de um estilo • Aceleradores (teclas de atalho) </br>• 5. Elementos de ação • Preenchimento de campos • Seleção • Ativação </br>• 6. Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)|**Sim** |
 |17 - O Guia de Estilo corresponde ao site avaliado?|**Sim** |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Youtube (Acesso em: 22 de outubro 2023).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Plano de Ensino da Disciplina (Acesso em: 22 de outubro 2023).</p></font>
 
 ## Histórico de Versões
 
