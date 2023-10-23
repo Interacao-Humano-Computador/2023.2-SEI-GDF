@@ -10,7 +10,9 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Segunda Entr
 
 <font size="3"><p style="text-align: center">Fonte: YouTube (Acessado em: 15/10/2023).</p></font>
 
-Nesta apresentação, demonstrou-se o que foi foi realizado para a primeira entrega da disciplina, a qual foi planejada sob os critérios estabelecidos no plano de ensino disponibilizado pelo professor. Estes critérios estão explicitados na Tabela 1 a seguir:
+Nesta apresentação, demonstrou-se o que foi foi realizado para a segunda entrega da disciplina, a qual foi planejada sob os critérios estabelecidos no plano de ensino disponibilizado pelo professor. Estes critérios estão explicitados na Tabela 1 a seguir:
+
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> - Critérios para a Entrega 2.</p></font>
 
 | Questão | Resposta |
 |---|:---:|
@@ -36,7 +38,7 @@ Nesta apresentação, demonstrou-se o que foi foi realizado para a primeira entr
 |19 - Ao menos duas técnicas para especificar as tarefas? </br> • O HTA com diagrama, legenda e representação em tabela). </br> • GOMS (Goals, Operators, Methods, and Selection Rules) representado pelos modelos: KLM, CMNGOMS, CPM-GOMS, CTT|**Sim** |
 |20 - Utilizaram alguma técnica para especificar as tarefas? |**Sim** |
 
-<font size="3"><p style="text-align: center">Tabela 1: Critérios para a Entrega 2 (Fonte: Plano de Ensino da Disciplina, 15/10/2023).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Plano de Ensino da Disciplina (Acesso em: 15 de outubro 2023).</p></font>
 
 ## Histórico de Versões
 
