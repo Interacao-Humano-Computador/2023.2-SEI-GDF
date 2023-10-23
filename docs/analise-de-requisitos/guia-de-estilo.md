@@ -1,3 +1,5 @@
+# Guia de Estilo
+
 ## Introdução
 
 De acordo com Barbosa e Silva (2011, p.282)<a id="anchor_1" href="#REF1">^1^</a>, o guia de estilo desempenha o papel de um registro das principais escolhas de design, assegurando que essas decisões sejam devidamente incorporadas no produto final. Além disso, ele funciona como um meio de comunicação com os stakeholders da equipe. Isso realça a importância crucial de manter as decisões acessíveis e abertas à discussão para projeções futuras e possíveis atualizações.
