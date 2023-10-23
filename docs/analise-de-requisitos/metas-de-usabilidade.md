@@ -30,8 +30,8 @@ Temos aqui um exemplo de uma tela de cadastro de usuário, que demonstra a falta
 <hr>
 
 ### Segurança
-No aspecto segurança, a plataforma é bem estruturada, o usuário pode cancelar operações caso veja risco, voltar etapas, é uma plataforma segura em geral. 
-Sem metas definidas nesse aspecto.
+No aspecto segurança, a plataforma restringe um pouco a liberdade do usuário, ela abre novas guias toda vez em que há o pulo de uma etapa para uma nova em alguma tarefa que esteja ocorrendo, abrindo margem para erros do usuário e retirando a possiblidade de voltar em etapas.
+Uma das metas definidas é a criação de opções para que os usuários possam controlar melhor as etapas de processos que estejam ocorrendo sem precisar usar a opção de voltar do navegador ou saídas de emergência e recomeçar uma tarefa.
 <hr>
 
 ### Utilidade
@@ -45,18 +45,19 @@ Uma das metas definidas é melhorar a usabilidade da plataforma e a deixar com u
 <hr>
 
 ### Memorização
-Ao falar da memorização, o viés segue o mesmo princípio da aprendizagem, em que a plataforma sendo pouco intuitiva, ao ficar muito tempo sem lidar com ela, há grandes chances de ocorrer esquecimentos e dificudldes em se relembrar das funcionalides.
-Uma das metas definidas é o aprimoramento do design visando uma plataforma intuitiva para que ao ser utilizada após certo tempo, não seja necessário muito esforço para relembrar das funcionalidades.
+Quando falado da memorização, já é um processo que não deverá apresentar problemas, dado a natureza do usuário e do tipo de uso da plataforma, para servidores o uso constante acaba por dificultar o esquecimento, mesmo que sejam muitas funções, já para o usuário cidadão, não há muitas funcionalidades disponíveis que provoquem o esquecimento em um uso esporádico.
+Sem metas definidas neste aspecto.
 <hr>
 
 ## Conclusão
-As metas que verificamos como consideradas as principais são **Eficiência, Aprendizagem e memorização**. Ao analisar os problemas vemos que as metas são mais voltadas para uma reforma mais estética visando aprimoramentos para que a plataforma fique mais fácil, intuitiva e prática para o usuário final. 
+As metas que verificamos como consideradas as principais são **Eficiência, Aprendizagem  e Segurança**. Ao analisar os problemas vemos que as metas são mais voltadas para uma reforma mais estética visando aprimoramentos para que a plataforma fique mais fácil, intuitiva e prática para o usuário final. 
 
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versôes
 
-| Versão  | Data       | Descrição                                                                                       | Autor(es)                                                                                   | Revisor(es)                                                                                         |
-| ------- | ---------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| `1.0`   | 22/10/2023 | Criação da página Metas de usabilidade.                                                         | [Caio Mesquita](https://github.com/Caiomesvie)                                              |          [Lucas Caldas](https://github.com/lucascaldasb)                                                  |
+| Versão | Data       | Descrição                                       | Autor(es)                                                                                     | Revisor(es)                                      |
+| ------ | ---------- | ----------------------------------------------- | ------------------------------------------------| ------------------------------------------------ |
+| `1.0`  | 22/10/2023 | Criação da página de metas de usabilidade. | [Caio Mesquita](https://github.com/Caiomesvie)  | [Lucas Caldas](https://github.com/lucascaldasb)
+| `1.1`  | 22/10/2023 | Correções na página. | [Caio Mesquita](https://github.com/Caiomesvie)  | [Lucas Caldas](https://github.com/lucascaldasb) 
