@@ -45,5 +45,5 @@ A seguir serão listadas as limitações e características negativas do site:
 
 | Versão | Data     | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | -------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 21/10/23 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) |  |
-| `1.1`  | 21/10/23 | Reorganização da disposição das informações | [Millena Queiroz](https://github.com/millenaqueiroz) |  |
+| `1.0`  | 21/10/23 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) | [Lucas Caldas](https://github.com/lucascaldasb) |
+| `1.1`  | 21/10/23 | Reorganização da disposição das informações | [Millena Queiroz](https://github.com/millenaqueiroz) | [Lucas Caldas](https://github.com/lucascaldasb) |
