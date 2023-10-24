@@ -2,11 +2,11 @@
 ## introdução
 
 O Artefato de metas de usabilidade é caracterizado pela definição de quais fatores de qualidade de uso devem ser priorizados ao longo do projeto e como será a avaliação dos mesmos durante o processo de design. É também avaliado a questão dos valores de aceitação dos indicadores de interesse <a id="anchor_1" href="#REF1">^1^</a>.
-As metas de usabilidade do sistema SEI! vão ser baseadas nos perfis de usuários que são os servidores e os que trabalham com a plataforma, e os cidadãos que abrem as queixas na plataforma.
-## Defineção das Metas
+As metas de usabilidade do sistema SEI! vão ser baseadas nos perfis de usuários que são os servidores que trabalham com a plataforma, e os cidadãos que abrem as queixas na plataforma.
+## Definição das Metas
 Segundo o autor Jacob Nielsen as metas de usabilidade principais são: Eficácia, Eficência, Segurança, Utilidade, Aprendizagem e Memorização. A seguir vem a definição de cada uma delas:
 
-- **Eficácia:** Definido como o quâo bem o objeto faz aquilo que ele foi proposto a realizar
+- **Eficácia:** Definido como o quão bem a ferramenta faz aquilo que ela foi proposta a realizar
 - **Eficiência:** Diz Respeito ao quanto o sistema dá suporte ao usuário para que ele realize a tarefa que almeja 
 - **Segurança:** É voltada para a proteção do usuário contra situações de risco ou indesejadas, situações como quando o usuário comete um erro e o que o sistema pode fazer a respeito das consequências deste erro
 - **Utilidade:** Dita as funções disponibilizadas ao usuário pelo sistema para que ele realize as tarefas desejadas
