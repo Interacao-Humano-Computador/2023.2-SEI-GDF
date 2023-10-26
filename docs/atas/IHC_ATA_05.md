@@ -30,7 +30,7 @@ Local: Microsoft Teams
 - Correções do gitpages conforme feedback da terceira entrega.
 
 ## Link da gravação:
-- [Link]()
+- [Link](https://youtu.be/sfc8a0WpQEQ)
 
 ## Próxima Reunião 
 ### Data: 28/10/2023 às 10:00 (Teste piloto)
