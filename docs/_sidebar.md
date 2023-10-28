@@ -8,6 +8,11 @@
   - [Reunião 03](atas/IHC_ATA_03.md)
   - [Reunião 04](atas/IHC_ATA_04.md)
 
+* Apresentações
+  - [Apresentação 1](apresentacoes/apresentacao_1.md)
+  - [Apresentação 2](apresentacoes/apresentacao_2.md)
+  - [Apresentação 3](apresentacoes/apresentacao_3.md)
+
 * Planejamento
 
   - [Heatmap](planejamento/heatmap.md)
@@ -17,11 +22,6 @@
   - [Ferramentas](planejamento/ferramentas.md)
   - [Sites avaliados](planejamento/sites-avaliados.md)
   - [Site escolhido](planejamento/site-escolhido.md)
-
-* Apresentações
-  - [Apresentação 1](apresentacoes/apresentacao_1.md)
-  - [Apresentação 2](apresentacoes/apresentacao_2.md)
-  - [Apresentação 3](apresentacoes/apresentacao_3.md)
 
 * Análise de Requisitos
   - Aspectos Éticos
@@ -40,3 +40,7 @@
   - [Princípios Gerais do Projeto](analise-de-requisitos/principios-gerais.md)
   - [Metas de Usabilidade](analise-de-requisitos/metas-de-usabilidade.md)
   - [Guia de Estilo](analise-de-requisitos/guia-de-estilo.md)
+
+* Design, Avaliação e Desenvolvimento
+  - Análise de Tarefas
+    * [Planejamento da avaliação de análise de tarefas](design-avaliacao-desenvolvimento/analise-tarefas/planejamento-avaliacao-analise-tarefas.md)
