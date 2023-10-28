@@ -7,6 +7,8 @@
   - [Reunião 02](atas/IHC_ATA_02.md)
   - [Reunião 03](atas/IHC_ATA_03.md)
   - [Reunião 04](atas/IHC_ATA_04.md)
+  - [Reunião 05](atas/IHC_ATA_05.md)
+
 
 * Apresentações
   - [Apresentação 1](apresentacoes/apresentacao_1.md)
