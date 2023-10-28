@@ -81,18 +81,16 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 - Horário de início e fim;
 - Local e data que ocorreu a entrevista.
 
-As gravações e resultados de cada entrevista podem ser encontrandas [AQUI]()
-
 <center>
 
 **Tabela 2** - Cronograma da entrevista.
 
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
-| [Caio Mesquita](https://github.com/Caiomesvie) |  Caio Mesquita  |       16:40       |     16:45      | 27/05/2023 | Plataforma Google Meet  |
-| [Felipe de Sousa](https://github.com/fsousac)  | Felipe de Sousa |       20:40       |     20:50      | 27/05/2023 | Plataforma Google Meets |
-| [Millena Queiroz](https://github.com/dougAlvs) | Millena Queiroz |       22:00       |     22:10      | 27/05/2023 |   Plataforma Discord    |
-| [Lucas Caldas](https://github.com/arthurmlv)   |  Lucas Caldas   |       22:00       |     22:50      | 27/05/2023 |   Plataforma Discord    |
+| [Caio Mesquita](https://github.com/Caiomesvie) |  Caio Mesquita  |               |            |   |    |
+| [Felipe de Sousa](https://github.com/fsousac)  | Felipe de Sousa |       15:00       |     15:15      | 31/10/2023 |      Pessoalmente       |
+| [Millena Queiroz](https://github.com/dougAlvs) | Millena Queiroz |               |            |   |        |
+| [Lucas Caldas](https://github.com/arthurmlv)   |  Lucas Caldas   |               |            |   |        |
 
 **Fonte** - _[Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README)_
 
@@ -160,9 +158,9 @@ Dito isso, a execução do teste-piloto será feito no dia 28/10/2023 às 10:00 
 
 Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Felipe de Sousa](https://github.com/fsousac) fez papel de entrevistadora e [Millena Queiroz](https://github.com/millenaqueiroz) de usuária. (adicionar descrição do erro)
 
-<p style="text-align: center"><a href="https://www.youtube.com/embed/CkPpON50eco" target="blanket">Clique aqui (adicionar link)</a></p>
+<p style="text-align: center"><a href="https://youtu.be/N8SR8_KHAt4" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center">adicionar o iframe do vídeo</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/N8SR8_KHAt4?si=iMVcKfENp41varm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac) e [Millena Queiroz](https://github.com/millenaqueiroz).</p></font>
 
