@@ -112,6 +112,59 @@ Regras de Seleção.
 
 ² Hierarchical Task Analysis — Análise Hierárquica de Tarefas.
 
+## Etapa 4 - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo e Características da Plataforma para o Projeto
+
+### Planejado
+
+A **Tabela 5** trata do cronograma planejado para o desenvolvimento de todas as atividades referentes à quarta entrega (Etapa 4) do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo e Características da Plataforma para o Projeto</p></font>
+
+<center>
+
+| Atividades                                              | Período de desenvolvimento  | Responsáveis | Período de revisão | Revisores |
+| ------------------------------------------------------- | --------------------------- | ------------ | ------------------ | --------- |
+| Produzir os cronogramas de planejamento e execução referente à Etapa 4| Início: 27/10/2023<br>Fim: 27/10/2023 | [João Pedro](https://github.com/JoosPerro) | Início: 28/10/2023<br>Fim: 28/10/2023 |  |
+| Planejamento da Avaliação do Storyboard                  | Início: 28/10/2023<br>Fim: 29/10/2023 | [Caio Mesquita Vieira](https://github.com/Caiomesvie) | Início: <br>Fim: |  |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard       | Início: <br>Fim:  | [Lucas Caldas](https://github.com/lucascaldasb) | Início: <br>Fim: |  |
+| Planejamento da Avaliação da Análise de Tarefas         | Início: <br>Fim:  | [Felipe de Sousa](https://github.com/fsousac) | Início: <br>Fim: |  |
+| Planejamento do Relato dos Resultados da Avaliação - Análise de Tarefas | Início: <br>Fim:  | [Millena Queiroz](https://github.com/millenaqueiroz) | Início:  <br>Fim: |  |
+| Storyboards                                              | Início: 24/10/2023<br>Fim: 28/10/23 | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) |
+|  Teste piloto                                            | Início: 28/10/2023<br>Fim: 28/10/2023  | [Felipe de Sousa](https://github.com/fsousac) e [Millena Queiroz](https://github.com/millenaqueiroz) | Início: <br>Fim: |  |
+| Gravar a apresentação da Etapa 3 do projeto              | Início: 29/10/2023<br>Fim: 29/10/2023  | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) |
+| Correção pós entrega/apresentação da Etapa 3 do projeto  | Início: 01/11/2023<br>Fim: 03/11/23 | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) |
+
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JoosPerro).</p></font>
+
+### Executado
+
+A **Tabela 6** trata do cronograma executado do desenvolvimento de todas as atividades referentes à terceira entrega (Etapa 3) do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo e Características da Plataforma para o Projeto</p></font>
+
+<center>
+
+| Atividades                                              | Período de desenvolvimento  | Responsáveis | Período de revisão | Revisores |
+| ------------------------------------------------------- | --------------------------- | ------------ | ------------------ | --------- |
+| Produzir o cronograma de planejamento referente à Etapa 3| Início: <br>Fim:  | [João Pedro](https://github.com/JoosPerro) | Início:<br>Fim:  |  |
+| Produzir o cronograma de execução referente à Etapa 3    | Início: <br>Fim:  | [João Pedro](https://github.com/JoosPerro) | Início:<br>Fim:  |  |
+| Storyboards                                              | Início: <br>Fim: | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) |
+| Planejamento da Avaliação do Storyboard                  | Início: <br>Fim:  | [Caio Mesquita Vieira](https://github.com/Caiomesvie) | Início: <br>Fim: |  |
+| Planejamento do Relato dos Resultados da Avaliação dos Storyboards       | Início: <br>Fim:  | [Lucas Caldas](https://github.com/lucascaldasb) | Início: <br>Fim: |  |
+| Planejamento da Avaliação da Análise de Tarefas         | Início: <br>Fim:  | [Felipe de Sousa](https://github.com/fsousac) | Início: <br>Fim: |  |
+| Planejamento do Relato dos Resultados da Avaliação das Análise de Tarefas | Início: <br>Fim:  | [Millena Queiroz](https://github.com/millenaqueiroz) | Início: <br>Fim: |  |
+|  Teste piloto                                            | Início: <br>Fim:  | [Felipe de Sousa](https://github.com/fsousac) e [Millena Queiroz](https://github.com/millenaqueiroz) | Início: <br>Fim: |  |
+| Gravar a apresentação da Etapa 3 do projeto              | Início: <br>Fim:  | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) |
+| Correção pós entrega/apresentação da Etapa 3 do projeto  | Início: <br>Fim:  | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) |
+|   | Início: <br>Fim:  |  | Início: <br>Fim: |  |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JoosPerro).</p></font>
+
 ## Bibliografia
 
 > - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692453/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf>>. Acesso em 27 de set. de 2023.
@@ -130,3 +183,4 @@ Regras de Seleção.
 | `1.5`   | 01/10/2023 | Atualização dos dados de ambas as tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | [João Pedro](https://github.com/JoosPerro) |
 | `1.6`   | 04/10/2023 | Atualização dos dados sobre Autores e Revisores. | [Artur Ricardo](https://github.com/algorithmorphic) | |
 | `1.7`   | 16/10/2023 | Inserção dos dados dos cronogramas de planejamento (**Tabela 3**) e execução (**Tabela 4**) referentes à Etapa 2 do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | |
+| `1.8`   | 28/10/2023 | Criação das tabelas de planejamento (**Tabela 5**) e execução (**Tablea 6**) | | |
