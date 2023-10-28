@@ -159,7 +159,6 @@ A **Tabela 6** trata do cronograma executado do desenvolvimento de todas as ativ
 |  Teste piloto                                            | Início: <br>Fim:  | [Felipe de Sousa](https://github.com/fsousac) e [Millena Queiroz](https://github.com/millenaqueiroz) | Início: <br>Fim: |  |
 | Gravar a apresentação da Etapa 3 do projeto              | Início: <br>Fim:  | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) |
 | Correção pós entrega/apresentação da Etapa 3 do projeto  | Início: <br>Fim:  | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) |
-|   | Início: <br>Fim:  |  | Início: <br>Fim: |  |
 
 </center>
 
