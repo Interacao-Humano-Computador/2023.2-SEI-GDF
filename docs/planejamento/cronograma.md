@@ -183,4 +183,4 @@ A **Tabela 6** trata do cronograma executado do desenvolvimento de todas as ativ
 | `1.5`   | 01/10/2023 | Atualização dos dados de ambas as tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | [João Pedro](https://github.com/JoosPerro) |
 | `1.6`   | 04/10/2023 | Atualização dos dados sobre Autores e Revisores. | [Artur Ricardo](https://github.com/algorithmorphic) | |
 | `1.7`   | 16/10/2023 | Inserção dos dados dos cronogramas de planejamento (**Tabela 3**) e execução (**Tabela 4**) referentes à Etapa 2 do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | |
-| `1.8`   | 28/10/2023 | Criação das tabelas de planejamento (**Tabela 5**) e execução (**Tablea 6**) | | |
+| `1.8`   | 28/10/2023 | Criação das tabelas de planejamento (**Tabela 5**) e execução (**Tablea 6**) | [João Pedro](https://github.com/JoosPerro) | |
