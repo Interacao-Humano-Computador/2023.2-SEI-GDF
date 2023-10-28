@@ -186,4 +186,4 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 
 | Versão | Data       | Descrição                                       | Autor(es)                                     | Revisor(es)                                    |
 | ------ | ---------- | ----------------------------------------------- | --------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 27/10/2023 | Criação da página ainda com partes incompletas. | [Felipe de Sousa](https://github.com/fsousac) | [Caio Mesquita](https://github.com/Caiomesvie) |
+| `1.0`  | 27/10/2023 | Criação da página ainda com partes incompletas. | [Felipe de Sousa](https://github.com/fsousac) | [Millena Queiroz](https://github.com/millenaqueiroz) |
