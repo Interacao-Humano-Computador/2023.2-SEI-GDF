@@ -19,9 +19,9 @@ Local: Microsoft Teams
 
 ## Decisões:
 - Planejamento da Avaliação do Storyboard: [Caio Mesquita Vieira](https://github.com/Caiomesvie)
-- Planejamento do Relato dos Resultados - Storyboard: [Lucas Caldas](https://github.com/lucascaldasb)
+- Planejamento do Relato dos Resultados - Storyboard: [Millena Queiroz](https://github.com/millenaqueiroz)
 - Planejamento da Avaliação da Análise de Tarefas: [Felipe de Sousa](https://github.com/fsousac)
-- Planejamento do Relato dos Resultados da Avaliação - Análise de Tarefas: [Millena Queiroz](https://github.com/millenaqueiroz)
+- Planejamento do Relato dos Resultados da Avaliação - Análise de Tarefas: [Lucas Caldas](https://github.com/lucascaldasb)
 - Storyboards: [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro)
 - Cronograma: [João Pedro](https://github.com/JoosPerro)
 - Teste piloto: [Felipe de Sousa](https://github.com/fsousac) e [Millena Queiroz](https://github.com/millenaqueiroz)
