@@ -74,12 +74,12 @@ Por fim, como o objetivo da ativida tem relação com a validação do usuário 
 
 **Tabela 2** - Cronograma de Reprojeto.
 
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim | Data | Local |
-| ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
-| [Caio Mesquita](https://github.com/Caiomesvie) | João Pedro | 20:50 | 21:00 | 03/11/2023 | Plataforma Google Meet |
-| [Felipe de Sousa](https://github.com/fsousac) | Millena Queiroz | 21:40 | 21:50 | 04/11/2023 | Plataforma Discord |
-| [Millena Queiroz](https://github.com/MillenaQueiroz) | Felipe de Sousa | 21:00 | 21:10 | 04/11/2023 | Plataforma Discord |
-| [Lucas Caldas](https://github.com/lucascaldasb) | Caio Mesquita | 21:30 | 21:40 | 03/11/2023 | Plataforma Google Meet |
+| Executor do reprojeto | Horário de Início | Horário de Fim | Data |
+| ---------------------------------------------- | :-------------: | :---------------: | :------------: |
+| [Caio Mesquita](https://github.com/Caiomesvie) | 20:50 | 21:00 | 03/11/2023 | 
+| [Felipe de Sousa](https://github.com/fsousac) | 21:40 | 21:50 | 04/11/2023 | 
+| [Millena Queiroz](https://github.com/MillenaQueiroz) | 21:00 | 21:10 | 04/11/2023 | 
+| [Lucas Caldas](https://github.com/lucascaldasb) | 21:30 | 21:40 | 03/11/2023 |
 
 **Fonte** - _[Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README)_
 
