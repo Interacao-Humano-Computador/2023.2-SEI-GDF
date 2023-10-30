@@ -12,6 +12,7 @@ Para realizar esse planejamento será utilizado o framework DECIDE, onde cada le
 
 **Tabela 1** - Letras da palavra DECIDE com os seus significados.
 
+
 | Letra |                          Definição                           |
 | :---: | :----------------------------------------------------------: |
 |   D   |            Determinar os objetivos da avaliação.             |
