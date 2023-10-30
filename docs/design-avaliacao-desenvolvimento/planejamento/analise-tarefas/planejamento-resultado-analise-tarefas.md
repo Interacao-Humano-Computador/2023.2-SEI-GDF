@@ -40,10 +40,11 @@ A fim de mater um padrão no cronograma, iremos ilustrar na tabela 1, o exemplo 
 
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
-| [Caio Mesquita](https://github.com/Caiomesvie) |  Caio Mesquita  |       16:40       |     16:45      | 02/11/2023 | Plataforma Google Meet  |
-| [Felipe de Sousa](https://github.com/fsousac)  | Felipe de Sousa |       20:40       |     20:50      | 02/11/2023 | Plataforma Google Meets |
-| [Millena Queiroz](https://github.com/MillenaQueiroz) | Millena Queiroz |       22:00       |     22:10      | 02/11/2023 |   Plataforma Discord    |
-| [Lucas Caldas](https://github.com/lucascaldasb)   |  Lucas Caldas   |       22:00       |     22:50      | 02/11/2023 |   Plataforma Discord    |
+| [Caio Mesquita](https://github.com/Caiomesvie) |  Leila Kelri  |       16:40       |     16:45      | 02/11/2023 | Plataforma Google Meet  |
+| [Felipe de Sousa](https://github.com/fsousac)  | Laís Caldas |       20:40       |     20:50      | 02/11/2023 | Plataforma Google Meets |
+| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 02/11/2023 |   Plataforma Discord    |
+| [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 02/11/2023 |   Plataforma Discord    |
+|  [João Pedro](https://github.com/JoosPerro) | Ronildo  |       21:30       |    22:00      | 02/11/2023 | Plataforma Discord
 
 **Fonte** - _[Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README)_
 
@@ -82,6 +83,7 @@ Por fim, como o objetivo da ativida tem relação com a validação do usuário 
 |  [Felipe de Sousa](https://github.com/fsousac)  |          19:00       |     19:30      | 03/11/2023 |
 |  [Millena Queiroz](https://github.com/MillenaQueiroz)  |         20:00       |     20:30      | 03/11/2023 |
 |  [Lucas Caldas](https://github.com/lucascaldasb) |          22:00       |     22:10      | 03/11/2023 |
+|  [João Pedro](https://github.com/JoosPerro) |          21:30       |    22:00      | 03/11/2023 |
 
 **Fonte** - [Lucas Caldas](https://github.com/lucascaldasb).
 </center>
@@ -95,4 +97,4 @@ Por fim, como o objetivo da ativida tem relação com a validação do usuário 
 
 | Versão |    Data    |                        Descrição                        |    Autor(es)     |  Revisor(es)  |
 | :----: | :--------: | :-----------------------------------------------------: | :--------------: | :-----------: |
-| `1.0`  | 28/10/2023 | Criação do documento de planejamento de resultados | [Lucas Caldas](https://github.com/lucascaldasb) |  |
+| `1.0`  | 28/10/2023 | Criação do documento de planejamento de resultados | [Lucas Caldas](https://github.com/lucascaldasb) | [Caio Mesquita](https://github.com/Caiomesvie) |
