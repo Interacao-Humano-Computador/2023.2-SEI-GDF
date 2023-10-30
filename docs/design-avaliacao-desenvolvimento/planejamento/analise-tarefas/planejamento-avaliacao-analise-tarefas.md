@@ -8,9 +8,9 @@ A avaliação é um processo essencial para que o processo de desenvolvimento co
 
 Para realizar esse planejamento será utilizado o framework DECIDE, onde cada letra da palavra é uma etapa a ser realizada no planejamento. A tabela 1 a seguir apresenta o significado de cada letra.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Letras da palavra DECIDE com os seus significados.</p></font>
-
 <center>
+
+**Tabela 1** - Letras da palavra DECIDE com os seus significados.</p></font>
 
 | Letra |                          Definição                           |
 | :---: | :----------------------------------------------------------: |
@@ -21,10 +21,9 @@ Para realizar esse planejamento será utilizado o framework DECIDE, onde cada le
 |   D   |          Decidir como lidar com as questões éticas.          |
 |   E   |          Avaliar, interpretar e apresentar os dados          |
 
+**Fonte:** BARBOSA e SILVA (2011).
+
 </center>
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> BARBOSA e SILVA (2011).</p></font>
-
 
 ## D - Objetivos
 
@@ -84,7 +83,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 
 <center>
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma da entrevista.</p></font>
+**Tabela 2** - Cronograma da entrevista.</p></font>
 
   
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
@@ -95,8 +94,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 02/11/2023 |   Plataforma Discord    |
 |  [João Pedro](https://github.com/JoosPerro) | Ronildo  |       21:30       |    22:00      | 02/11/2023 | Plataforma Discord |
 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README">Grupo 8</a></p></font>
+**Fonte:** (Grupo 8)[https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README]
 
 </center>
 
@@ -108,7 +106,7 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 
 <center>
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Roteiro de perguntas da entrevista.</p></font>
+**Tabela 3** - Roteiro de perguntas da entrevista.
 
   
 | Número |                                                                Pergunta                                                                 | Resposta Possíveis                                                                                         |
@@ -130,7 +128,7 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 |   11   |                                 E para a tarefa em si, teria alguma sugestão de melhoria dos processos?                                 | Resposta Discursiva                                                                                        |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Felipe de Sousa](https://github.com/fsousac).</p></font>
+**Fonte:** [Felipe de Sousa](https://github.com/fsousac).
 
 </center>
 
