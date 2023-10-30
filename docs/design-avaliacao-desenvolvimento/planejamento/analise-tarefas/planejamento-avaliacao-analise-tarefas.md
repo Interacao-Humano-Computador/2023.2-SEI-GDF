@@ -88,13 +88,14 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
   
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
-| [Caio Mesquita](https://github.com/Caiomesvie) |  Caio Mesquita  |               |            |   |    |
-| [Felipe de Sousa](https://github.com/fsousac)  | Felipe de Sousa |       15:00       |     15:15      | 31/10/2023 |      Pessoalmente       |
-| [Millena Queiroz](https://github.com/dougAlvs) | Millena Queiroz |               |            |   |        |
-| [Lucas Caldas](https://github.com/arthurmlv)   |  Lucas Caldas   |               |            |   |        |
+| [Caio Mesquita](https://github.com/Caiomesvie) |     |               |            |   |  A definir  |
+| [Felipe de Sousa](https://github.com/fsousac)  |     |       15:00       |     15:15      | 31/10/2023 |      Pessoalmente       |
+| [Millena Queiroz](https://github.com/dougAlvs) |     |               |            |   |     A definir   |
+| [Lucas Caldas](https://github.com/arthurmlv)   |     |               |            |   |    A definir    |
 
 </center>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> _[Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README)_</p></font>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README">Grupo 8</a></p></font>
 
 
 <a id="met2"></a>
@@ -103,10 +104,10 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 
 Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tarefa da qual o entrevistador estará comentando e a tabela com o seu fluxo. A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevista. Essas perguntas foram baseadas nas perguntas a serem [repondidas na avaliação](#met1).
 
-<center>
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Roteiro de perguntas da entrevista.</p></font>
 
+<center>
   
 | Número |                                                                Pergunta                                                                 | Resposta Possíveis                                                                                         |
 | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------- |
