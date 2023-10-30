@@ -2,17 +2,17 @@
 
 ## Introdução 
 Neste planejamento o intuito foi de elaborar um plano de avaliação para os storyboards concebidos pelos membros do grupo onde o foco principal foi a busca por pontos de melhoria no design de projeto. A avaliação será feita utilizando o framework DECIDE.
-## o framework DECIDE
+## Framework DECIDE
 O framework DECIDE consiste em 6 princípios que serão explicados logo a frente, e foi o selecionado para realizar o planejamento da avaliação dos storyboards. Seus 6 principios são:
 
-* D: Decidir quais os objetivos da avaliação.
-* E: Explorar as perguntas que foram definidas para os objetivos e respondê-las.
-* C: Escolher(choice) os métodos de avaliação a serem utilizados.
-* I: Identificar e administrar as partes práticas realizadas na avaliação
-* D: Decidir como será lidado com as questões éticas durante a avaliação
-* E: Avaliar(evaluate), interpretar e apresentar os dados coletados durante a avaliação.
+* **D**: Decidir quais os objetivos da avaliação.
+* **E**: Explorar as perguntas que foram definidas para os objetivos e respondê-las.
+* **C**: Escolher(choice) os métodos de avaliação a serem utilizados.
+* **I**: Identificar e administrar as partes práticas realizadas na avaliação
+* **D**: Decidir como será lidado com as questões éticas durante a avaliação
+* **E**: Avaliar(evaluate), interpretar e apresentar os dados coletados durante a avaliação.
 
-_fonte: Barbosa e Silva (2011)._
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Barbosa e Silva (2011).</p></font>
 
 ## Definir objetivos
 O objetivo desta avaliação é a confirmação se os storyboards estão em coerência com as tarefas definidas e com a realidade do usuário, quais aspectos podem ser melhorados em termos de design, obter sugestões, indicações de problemas e ideias do que possa ser aprimorado nos storyboards.
@@ -38,35 +38,44 @@ O teste piloto realizado dia 30/10/2023 pelos integrantes [Caio Mesquita](https:
 
 ### Cronograma de entrevistas
 A seguir é disponibilizado o cronograma de entrevistas que cada um dos integrantes realizará:
-| Data | Horário | Entrevistador | Entrevistado | Local |
-| :-: | :-: | :-: | :-: | :-: |
-|  |  | [Caio Mesquita](https://github.com/Caiomesvie) |  |  |
-|  |  | [Felipe de Sousa](https://github.com/fsousac) |  |  |
-|  |  | [João Pedro Veras Gomes](https://github.com/joosPerro) |  |  |
-|  |  | [Millena Queiroz](https://github.com/dougAlvs) |  |  |
-|  |  | [Lucas Caldas](https://github.com/arthurmlv) |  |  |
 
-_tabela 1-fonte: [Caio Mesquita](https://github.com/Caiomesvie), 2023._
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma de Entrevistas.</p></font>
+<center>
+
+| Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
+| ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
+| [Caio Mesquita](https://github.com/Caiomesvie) |  Caio Mesquita  |               |            |   |    |
+| [Felipe de Sousa](https://github.com/fsousac)  | Felipe de Sousa |       15:00       |     15:15      | 31/10/2023 |      Pessoalmente       |
+| [Millena Queiroz](https://github.com/dougAlvs) | Millena Queiroz |               |            |   |        |
+| [Lucas Caldas](https://github.com/arthurmlv)   |  Lucas Caldas   |               |            |   |        |
+
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
 
 ### Roteiro de perguntas
 A seguir é disponibilizado o roteiro de perguntas que os avaliadores usarão na entrevista para a coleta de dados:
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Roteiro de Perguntas.</p></font>
+<center>
+
 |n°|Pergunta|Resposta|
 | :-: | :-: | :-: |
-|1|O storyboard está coerente com a realidade?|Sim() Não() <br />Não sei()|
-|2|O cenário do storyboard está de acordo com a realidade?|Sim() Não() <br />Não sei()|
-|3|O storyboard contém os 3 elementos cenário, personagem e ambiente condizentes?|Sim() Não() <br />Não sei()|
-|4|A tarefa realizada no storyboard está de acordo com a realidade?|Sim() Não() <br />Não sei()|
-|5|O storyboard mostra que há vantagem em utilizar a ferramenta ilustrada?|Sim() Não() <br />Não sei()|
-|6|As informações no storyboard são passadas de forma intuitiva?|Sim() Não() <br />Não sei()|
+|1|O storyboard está coerente com a realidade?|Sim( ) Não( ) <br />Não sei( )|
+|2|O cenário do storyboard está de acordo com a realidade?|Sim( ) Não( ) <br />Não sei( )|
+|3|O storyboard contém os 3 elementos cenário, personagem e ambiente condizentes?|Sim( ) Não( ) <br />Não sei( )|
+|4|A tarefa realizada no storyboard está de acordo com a realidade?|Sim( ) Não( ) <br />Não sei( )|
+|5|O storyboard mostra que há vantagem em utilizar a ferramenta ilustrada?|Sim( ) Não( ) <br />Não sei( )|
+|6|As informações no storyboard são passadas de forma intuitiva?|Sim( ) Não( ) <br />Não sei( )|
 |7|Há alguma sugestão de melhora para o storyboard?|Discursiva|
 
-_tabela 2-fonte: [Caio Mesquita](https://github.com/Caiomesvie), 2023._
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
 
 Os storyboards estão disponíveis [aqui](), e o entrevistador tem a tarefa de anotar todas as observações e respostas dos entrevistados.
 
 ## Questões éticas
 Para garantir a segurança e privacidade dos entrevistados, será lido antes da entrevista um breve termo de conscentimento onde o mesmo deve concordar em vídeo, para que fique registrado, e somente assim a entrevista ocorrerá.
-### termo de conscentimento
+### Termo de conscentimento
 "Caro entrevistado, você estará agora participando de uma pesquisa para colaborar com o grupo 8 da matéria Interação Humano-Computador da Universidade de Brasília, semestre 2023.2. O objetivo desta pesquisa é a coleta de dados a respeito da Plataforma SEI!, para que ela ocorra precisamos que concorde com os seguintes pontos:
 * Sua imagem será disponibilizada para fins acadêmicos caso concorde em participar
 * Sua participação é voluntária
@@ -86,6 +95,6 @@ Feito isto, os resultados do que pode ser melhorado ou aprimorado serão disponi
 
 | Versão | Data       | Descrição                                       | Autor(es)                                                                                     | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------------- | ------------------------------------------------| ------------------------------------------------ |
-| `1.0`  | 14/10/2023 | Criação do artefato planejamento avl storyboards | [Caio Mesquita](https://github.com/Caiomesvie)  | |
+| `1.0`  | 14/10/2023 | Criação do artefato planejamento avl storyboards | [Caio Mesquita](https://github.com/Caiomesvie)  | [Felipe de Sousa](https://github.com/fsousac)  | 
 
 
