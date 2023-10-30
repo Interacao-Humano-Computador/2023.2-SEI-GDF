@@ -46,7 +46,8 @@
 * Design, Avaliação e Desenvolvimento
   - Análise de Tarefas
     * [Planejamento da avaliação de análise de tarefas](design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-avaliacao-analise-tarefas.md)
-    * [Planejamento do relato dos resultados da avaliação](design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-relato-resul-avaliacao.md)
+    * [Planejamento do relato dos resultados da avaliação](design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-resultado-analise-tarefas.md)
 
   - Storyboard
+    * [Planejamento da avaliação do Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/planej-relat-resul.md)
     * [Planejamento do Relato dos Resultados - Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/planej-relat-resul.md)
