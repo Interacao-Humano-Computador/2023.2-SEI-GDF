@@ -8,10 +8,9 @@ A avaliação é um processo essencial para que o processo de desenvolvimento co
 
 Para realizar esse planejamento será utilizado o framework DECIDE, onde cada letra da palavra é uma etapa a ser realizada no planejamento. A tabela 1 a seguir apresenta o significado de cada letra.
 
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Letras da palavra DECIDE com os seus significados.</p></font>
+
 <center>
-
-**Tabela 1** - Letras da palavra DECIDE com os seus significados.
-
 
 | Letra |                          Definição                           |
 | :---: | :----------------------------------------------------------: |
@@ -22,9 +21,10 @@ Para realizar esse planejamento será utilizado o framework DECIDE, onde cada le
 |   D   |          Decidir como lidar com as questões éticas.          |
 |   E   |          Avaliar, interpretar e apresentar os dados          |
 
-**Fonte** - BARBOSA e SILVA (2011).
-
 </center>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> BARBOSA e SILVA (2011).</p></font>
+
 
 ## D - Objetivos
 
@@ -82,10 +82,10 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 - Horário de início e fim;
 - Local e data que ocorreu a entrevista.
 
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma da entrevista.</p></font>
+
 <center>
-
-**Tabela 2** - Cronograma da entrevista.
-
+  
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
 | [Caio Mesquita](https://github.com/Caiomesvie) |  Caio Mesquita  |               |            |   |    |
@@ -93,9 +93,9 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | [Millena Queiroz](https://github.com/dougAlvs) | Millena Queiroz |               |            |   |        |
 | [Lucas Caldas](https://github.com/arthurmlv)   |  Lucas Caldas   |               |            |   |        |
 
-**Fonte** - _[Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README)_
-
 </center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> _[Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README)_</p></font>
+
 
 <a id="met2"></a>
 
@@ -105,8 +105,9 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 
 <center>
 
-**Tabela 3** - Roteiro de perguntas da entrevista.
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Roteiro de perguntas da entrevista.</p></font>
 
+  
 | Número |                                                                Pergunta                                                                 | Resposta Possíveis                                                                                         |
 | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------- |
 |   1    |                                                            Qual o seu nome?                                                             | Resposta Discursiva                                                                                        |
@@ -125,9 +126,10 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 |   10    |                                    Você teria alguma sugestão de melhoria para o diagrama da tarefa?                                    | Resposta Discursiva                                                                                        |
 |   11   |                                 E para a tarefa em si, teria alguma sugestão de melhoria dos processos?                                 | Resposta Discursiva                                                                                        |
 
-**Fonte** - [Felipe de Sousa](https://github.com/fsousac).
-
 </center>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Felipe de Sousa](https://github.com/fsousac).</p></font>
+
 
 ### Execução do roteiro
 
