@@ -49,5 +49,5 @@
     * [Planejamento do relato dos resultados da avaliação](design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-resultado-analise-tarefas.md)
 
   - Storyboard
-    * [Planejamento da avaliação do Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/planej-relat-resul.md)
+    * [Planejamento da avaliação do Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/planejamento-avaliacao-storyboard.md)
     * [Planejamento do Relato dos Resultados - Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/planej-relat-resul.md)
