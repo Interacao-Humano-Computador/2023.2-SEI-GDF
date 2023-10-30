@@ -94,7 +94,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 02/11/2023 |   Plataforma Discord    |
 |  [João Pedro](https://github.com/JoosPerro) | Ronildo  |       21:30       |    22:00      | 02/11/2023 | Plataforma Discord |
 
-**Fonte:** (Grupo 8)[https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README]
+**Fonte:** [Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README)
 
 </center>
 
