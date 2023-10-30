@@ -44,10 +44,11 @@ A seguir é disponibilizado o cronograma de entrevistas que cada um dos integran
 
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
-| [Caio Mesquita](https://github.com/Caiomesvie) |  Caio Mesquita  |               |            |   |    |
-| [Felipe de Sousa](https://github.com/fsousac)  | Felipe de Sousa |       15:00       |     15:15      | 31/10/2023 |      Pessoalmente       |
-| [Millena Queiroz](https://github.com/dougAlvs) | Millena Queiroz |               |            |   |        |
-| [Lucas Caldas](https://github.com/arthurmlv)   |  Lucas Caldas   |               |            |   |        |
+| [Caio Mesquita](https://github.com/Caiomesvie) |  Leila Kelri  |       16:40       |     16:45      | 02/11/2023 | Plataforma Google Meet  |
+| [Felipe de Sousa](https://github.com/fsousac)  | Laís Caldas |       20:40       |     20:50      | 02/11/2023 | Plataforma Google Meets |
+| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 02/11/2023 |   Plataforma Discord    |
+| [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 02/11/2023 |   Plataforma Discord    |
+|  [João Pedro](https://github.com/JoosPerro) | Ronildo  |       21:30       |    22:00      | 02/11/2023 | Plataforma Discord |
 
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
