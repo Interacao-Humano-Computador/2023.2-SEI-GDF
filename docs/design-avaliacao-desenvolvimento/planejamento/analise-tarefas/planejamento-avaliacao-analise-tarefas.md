@@ -82,9 +82,10 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 - Horário de início e fim;
 - Local e data que ocorreu a entrevista.
 
+<center>
+
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma da entrevista.</p></font>
 
-<center>
   
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
@@ -94,10 +95,10 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 02/11/2023 |   Plataforma Discord    |
 |  [João Pedro](https://github.com/JoosPerro) | Ronildo  |       21:30       |    22:00      | 02/11/2023 | Plataforma Discord |
 
-</center>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README">Grupo 8</a></p></font>
 
+</center>
 
 <a id="met2"></a>
 
@@ -105,10 +106,10 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 
 Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tarefa da qual o entrevistador estará comentando e a tabela com o seu fluxo. A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevista. Essas perguntas foram baseadas nas perguntas a serem [repondidas na avaliação](#met1).
 
+<center>
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Roteiro de perguntas da entrevista.</p></font>
 
-<center>
   
 | Número |                                                                Pergunta                                                                 | Resposta Possíveis                                                                                         |
 | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------- |
@@ -128,10 +129,10 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 |   10    |                                    Você teria alguma sugestão de melhoria para o diagrama da tarefa?                                    | Resposta Discursiva                                                                                        |
 |   11   |                                 E para a tarefa em si, teria alguma sugestão de melhoria dos processos?                                 | Resposta Discursiva                                                                                        |
 
-</center>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Felipe de Sousa](https://github.com/fsousac).</p></font>
 
+</center>
 
 ### Execução do roteiro
 
