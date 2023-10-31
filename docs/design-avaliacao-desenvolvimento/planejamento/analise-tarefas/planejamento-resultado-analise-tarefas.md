@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Este documento tem o papel como base o documento [Planejamento da avaliação da Análise de tarefas](./planejamento-avaliacao-analise-tarefas.md). Sua função primária é estruturar e ordenar a disposição de dados coletados durante a fase de avaliação da **análise de tarefas**. O resultante do planejamento que será descrito irá gerar o documento relato de resultados onde serão levantados pontos de melhoria para o site SEI e identificadas sugestões de reprojeto pelo grupo.
+Este documento tem o papel como base o documento [Planejamento da avaliação da Análise de tarefas](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-avaliacao-analise-tarefas). Sua função primária é estruturar e ordenar a disposição de dados coletados durante a fase de avaliação da **análise de tarefas**. O resultante do planejamento que será descrito irá gerar o documento relato de resultados onde serão levantados pontos de melhoria para o site SEI e identificadas sugestões de reprojeto pelo grupo.
 
 ## Metodologia
 
-Com base no documento do [Planejamento da avaliação da Análise de tarefas](./planejamento-avaliacao-analise-tarefas.md) e nos elementos de avaliação citados por Barbosa e Silva<a id="anchor_1" href="#REF1">^1^</a>, será construído o relato dos resultados.
+Com base no documento do [Planejamento da avaliação da Análise de tarefas](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-avaliacao-analise-tarefas) e nos elementos de avaliação citados por Barbosa e Silva<a id="anchor_1" href="#REF1">^1^</a>, será construído o relato dos resultados.
 
 Os elementos de avaliação são:
 
