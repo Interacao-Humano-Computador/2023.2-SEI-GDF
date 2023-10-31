@@ -72,7 +72,7 @@ A seguir é disponibilizado o roteiro de perguntas que os avaliadores usarão na
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
 
-Os storyboards estão disponíveis [aqui](../storyboards.md), e o entrevistador tem a tarefa de anotar todas as observações e respostas dos entrevistados.
+Os storyboards estão disponíveis [aqui](docs/design-avaliacao-desenvolvimento/planejamento/storyboard/storyboards.md), e o entrevistador tem a tarefa de anotar todas as observações e respostas dos entrevistados.
 
 ## Questões éticas
 Para garantir a segurança e privacidade dos entrevistados, será lido antes da entrevista um breve termo de conscentimento onde o mesmo deve concordar em vídeo, para que fique registrado, e somente assim a entrevista ocorrerá.
