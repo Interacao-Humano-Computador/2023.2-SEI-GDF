@@ -34,7 +34,7 @@ Cada entrevistador será incumbido de recrutar um entrevistado que segue os padr
 
 ### Teste piloto
 É de extrema importância a realização de um teste piloto feito pelos avaliadores somente, realizando a simulação de uma entrevista para que haja a garantia de que está tudo alinhado com as expectativas, para avaliar o planejamento da própria avaliação.
-O teste piloto realizado dia 30/10/2023 pelos integrantes [Caio Mesquita](https://github.com/Caiomesvie) e [Lucas Caldas](https://github.com/arthurmlv) via Microsoft Teams e será disponibilizado para vizualização em [Clique aqui para assistir]().
+O teste piloto realizado dia 30/10/2023 pelos integrantes [Caio Mesquita](https://github.com/Caiomesvie) e [Lucas Caldas](https://github.com/arthurmlv) via Microsoft Teams e será disponibilizado para vizualização [AQUI](https://youtu.be/wch6CAGwB24).
 
 ### Cronograma de entrevistas
 A seguir é disponibilizado o cronograma de entrevistas que cada um dos integrantes realizará:
