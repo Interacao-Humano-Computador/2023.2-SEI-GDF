@@ -41,7 +41,7 @@ A fim de mater um padrão no cronograma, iremos ilustrar na tabela 1, o exemplo 
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
 | [Caio Mesquita](https://github.com/Caiomesvie) |  Leila Kelri  |       16:40       |     16:45      | 02/11/2023 | Plataforma Google Meet  |
-| [Felipe de Sousa](https://github.com/fsousac)  | Laís Caldas |       20:40       |     20:50      | 02/11/2023 | Plataforma Google Meets |
+| [Felipe de Sousa](https://github.com/fsousac)  | Laís Soares |       16:00       |     16:25      | 03/11/2023 | Pessoalmente |
 | [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 02/11/2023 |   Plataforma Discord    |
 | [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 02/11/2023 |   Plataforma Discord    |
 |  [João Pedro](https://github.com/JoosPerro) | Ronildo  |       21:30       |    22:00      | 02/11/2023 | Plataforma Discord
