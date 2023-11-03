@@ -38,7 +38,7 @@ Iremos ilustrar na tabela 1, o exemplo de um item de cronograma.
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim | Data | Local |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
 | [Caio Mesquita](https://github.com/Caiomesvie) | Leila Kelri | 20:50 | 21:00 | 02/11/2023 | Plataforma Google Meet |
-| [Felipe de Sousa](https://github.com/fsousac) | Laís Caldas | 21:40 | 21:50 | 03/11/2023 | Plataforma Discord |
+| [Felipe de Sousa](https://github.com/fsousac) | Laís Soares | 16:00 | 16:25 | 03/11/2023 | Pessoalmente |
 | [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano Queiroz | 21:00 | 21:10 | 03/11/2023 | Plataforma Discord |
 | [Lucas Caldas](https://github.com/lucascaldasb) | Pedro Igor | 21:30 | 21:40 | 02/11/2023 | Plataforma Google Meet |
 |  [João Pedro](https://github.com/JoosPerro) | Ronildo  |       22:30       |    23:00      | 02/11/2023 | Plataforma Discord |
