@@ -63,11 +63,10 @@ A seguir é disponibilizado o roteiro de perguntas que os avaliadores usarão na
 | :-: | :-: | :-: |
 |1|O storyboard está coerente com a realidade?|Sim( ) <br />Não( ) <br />Não sei( )|
 |2|O cenário do storyboard está de acordo com a realidade?|Sim( ) <br />Não( ) <br />Não sei( )|
-|3|O storyboard contém os 3 elementos cenário, personagem e ambiente condizentes?|Sim( ) <br />Não( ) <br />Não sei( )|
-|4|A tarefa realizada no storyboard está de acordo com a realidade?|Sim( ) <br />Não( ) <br />Não sei( )|
-|5|O storyboard mostra que há vantagem em utilizar a ferramenta ilustrada?|Sim( ) <br />Não( ) <br />Não sei( )|
-|6|As informações no storyboard são passadas de forma intuitiva?|Sim( ) <br />Não( ) <br />Não sei( )|
-|7|Há alguma sugestão de melhora para o storyboard?|Discursiva|
+|3|A tarefa realizada no storyboard está de acordo com a realidade?|Sim( ) <br />Não( ) <br />Não sei( )|
+|4|O storyboard mostra que há vantagem em utilizar a ferramenta ilustrada?|Sim( ) <br />Não( ) <br />Não sei( )|
+|5|As informações no storyboard são passadas de forma intuitiva?|Sim( ) <br />Não( ) <br />Não sei( )|
+|6|Há alguma sugestão de melhora para o storyboard?|Discursiva|
 
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
