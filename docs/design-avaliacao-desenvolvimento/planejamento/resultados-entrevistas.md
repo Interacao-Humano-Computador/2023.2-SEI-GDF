@@ -55,6 +55,56 @@ Esses resultados indicam a necessidade de um ajuste na tarefa da página de pesq
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/4XsQSInxRLM?si=wbLftJhThp3wRD-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+## Entrevista - Fazer a conferência da autenticação de documentos (Cidadão)
+
+### Objetivo e escopo da avaliação
+A avaliação teve como objetivo validar se a tarefa de [fazer a conferência da autenticação de documentos](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/analise-de-tarefas/HTA?id=fazer-a-confer%c3%aancia-da-autentica%c3%a7%c3%a3o-de-documentos-cidad%c3%a3) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
+
+### Método de avaliação
+O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
+
+<center>
+*Tabela 1* - Cronograma da entrevista.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Millena Queiroz](https://github.com/MillenaQueiroz) |    Cristiano Peixoto   |       16:35       |     16:46     | 05/11/2023 | Pessoalmente |
+
+*Fonte* - [Millena Queiroz](https://github.com/MillenaQueiroz)
+</center>
+
+### Seleção de participante
+
+O participante se encaixa no perfil de usuário, pois é um usuário entre 30 e 50 anos, possui experiencia razoável com tecnologia e já realizou a ação de verificar autenticação de um documento.
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o usuário não relatou problemas relacionados a atividade de verificar autenticação de um documento.
+
+### Sugestões de melhoria
+
+- Para a tarefa analisada: Permitir a leitura do qrcode contido nos documentos direto da plataforma SEI GDF.
+- Para o site: 
+
+### Feedback do usuário
+xx
+
+
+### Análise e interpretação dos resultados
+
+Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo da tarefa de verificar autenticação de um documento (cidadão) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI. 
+
+### Sumário dos principais resultados
+
+xx
+
+
+<p style="text-align: center"><a href="https://youtu.be/4XsQSInxRLM" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/dRLNUJmbp2Q" title="Entrevista Cristiano Peixoto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Millena Queiroz](https://github.com/MillenaQueiroz).</p></font>
+
 
 
 ## Histórico de Versões
@@ -62,3 +112,4 @@ Esses resultados indicam a necessidade de um ajuste na tarefa da página de pesq
 | Versão | Data       | Descrição                                     | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | --------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 04/11/2023 | Inicio do documento com a tarefa de pesquisa como servidor   | [Felipe de Sousa](https://github.com/fsousac) | [Caio Mesquita](https://github.com/Caiomesvie)  |
+| `1.1`  | 05/11/2023 | Inicio do documento com a tarefa de conferência de autenticação  | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie)  |

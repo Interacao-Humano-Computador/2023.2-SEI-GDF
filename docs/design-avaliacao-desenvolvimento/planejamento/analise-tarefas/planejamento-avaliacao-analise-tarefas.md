@@ -90,7 +90,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
 | [Caio Mesquita](https://github.com/Caiomesvie) |  Leila Kelri  |       16:40       |     16:45      | 02/11/2023 | Plataforma Google Meet  |
 | [Felipe de Sousa](https://github.com/fsousac)  | Laís Soares |       16:00       |     16:25      | 03/11/2023 | Pessoalmente |
-| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 02/11/2023 |   Plataforma Discord    |
+| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 02/11/2023 |   Pessoalmente    |
 | [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 02/11/2023 |   Plataforma Discord    |
 |  [João Pedro](https://github.com/JoosPerro) | Ronildo  |       21:30       |    22:00      | 02/11/2023 | Plataforma Discord |
 
