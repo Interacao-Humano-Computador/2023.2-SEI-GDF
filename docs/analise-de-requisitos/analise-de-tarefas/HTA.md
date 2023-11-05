@@ -156,6 +156,36 @@ Nessa tarefa, o usuário possui o objetivo de encontrar um processo a partir de 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Millena Queiroz](https://github.com/millenaqueiroz) </p></font>
 
+
+### Gerar Documento (Servidor)
+
+Nessa tarefa, o usuário, como servidor, vai criar uma documento e editá-lo.
+
+<font size="4"><p style="text-align: center"><b>Figura 11</b> - Diagrama de iniciar processo (Servidor)</p></font>
+<center>
+
+![image](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/125216584/e18b3b5c-a4a6-45c3-8973-77a4aaa534f9)
+
+</center>
+
+<font size="4"><p style="text-align: center"><b>Figura 12</b> - Tabela de Gerar Documento (Servidor)</p></font>
+
+<center>
+
+| Objetivos/Operações          | Problemas e Recomendações|
+| ---------------------------- | ------------------------ |
+| 1. Gerar Documento           | <b>Input:</b> formulário de informações dobre o documento a ser criado <br> <b>Feedback:</b> Uma janela com o documento editável <br> <b>Plano:</b> detalhar documento e receber o editável|
+| 1.1. Criar um novo documento ||
+| 1.2. Especificar o documento ||
+| 1.3. Editar documento        ||
+| 1.2.1. Escolher tipo de documento | <b>Input:</b> escolha da opção dentre as três possíveis <br> |
+| 1.2.2. Definir nível de acesso | <b>Input:</b> Opção escolhida deentre os três níveis de acesso do documento <br> <b>Recomendação:</b> Explicitar se a opção demanda uma hipóteste legal, com uma mensagem abaixo da seleção|
+| 1.2.3. Detalhar documento | <b>Input:</b> escolha de texto inicial, descrição do documento, citação os destinatários, dentre outras informações opcionais <br> <b>Feedback:</b> resposta visual, ou seja, marcações em opções escolhidas e o texto digitado aparecendo na tela|
+
+</center>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Pedro](https://github.com/JoosPerro) </p></font>
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador.** Rio de Janeiro: Elsevier, 2010.
