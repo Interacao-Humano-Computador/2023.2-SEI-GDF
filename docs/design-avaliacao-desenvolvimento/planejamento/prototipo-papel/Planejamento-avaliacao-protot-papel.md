@@ -19,8 +19,10 @@ O objetivo desta avaliação é utilizar protótipos de papel de algumas tarefas
 
 ## Explorar perguntas
 Tendo em vista os objetivos declarados, as seguintes reflexões foram elaboradas para serem respondidas durante o processo de avaliação:
-* 
-* 
+* Foi observado problemas de usabilidade no design do protótipo de papel ? 
+* Foi notado alguma sugestão de melhoria no design ?
+* Foi possível concluir a tarefa sem muita dificuldade pelo usuário com o design definido ?
+
   
 ## Escolher método de avaliação
 O método escolhido para a realização da avaliação foi o método da inspeção que consiste em entrevistas com o usuário utilizando um roteiro de perguntas previamente concebido pelos avaliadores visando responder as perguntas elaboradas com os objetivos finais
@@ -29,11 +31,12 @@ O método foi escolhido devido ao contato direto com o usuário, o que traz um m
 
 ## Identificar as partes práticas da avaliação
 Neste tópico será abordado os itens práticos da avaliação e suas especificações.
+
 ### Recrutamento de usuários entrevistados e ferramentas
-Cada entrevistador será incumbido de recrutar um entrevistado que segue os padrões já definidos pela equipe em perfil do usuário. Cada entrevistador decidirá o local em que ocorrerá a entrevista para que favoreça ambas as partes, podendo ser ao vivo ou via plataforma online, contanto que a entrevista seja gravada e tenha o conscentimento do entrevistado.
+Cada entrevistador será incumbido de recrutar um entrevistado que segue os padrões já definidos pela equipe em perfil do usuário. Cada entrevistador decidirá o local em que ocorrerá a entrevista para que favoreça ambas as partes, podendo ser ao vivo ou via plataforma online, contanto que a entrevista seja gravada e tenha o conscentimento do entrevistado. O numéro de participantes entrevistados deve ser algo em torno de 5 a 8 para obter dados sólidos.
 
 ### Teste piloto
-
+   O teste piloto, essencial para a verificação da eficácia do a avaliação antes da mesma ser realizada com os entrevistados, será realizado antes das entrevistas e estará disponibilizado para vizualização [neste link]()
 
 ### Cronograma de entrevistas
 A seguir é disponibilizado o cronograma de entrevistas que cada um dos integrantes realizará:
@@ -43,14 +46,24 @@ A seguir é disponibilizado o cronograma de entrevistas que cada um dos integran
 
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
-| [Caio Mesquita](https://github.com/Caiomesvie) |  Leila Kelri  |       16:40       |     16:45      | 02/11/2023 | Plataforma Google Meet  |
-| [Felipe de Sousa](https://github.com/fsousac) | Laís Soares | 16:00 | 16:25 | 03/11/2023 | Pessoalmente |
-| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 02/11/2023 |   Pessoalmente    |
-| [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 02/11/2023 |   Plataforma Discord    |
-|  [João Pedro](https://github.com/JoosPerro) | Ronildo  |       21:30       |    22:00      | 02/11/2023 | Plataforma Discord |
-(alterar) 
+| [Caio Mesquita](https://github.com/Caiomesvie)   |  Leila Kelri  |       20:00       |     20:30      | 08/11/2023 | Presencial  |
+| [Caio Mesquita](https://github.com/Caiomesvie)   |  Jane Ramalho  |       07:10       |     07:25      | 08/11/2023 | Presencial  |
+| [Felipe de Sousa](https://github.com/fsousac)     | Laís Soares     | 16:00              | 16:25          | 09/11/2023 | Pessoalmente |
+| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 11/11/2023 |   Pessoalmente    |
+| [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 8/11/2023 |   Plataforma Discord    |
+|  [João Pedro](https://github.com/JoosPerro)       | Ronildo  |       21:30       |    22:00      | 11/11/2023 | Plataforma Discord |
+
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
+
+### Tarefas a serem realizadas 
+As tarefas que serão testadas pelo protótipo de papel serão as mesmas vistas no documento [Análise de tarefas]():
+* Pesquisa Processual
+* Fazer a ConferÊncia da autenticação de documentos
+* Iniciar um processo
+* Pesquisar um processo
+* Gerar um documento 
+
 
 ### Roteiro de perguntas
 A seguir é disponibilizado o roteiro de perguntas que os avaliadores usarão na entrevista para a coleta de dados:
@@ -60,12 +73,12 @@ A seguir é disponibilizado o roteiro de perguntas que os avaliadores usarão na
 
 |n°|Pergunta|Resposta|
 | :-: | :-: | :-: |
-|1| |Sim( ) <br />Não( ) <br />Não sei( )|
-|2| |Sim( ) <br />Não( ) <br />Não sei( )|
-|3| |Sim( ) <br />Não( ) <br />Não sei( )|
-|4| |Sim( ) <br />Não( ) <br />Não sei( )|
-|5| |Sim( ) <br />Não( ) <br />Não sei( )|
-|6| |Discursiva|
+|1| Você conseguiu concluir a tarefa proposta no protótipo com dificuldade ?|Sim( ) <br />Não( ) <br />Parcialmente( )|
+|2| Você achou o design intuitivo ?|Sim( ) <br />Não( ) <br />Não sei( )|
+|3| Você sentiu que o design da interface colabora com a conclusão da sua tarefa ?|Sim( ) <br />Não( ) <br />Não sei( )|
+|4| Acha que a tarefa poderia ser concluida com menos passos ?|Sim( ) <br />Não( ) <br />Não sei( )|
+|5| Qual foi a maior dificuldade em realizar a tarefa proposta ?|Discursiva|
+|6| Quais sugestões de mlhorias você nos daria para o design da interface ?|Discursiva|
 (alterar)
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
@@ -81,7 +94,7 @@ Para garantir a segurança e privacidade dos entrevistados, será lido antes da 
 Ao concordar com estes termos poderemos dar prosseguimento a entrevista, você concorda integralmente com os termos citados ? Caso sim, Agradecemos a colaboração".
 
 ## Lidando com os dados coletados
-
+Realizadas as entrevistas, lidaremos com os dados coletados para produzir um documento onde haverá uma síntese destes dados e buscaremos com os mesmos formas de melhoria no design da interface e formas de aprimoramento dos meios para realização de cada tarefa, com sugestões de melhoras para a equipe de desenvolvimento.
 
 ## Referências Bibliográficas
 
