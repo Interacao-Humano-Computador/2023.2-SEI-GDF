@@ -61,10 +61,11 @@ Esses resultados indicam a necessidade de um ajuste na tarefa da página de pesq
 A avaliação teve como objetivo validar se a tarefa de [fazer a conferência da autenticação de documentos](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/analise-de-tarefas/HTA?id=fazer-a-confer%c3%aancia-da-autentica%c3%a7%c3%a3o-de-documentos-cidad%c3%a3) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
 
 ### Método de avaliação
-O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
+O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 2 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
 
 <center>
-*Tabela 1* - Cronograma da entrevista.
+
+*Tabela 2* - Cronograma da entrevista.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -84,11 +85,11 @@ Durante a avaliação o usuário não relatou problemas relacionados a atividade
 ### Sugestões de melhoria
 
 - Para a tarefa analisada: Permitir a leitura do qrcode contido nos documentos direto da plataforma SEI GDF.
-- Para o site: 
+- Para o site: Ter uma pasta com documentos ligados ao servidor logado, atualmente só é possível encontrar pela ferramenta de pesquisa, que demanda um certo tempo.
 
 ### Feedback do usuário
-xx
 
+O usuário acredita que o HTA e o storyboard estão condizentes com a tarefa relacionada. Entretanto, ele menciona que, no caso do storyboard, o contexto em que o estagiário pesquisaria a autencidade do documento poderia ser diferente visto que esses profissionais tem acesso a parte logada do SEI GDF.
 
 ### Análise e interpretação dos resultados
 
@@ -96,10 +97,15 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 ### Sumário dos principais resultados
 
-xx
+
+- O fluxo de tarefas de conferir autenticidade de documento como cidadão está alinhado com o uso real dos usuários do SEI GDF.
+- O participante deu como sugestão permitir a leitura do qrcode contido nos documentos direto da plataforma SEI GDF.
+- O participante não identificou problema no diagrama HTA relatando que está condizente com a realidade de conferir autenticidade de documento.
+- O participante não identificou problema no storyboard relatando que está condizente com a realidade de conferir autenticidade de documento.
+- O participante sugeriu que no storyboard o estagiário poderia verificar a autenticidade como servidor, visto que o estagiário tem acesso a plataforma logada.
 
 
-<p style="text-align: center"><a href="https://youtu.be/4XsQSInxRLM" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtu.be/dRLNUJmbp2Q" target="blanket">Clique aqui</a></p>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/dRLNUJmbp2Q" title="Entrevista Cristiano Peixoto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
