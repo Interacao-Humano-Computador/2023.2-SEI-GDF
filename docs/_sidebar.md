@@ -56,6 +56,6 @@
 
   - [Relato dos resultados das avaliações do Storyboard e análise de tarefas](design-avaliacao-desenvolvimento/planejamento/resultados-entrevistas.md)
 
-- Protótipo de papel
-  * [Planejamento da avaliação do Protótipo de papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel.md)
-  * [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/planejamento-relato-resultados-pp.md)
+  - Protótipo de papel
+    * [Planejamento da avaliação do Protótipo de papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel.md)
+    * [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/planejamento-relato-resultados-pp.md)
