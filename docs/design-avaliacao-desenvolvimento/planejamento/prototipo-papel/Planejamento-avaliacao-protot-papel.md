@@ -41,8 +41,9 @@ Cada entrevistador será incumbido de recrutar um entrevistado que segue os padr
 ### Cronograma de entrevistas
 A seguir é disponibilizado o cronograma de entrevistas que cada um dos integrantes realizará:
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma de Entrevistas.</p></font>
 <center>
+  
+**Tabela 1** - Cronograma de Entrevistas.
 
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
@@ -53,8 +54,8 @@ A seguir é disponibilizado o cronograma de entrevistas que cada um dos integran
 | [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 8/11/2023 |   Plataforma Discord    |
 |  [João Pedro](https://github.com/JoosPerro)       | Ronildo  |       21:30       |    22:00      | 11/11/2023 | Plataforma Discord |
 
+**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie), 2023.
 </center>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
 
 ### Tarefas a serem realizadas 
 As tarefas que serão testadas pelo protótipo de papel serão as mesmas vistas no documento [Análise de tarefas](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/analise-de-tarefas/HTA.md):
@@ -68,8 +69,9 @@ As tarefas que serão testadas pelo protótipo de papel serão as mesmas vistas 
 ### Roteiro de perguntas
 A seguir é disponibilizado o roteiro de perguntas que os avaliadores usarão na entrevista para a coleta de dados:
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Roteiro de Perguntas.</p></font>
 <center>
+  
+**Tabela 2** - Roteiro de Perguntas.
 
 |n°|Pergunta|Resposta|
 | :-: | :-: | :-: |
@@ -80,8 +82,8 @@ A seguir é disponibilizado o roteiro de perguntas que os avaliadores usarão na
 |5| Qual foi a maior dificuldade em realizar a tarefa proposta ?|Discursiva|
 |6| Quais sugestões de mlhorias você nos daria para o design da interface ?|Discursiva|
 
+**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie), 2023.
 </center>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
 
 ## Questões éticas
 Para garantir a segurança e privacidade dos entrevistados, será lido antes da entrevista um breve termo de conscentimento onde o mesmo deve concordar em vídeo, para que fique registrado, e somente assim a entrevista ocorrerá.
@@ -104,4 +106,4 @@ Realizadas as entrevistas, lidaremos com os dados coletados para produzir um doc
 
 | Versão | Data       | Descrição                                       | Autor(es)                                                                                     | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------------- | ------------------------------------------------| ------------------------------------------------ |
-| `1.0`  | 06/11/2023 | Criação do artefato planejamento avl protótipos de papel| [Caio Mesquita](https://github.com/Caiomesvie)  |  | 
+| `1.0`  | 06/11/2023 | Criação do artefato planejamento avl protótipos de papel| [Caio Mesquita](https://github.com/Caiomesvie)  | [Felipe de Sousa](https://github.com/fsousac) | 
