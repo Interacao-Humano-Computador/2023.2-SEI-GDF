@@ -57,7 +57,7 @@ A seguir é disponibilizado o cronograma de entrevistas que cada um dos integran
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
 
 ### Tarefas a serem realizadas 
-As tarefas que serão testadas pelo protótipo de papel serão as mesmas vistas no documento [Análise de tarefas]():
+As tarefas que serão testadas pelo protótipo de papel serão as mesmas vistas no documento [Análise de tarefas](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/analise-de-tarefas/HTA.md):
 * Pesquisa Processual
 * Fazer a ConferÊncia da autenticação de documentos
 * Iniciar um processo
