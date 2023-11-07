@@ -166,6 +166,100 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 <font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
+## Entrevista - Gerar Documento (Servidor)
+
+### HTA
+
+#### Objetivos e escopo da avaliação
+
+A avaliação teve como objetivo validar a análise da tarefa [Gerar Documento (Servidor)](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/blob/main/docs/analise-de-requisitos/analise-de-tarefas/HTA.md#gerar-documento-servidor). A análise HTA deve estar de acordo com a realidade do usuário, com sua visão do fluxo da tarefa e também de acordo com a espectativa do usuário sobre a estrutura da tarefa presente na interface.
+
+#### Método utilizado na avaliação
+
+O método utilizado foi a entrevista. Um entrevistado habituado com a plataforma SEI foi selecionado para responder algumas perguntas e expressar suas opiniões sobre a qualidade da análise HTA.
+
+<center>
+<b>Tabela 4</b> - Cronograma da entrevista.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [João Pedro](https://github.com/JoosPerro) |    Ronildo Silva   |       20:20       |     20:43      | 06/11/2023 | reunião online no Teams |
+
+*Fonte* - [João Pedro](https://github.com/JoosPerro)
+</center>
+
+#### Justificativa da seleção do participante
+
+O entrevistado tem mais de 50 anos, é servidor público na área de tecnologia da informação, trabalha com o SEI há aproximadamente 10 anos e utilizou a plataforma de diversas maneiras, pois atuou em diversos setores.
+
+#### Principais problemas encontrados
+
+O entrevistado não relatou dificuldades para gerar um documento. Relatou, porém, que a plataforma pode ser um pouco confusa a primeira vista, para um usuário que não está habituado com a plataforma.
+
+#### Sumário dos dados
+
+- Você já utilizou o SEI? (X) Sim () Não
+- Você já utilizou algum outra plataforma do governo a trabalho? () Sim (X) Não
+- Há quantos anos usa o sistema?
+R: aproximadamente 10 anos.
+- Quais tarefas você gosta mais de realizar?
+R: a Geração de Documento é uma das tarefas que o entrevistado se sente mais confortável em executar.
+- Você passou por algum tipo de treinamento de uso do sistema?
+R: Não. O próprio entrevistado buscou tutoriais online e explorou a plataforma.
+- Você teria alguma sugestão de melhoria para o diagrama da tarefa?
+R: A visão do entrevistado sobre a tarefa é coerente com o diagrama HTA elaborado. Ele sugere a acréscimo de outras operações, registradas em "Sugestões de melhoria".
+
+#### Sugestões de melhoria
+
+Poucas sugestões de melhoria foram feitas para o HTA. O entrevistado sugeriu um diálogo que pedisse por confirmação ao finalizar a edição do documento, bem como a assinatura eletrônica do documento.
+
+Ambas as sugestões estão fora do escopo da tarefa Gerar Documento (Servidor), mas que podem ser integradas para análise de uma tarefa maior e mais complexa.
+
+#### Análise e interpretação dos dados coletados
+
+As respostas do entrevistado indicam que a representação da tarefa Gerar Documento (Servidor) está coerente com suas experiências de trabalho e suas noções.
+
+### Storyboard
+
+#### Objetivos e escopo da avaliação
+
+A avaliação do Storyboard da tarefa [Gerar Documento (Servidor)](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/blob/main/docs/analise-de-requisitos/analise-de-tarefas/HTA.md#gerar-documento-servidor) tem o objetivo de validar o Storyboard que tenta contextualizar a tarefa num cenário realista. O Storyboard deve representar uma situação (local, horário, fatores ambientais, etc.) realista e condizente com a realidade do usuário.
+
+#### Método utilizado na avaliação
+
+Assim como na análise HTA, foi utilizada a entrevista da Tabela 4.
+
+#### Justificativa da seleção do participante
+
+Assim como na análise HTA, foi utilizada a entrevista da Tabela 4, e a justificativa se encontra no Relato da Avaliação HTA.
+
+#### Principais problemas encontrados
+
+O entrevistado afirma que alguém que não conheça bem o SEI provavelmente fique confuso com a tela representada.
+
+#### Sumário dos dados
+
+- Em quais ambiente e situações você se encontrava quando utilizava o SEI?
+    R: No trabalho, em casa (pelo computador pessoal), e até no ônibus (pelo celular).
+- A situação representada nos quadrinhos já aconteceu com você?
+    R: O entrevistado nunca precisou gerar um documento tarde da noite, sempre sendo possível fazê-lo durante o dia.
+- A tarefa realizada no storyboard está de acordo com a realidade?
+    R: O entrevistado concorda com a coerência do quadrinho. Ele relatou que muitos colegas de trabalho não conseguem terminar suas tarefas durante o dia, e precisam da ajuda de alguêm mais habituado com a plataforma. Ele também conta que para usuários experientes, a tarefa proposta pode ser feita em até 3 minutos, em comparação com os 5 minutos que o personagem precisou.
+- Você concorda com a opinião do personagem do Storyboard?
+    R: Sim. A página onde se encontra o ícone de Novo Documento tem muitos ícones, porém todos importantes. Alguns atalhos para ações servem de atalho e diminuem o esforço de realização da tarefa.
+- As informações no storyboard são passadas de forma intuitiva?
+    R: Para o entrevistado, a mensagem do Storyboard ficou clara. Ele acredita que para alguém que desconhece o SEI, o quadrinho seria difícil de compreender, por desconhecer a tela ali representada.
+- Há alguma sugestão de melhoria para o storyboard?
+    R: Não.
+
+#### Análise e interpretação dos dados coletados
+
+A situação apresentada pelo Storyboard é coerente com diversas situações que o entrevistado vivienciou ou testemunhou. Apesar de o entrevistado não se identificar com alguns fatores representados, ele admite que essa situação acontece com usuários menos experientes.
+
+#### Sugestões de melhoria
+
+O Storyboard pode ser mais detalhado na tela representada. Quadros adicionais mostrando outras telas relevantes para a tarefas podem ser acrescentados.
+Os ícones devem estar organizados em grupos ou divididos em telas diferentes, a fim de melhorar a visibilidade das ações disponíveis.
 
 ## Histórico de Versões
 
@@ -174,4 +268,5 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 | `1.0`  | 04/11/2023 | Inicio do documento com a tarefa de pesquisa como servidor   | [Felipe de Sousa](https://github.com/fsousac) | [Caio Mesquita](https://github.com/Caiomesvie)  |
 | `1.1`  | 05/11/2023 | Inicio do documento com a tarefa de conferência de autenticação  | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie)  |
 | `1.2`  | 05/11/2023 | Inicio do documento com a tarefa de iniciar um processo  | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb)  |
+| `1.3`  | 07/11/2023 | Inicio do documento com a tarefa de gerar documento como servidor  | [João Pedro](https://github.com/JoosPerro) | |
 
