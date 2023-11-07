@@ -183,7 +183,7 @@ O método utilizado foi a entrevista. Um entrevistado habituado com a plataforma
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [João Pedro](https://github.com/JoosPerro) |    Ronildo Silva   |       20:20       |     20:43      | 06/11/2023 | reunião online no Teams |
+|  [João Pedro](https://github.com/JoosPerro) |    Ronildo Silva   |       20:20       |     20:43      | 06/11/2023 | plataforma Teams |
 
 *Fonte* - [João Pedro](https://github.com/JoosPerro)
 </center>
