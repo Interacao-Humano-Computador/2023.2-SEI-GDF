@@ -55,6 +55,7 @@ Esses resultados indicam a necessidade de um ajuste na tarefa da página de pesq
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/4XsQSInxRLM?si=wbLftJhThp3wRD-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+
 ## Entrevista - Fazer a conferência da autenticação de documentos (Cidadão)
 
 ### Objetivo e escopo da avaliação
@@ -111,6 +112,59 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 <font size="3"><p style="text-align: center">Fonte: [Millena Queiroz](https://github.com/MillenaQueiroz).</p></font>
 
+## Entrevista - Iniciar um processo (Servidor)
+
+### Objetivo e escopo da avaliação
+A avaliação teve como objetivo validar se a tarefa de [iniciar um processo](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/analise-de-tarefas/HTA) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
+
+### Método de avaliação
+O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 2 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
+
+<center>
+
+*Tabela 3* - Cronograma da entrevista.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Caio Mesquita](https://github.com/Caiomesvie) |    Leila Kelri    |      20:00       |    20:30     | 05/11/2023 | Pessoalmente |
+
+*Fonte* - [Caio Mesquita](https://github.com/Caiomesvie)
+</center>
+
+### Seleção de participante
+
+O participante se encaixa no perfil de usuário, pois é um usuário entre 30 e 50 anos, possui experiencia razoável com tecnologia e trabalha em uma corregedoria com o sistema SEI!
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o usuário não relatou problemas relacionados a atividade de verificar autenticação de um documento.
+
+### Sugestões de melhoria
+
+- Para a tarefa analisada: Para a tarefa analisada, sem sugestão de melhoria.
+- Para o site: Para o site em si, a melhoria sugerida foi um design de ícones mais intuitivos.
+
+### Feedback do usuário
+
+O usuário acredita que o HTA e o storyboard estão condizentes com a tarefa relacionada. Entretanto, no storyboard o entrevistado menciona que a história ficou vaga a respeito da funcionalidade em si.
+
+### Análise e interpretação dos resultados
+
+Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo da tarefa de verificar autenticação de um documento (cidadão) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI. 
+
+### Sumário dos principais resultados
+
+
+- O fluxo de tarefas de abrir um processo como servidor está alinhado com o uso real dos usuários do SEI GDF.
+- O participante deu como sugestão de melhoria de design dos ícones da plataforma SEI GDF de forma a ficar mais intuitivo.
+- O participante não identificou problema no diagrama HTA relatando que está condizente com a realidade de conferir autenticidade de documento.
+- O participante identificou no storyboard a falta de detalhes a respeito da tarefa, mas que está condizente com a realidade do mesmo.
+
+<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
 
 ## Histórico de Versões
@@ -119,3 +173,5 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 | ------ | ---------- | --------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 04/11/2023 | Inicio do documento com a tarefa de pesquisa como servidor   | [Felipe de Sousa](https://github.com/fsousac) | [Caio Mesquita](https://github.com/Caiomesvie)  |
 | `1.1`  | 05/11/2023 | Inicio do documento com a tarefa de conferência de autenticação  | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie)  |
+| `1.2`  | 05/11/2023 | Inicio do documento com a tarefa de iniciar um processo  | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb)  |
+
