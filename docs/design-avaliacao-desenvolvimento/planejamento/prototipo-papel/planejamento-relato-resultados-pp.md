@@ -76,6 +76,7 @@ Nesta etapa, será feita sugestões de correções para cada um dos problemas id
 Por fim, como o objetivo da ativida tem relação com a validação do usuário real e sugestões de mudanças podem ser sugeridas, um reprojeto pode ser necessário. No entanto, tal reprojeto deve manter a base do projeto original e realizar somente as alterações necessárias de fato. Portanto, a Tabela 2 explicita um cronograma de reprojeto, que seria feito no dia seguinte após a entrevista, tendo horário flexível.
 
 <center>
+  
 **Tabela 2** - Cronograma de Reprojeto.
 
 | Executor(a) do Reprojeto  | Horário de Início | Horário de Fim |    Data    |
