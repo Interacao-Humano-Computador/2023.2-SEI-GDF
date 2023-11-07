@@ -81,6 +81,7 @@ Para garantir a segurança e privacidade dos entrevistados, será lido antes da 
 * Sua participação é voluntária
 * Os dados obtidos nessa entrevista estarão visiveis de forma pública e poderão ser utilizados para fins acadêmicos
 * A entrevista pode ser parada a qualquer momento que desejar
+  
 Ao concordar com estes termos poderemos dar prosseguimento a entrevista, você concorda integralmente com os termos citados ? Caso sim, Agradecemos a colaboração".
 
 ## Lidando com os dados coletados
