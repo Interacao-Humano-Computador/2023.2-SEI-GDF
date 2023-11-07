@@ -40,11 +40,12 @@ A fim de mater um padrão no cronograma, iremos ilustrar na tabela 1, o exemplo 
 
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
-| [Caio Mesquita](https://github.com/Caiomesvie) |  --  |       --       |     --     | -- | --  |
-| [Felipe de Sousa](https://github.com/fsousac)  | --|       --       |     --      | -- | -- |
-| [Millena Queiroz](https://github.com/MillenaQueiroz) | -- |       --      |    --      | -- |   --    |
-| [Lucas Caldas](https://github.com/lucascaldasb)   |  --  |       --       |     --      | -- |   --    |
-|  [João Pedro](https://github.com/JoosPerro) | --  |       --       |    --      | -- | --
+| [Caio Mesquita](https://github.com/Caiomesvie)   |  Leila Kelri  |       20:00       |     20:30      | 08/11/2023 | Presencial  |
+| [Caio Mesquita](https://github.com/Caiomesvie)   |  Jane Ramalho  |       07:10       |     07:25      | 08/11/2023 | Presencial  |
+| [Felipe de Sousa](https://github.com/fsousac)     | Laís Soares     | 16:00              | 16:25          | 09/11/2023 | Pessoalmente |
+| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 11/11/2023 |   Pessoalmente    |
+| [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 8/11/2023 |   Plataforma Discord    |
+|  [João Pedro](https://github.com/JoosPerro)       | Ronildo  |       21:30       |    22:00      | 11/11/2023 | Plataforma Discord |
 
 **Fonte** - _[Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README)_
 
@@ -79,11 +80,11 @@ Por fim, como o objetivo da ativida tem relação com a validação do usuário 
 
 | Executor(a) do Reprojeto  | Horário de Início | Horário de Fim |    Data    |
 | :----------------:  | :---------------: | :------------: | :--------: |
-|  [Caio Mesquita](https://github.com/Caiomesvie)  |         A definir      |     A definir       | 23/11/2023 |
-|  [Felipe de Sousa](https://github.com/fsousac)  |          A definir      |     A definir     | 23/11/2023 |
-|  [Millena Queiroz](https://github.com/MillenaQueiroz)  |        A definir      |     A definir      | 23/11/2023 |
-|  [Lucas Caldas](https://github.com/lucascaldasb) |          A definir       |     A definir     | 23/11/2023 |
-|  [João Pedro](https://github.com/JoosPerro) |          A definir       |    A definir      | 23/11/2023 |
+|  [Caio Mesquita](https://github.com/Caiomesvie)  |         20:30     |     21:30       | 12/11/2023 |
+|  [Felipe de Sousa](https://github.com/fsousac)  |          19:00      |     20:00     | 12/11/2023 |
+|  [Millena Queiroz](https://github.com/MillenaQueiroz)  |       18:30      |     19:30      | 12/11/2023 |
+|  [Lucas Caldas](https://github.com/lucascaldasb) |          13:00       |     14:00     | 12/11/2023 |
+|  [João Pedro](https://github.com/JoosPerro) |          16:00      |    17:00     | 12/11/2023 |
 
 **Fonte** - [Lucas Caldas](https://github.com/lucascaldasb).
 </center>
@@ -97,4 +98,5 @@ Por fim, como o objetivo da ativida tem relação com a validação do usuário 
 
 | Versão |    Data    |                        Descrição                        |    Autor(es)     |  Revisor(es)  |
 | :----: | :--------: | :-----------------------------------------------------: | :--------------: | :-----------: |
-| `1.0`  | 28/10/2023 | Criação do documento | [Lucas Caldas](https://github.com/lucascaldasb) |  |
+| `1.0`  | 28/10/2023 | Criação do documento | [Lucas Caldas](https://github.com/lucascaldasb) | [Caio Mesquita](https://github.com/Caiomesvie) |
+| `1.1`  | 06/11/2023 | Adição das datas de reprojeto e entrevistas | [Lucas Caldas](https://github.com/lucascaldasb) | [Caio Mesquita](https://github.com/Caiomesvie) |
