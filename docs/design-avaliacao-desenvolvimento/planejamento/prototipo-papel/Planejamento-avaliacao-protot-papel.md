@@ -79,7 +79,7 @@ A seguir é disponibilizado o roteiro de perguntas que os avaliadores usarão na
 |4| Acha que a tarefa poderia ser concluida com menos passos ?|Sim( ) <br />Não( ) <br />Não sei( )|
 |5| Qual foi a maior dificuldade em realizar a tarefa proposta ?|Discursiva|
 |6| Quais sugestões de mlhorias você nos daria para o design da interface ?|Discursiva|
-(alterar)
+
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Caio Mesquita](https://github.com/Caiomesvie), 2023.</p></font>
 
