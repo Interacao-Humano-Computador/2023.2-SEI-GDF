@@ -1,4 +1,4 @@
-# Planejamento do relato dos resultados da avaliação da Análise de tarefas
+# Planejamento do relato dos resultados da avaliação do Protótipo de papel
 
 ## Introdução
 

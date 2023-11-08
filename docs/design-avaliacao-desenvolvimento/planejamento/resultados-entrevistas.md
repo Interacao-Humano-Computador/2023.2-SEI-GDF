@@ -13,6 +13,7 @@ A avaliação teve como objetivo validar se a tarefa de [Pesquisar processo (Ser
 O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitaas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
 
 <center>
+    
 *Tabela 1* - Cronograma da entrevista.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
@@ -160,9 +161,9 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 - O participante não identificou problema no diagrama HTA relatando que está condizente com a realidade de conferir autenticidade de documento.
 - O participante identificou no storyboard a falta de detalhes a respeito da tarefa, mas que está condizente com a realidade do mesmo.
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtu.be/1MjgmkR1iPI?si=1D1ZOiPM2n7i7R4E" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/1MjgmkR1iPI?si=1D1ZOiPM2n7i7R4E" title="entrevista ihc grupo 8 23.2 analise tarefas e storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
@@ -179,7 +180,8 @@ A avaliação teve como objetivo validar a análise da tarefa [Gerar Documento (
 O método utilizado foi a entrevista. Um entrevistado habituado com a plataforma SEI foi selecionado para responder algumas perguntas e expressar suas opiniões sobre a qualidade da análise HTA.
 
 <center>
-<b>Tabela 4</b> - Cronograma da entrevista.
+    
+*Tabela 4* - Cronograma da entrevista.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -324,3 +326,5 @@ Esses resultados indicam a necessidade de um ajuste na tarefa da página de pesq
 | `1.2`  | 05/11/2023 | Inicio do documento com a tarefa de iniciar um processo  | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb)  |
 | `1.3`  | 07/11/2023 | Inicio do documento com a tarefa de gerar documento como servidor  | [João Pedro](https://github.com/JoosPerro) | [Lucas Caldas](https://github.com/lucascaldasb) |
 | `1.4`  | 07/11/2023 | Inicio do documento com a tarefa de pesquisar um processo como cidadão  | [Lucas Caldas](https://github.com/lucascaldasb) | [João Pedro](https://github.com/JoosPerro) | 
+
+
