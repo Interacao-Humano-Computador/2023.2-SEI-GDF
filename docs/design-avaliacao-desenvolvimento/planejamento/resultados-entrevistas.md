@@ -158,7 +158,7 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 - O fluxo de tarefas de abrir um processo como servidor está alinhado com o uso real dos usuários do SEI GDF.
 - O participante deu como sugestão de melhoria de design dos ícones da plataforma SEI GDF de forma a ficar mais intuitivo.
-- O participante não identificou problema no diagrama HTA relatando que está condizente com a realidade de conferir autenticidade de documento.
+- O participante não identificou problema no diagrama HTA relatando que está condizente com a realidade de abrir um processo.
 - O participante identificou no storyboard a falta de detalhes a respeito da tarefa, mas que está condizente com a realidade do mesmo.
 
 <p style="text-align: center"><a href="https://www.youtube.com/1MjgmkR1iPI" target="blanket">Clique aqui</a></p>
