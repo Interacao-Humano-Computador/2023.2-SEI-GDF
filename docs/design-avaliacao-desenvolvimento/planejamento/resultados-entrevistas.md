@@ -163,7 +163,7 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 <p style="text-align: center"><a href="https://www.youtube.com/1MjgmkR1iPI" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="1228" height="691" src="https://www.youtube.com/embed/1MjgmkR1iPI" title="entrevista ihc grupo 8 23.2 analise tarefas e storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/1MjgmkR1iPI" title="entrevista ihc grupo 8 23.2 analise tarefas e storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
