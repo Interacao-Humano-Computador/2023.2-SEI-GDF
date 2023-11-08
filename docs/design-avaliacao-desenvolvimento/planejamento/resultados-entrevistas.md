@@ -177,7 +177,7 @@ A avaliação teve como objetivo validar a análise da tarefa [Gerar Documento (
 
 #### Método utilizado na avaliação
 
-O método utilizado foi a entrevista. Um entrevistado habituado com a plataforma SEI foi selecionado para responder algumas perguntas e expressar suas opiniões sobre a qualidade da análise HTA.
+O método utilizado foi a investigação com entrevista. Um entrevistado habituado com a plataforma SEI foi selecionado para responder algumas perguntas e expressar suas opiniões sobre a qualidade da análise HTA.
 
 <center>
     
