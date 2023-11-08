@@ -10,7 +10,7 @@ Esse artefato tem o objetivo de documentar um planejamento para o relato dos res
 A avaliação teve como objetivo validar se a tarefa de [Pesquisar processo (Servidor)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/analise-de-tarefas/HTA?id=pesquisar-um-processo-servidor) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
 
 ### Método de avaliação
-O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitaas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
+O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
 
 <center>
     
@@ -33,20 +33,20 @@ Por mais que não tenha apresentado nenhuma grande dificuldade para realização
 
 ### Sugestões de melhoria
 
-- Para a tarefa analisada: A usuária recomendou a conjulgação de campos de pesquisa, deixando a ação de pesquisar um processo mais dinâmica, e citou a limitação de pesquisa para a unidade presente.
+- Para a tarefa analisada: A usuária recomendou a conjulgação de campos de pesquisa, deixando a ação de pesquisar um processo mais dinâmica, filtros após a pesquisa para ordenar os processos resultantes de melhor forma, e citou a limitação de pesquisa para a unidade presente.
 - Para o site: A usuária citou pontos de melhoria que gostaria tais quais: Melhorias na edição de documentos, Implementação de ferramentas do tipo Office, Multitasking de processos e Melhorias no layout do site.
 
 ### Feedback do usuário
 
-A usuária fez as recomendações de melhoria citadas, e diz que existem outras ferramentas de busca de processos fora da aba de pesquisa, e cita também que o site necessita treinamento e conhecimento sobre o órgão, sobre mapeamento de processo, sobre gestão e conhecimento administrativo.
+A usuária fez as recomendações de melhoria citadas, e diz que existem outras ferramentas de busca de processos fora da aba de pesquisa, e cita também que o site necessita treinamento e conhecimento sobre o órgão, sobre mapeamento de processo, sobre gestão e conhecimento administrativo. Sobre o storyboard, a entrevistada diz que o artefato está condizente com a realidade em um cenário otimista, porém a solução para o storyboard está contida na sugestão de inserção de filtros pós pesquisa.
 
 ### Análise e interpretação dos resultados
 
-Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo da tarefa de Pesquisar processo (servidor) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI. Porém, ainda é uma tarefa complexa para novos usuários, sendo necessário algum tempo de experiência para tornar a tarefa mais ágil.
+Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo da tarefa de Pesquisar processo (servidor) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI. Porém, ainda é uma tarefa complexa para novos usuários, sendo necessário algum tempo de experiência para tornar a tarefa mais ágil. Para o Storyboard, temos que o artefato é satisfatório de acordo com o pretendido.
 
 ### Sumário dos principais resultados
 
-* O fluxo da tarefa de Pesquisar processo (servidor) está alinhado com o proposto para o escopo da avaliação.
+* O fluxo da tarefa de Pesquisar processo (servidor) e o Storyboard estão alinhados com o proposto para o escopo da avaliação.
 * O usuário encontrou alguma dificuldade ao realizar uma pesquisa que retorna um grande número de processos, tendo em vista que não há nenhum meio de filtrar a forma que a pesquisa é retornada, o que torna a tarefa mais custosa.
 
 Esses resultados indicam a necessidade de um ajuste na tarefa da página de pesquisa do site para proporcionar uma experiência mais eficiente e satisfatória aos usuários do SEI.
