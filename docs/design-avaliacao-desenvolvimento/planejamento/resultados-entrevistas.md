@@ -302,7 +302,7 @@ Por mais que não tenha apresentado nenhuma grande dificuldade para realização
 
 ### Feedback do usuário
 
-O usuário fez as recomendações de melhoria citadas, e diz que existem outras ferramentas de busca de processos fora da aba de pesquisa, e cita também que o site necessita treinamento e conhecimento sobre o órgão, sobre mapeamento de processo, sobre gestão e conhecimento administrativo.
+O usuário fez as recomendações de melhoria citadas, e diz que existem outras ferramentas de busca de processos fora da aba de pesquisa, e cita também que o site necessita treinamento e conhecimento sobre o órgão, sobre mapeamento de processo, sobre gestão e conhecimento administrativo. Sobre o storyboard, o usuário afirmou estar condizente com a realidade porém achou interessante especificar mais o problema de solicitar uma autorização para visualização do processo.
 
 ### Análise e interpretação dos resultados
 
