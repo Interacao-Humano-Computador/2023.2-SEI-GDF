@@ -261,6 +261,60 @@ A situação apresentada pelo Storyboard é coerente com diversas situações qu
 O Storyboard pode ser mais detalhado na tela representada. Quadros adicionais mostrando outras telas relevantes para a tarefas podem ser acrescentados.
 Os ícones devem estar organizados em grupos ou divididos em telas diferentes, a fim de melhorar a visibilidade das ações disponíveis.
 
+
+## Entrevista - Pesquisar processo (Cidadão)
+
+### Objetivo e escopo da avaliação
+A avaliação teve como objetivo validar se a tarefa de [Pesquisar processo (Cidadão)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/analise-de-tarefas/HTA?id=pesquisa-processual-cidadão) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
+
+### Método de avaliação
+O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar o HTA e do Storyboard da tarefa.
+
+<center>
+*Tabela 1* - Cronograma da entrevista.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Lucas Caldas](https://github.com/lucascaldasb) |    Pedro Igor   |       20:30       |     21:00     | 07/11/2023 | Plataforma Teams |
+
+*Fonte* - [Lucas Caldas](https://github.com/lucascaldasb)
+</center>
+
+### Seleção de participante
+
+A participante se encaixa no perfil de usuário, pois é um estagiário de direito, possui boa experiência com tecnologia e já realizou a ação de pesquisar processos como cidadão.
+
+### Problemas e dificuldades encontradas
+
+Por mais que não tenha apresentado nenhuma grande dificuldade para realização da tarefa, o usuário relata que após a pesquisa como cidadão, para obter as informações referentes a um processo é necessário solicitar uma autorização para que cada processo fique disponível para visualização, dificultando a busca pelo processo desejado sem mais informações. Além disso, relatou a baixa intuitividade da plataforma, o que impossibilita uma pessoa com menos conhecimentos a acessar o site.
+
+### Sugestões de melhoria
+
+- Para a tarefa analisada: O usuário não informou ter problemas.
+- Para o site: O usuário recomendou que o site informe como deve ser a inserção dos dados na pesquisa e trazer mais senso de localidade , deixando a ação de pesquisar um processo mais intuitivo.
+
+### Feedback do usuário
+
+O usuário fez as recomendações de melhoria citadas, e diz que existem outras ferramentas de busca de processos fora da aba de pesquisa, e cita também que o site necessita treinamento e conhecimento sobre o órgão, sobre mapeamento de processo, sobre gestão e conhecimento administrativo.
+
+### Análise e interpretação dos resultados
+
+Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo da tarefa de Pesquisar processo (cidadão) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI. Porém, ainda é uma tarefa complexa para novos usuários, sendo necessário algum tempo de experiência para tornar a tarefa mais ágil.
+
+### Sumário dos principais resultados
+
+* O fluxo da tarefa de Pesquisar processo (cidadão) está alinhado com o proposto para o escopo da avaliação.
+* O usuário encontrou alguma dificuldade ao realizar uma pesquisa que não traz de imediato os processos relacionados ao usuário, tendo em vista que não há nenhuma informação sobre o pedido de autorização para consulta diretamente no site e sim, somente na documentação da plataforma.
+
+Esses resultados indicam a necessidade de um ajuste na tarefa da página de pesquisa do site para proporcionar uma experiência mais eficiente e satisfatória aos usuários do SEI.
+
+<p style="text-align: center"><a href="https://youtu.be/GYIE5eG-B24" target="blanket">Clique aqui</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GYIE5eG-B24" title="Entrevista para Análise de Tarefas e Storyboard - IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                     | Autor(es)                                        | Revisor(es)                                    |
@@ -268,5 +322,5 @@ Os ícones devem estar organizados em grupos ou divididos em telas diferentes, a
 | `1.0`  | 04/11/2023 | Inicio do documento com a tarefa de pesquisa como servidor   | [Felipe de Sousa](https://github.com/fsousac) | [Caio Mesquita](https://github.com/Caiomesvie)  |
 | `1.1`  | 05/11/2023 | Inicio do documento com a tarefa de conferência de autenticação  | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie)  |
 | `1.2`  | 05/11/2023 | Inicio do documento com a tarefa de iniciar um processo  | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb)  |
-| `1.3`  | 07/11/2023 | Inicio do documento com a tarefa de gerar documento como servidor  | [João Pedro](https://github.com/JoosPerro) | |
-
+| `1.3`  | 07/11/2023 | Inicio do documento com a tarefa de gerar documento como servidor  | [João Pedro](https://github.com/JoosPerro) | [Lucas Caldas](https://github.com/lucascaldasb) |
+| `1.4`  | 07/11/2023 | Inicio do documento com a tarefa de pesquisar um processo como cidadão  | [Lucas Caldas](https://github.com/lucascaldasb) | [João Pedro](https://github.com/JoosPerro) | 
