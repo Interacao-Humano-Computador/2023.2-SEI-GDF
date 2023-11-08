@@ -13,6 +13,7 @@ A avaliação teve como objetivo validar se a tarefa de [Pesquisar processo (Ser
 O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitaas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
 
 <center>
+    
 *Tabela 1* - Cronograma da entrevista.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
@@ -179,7 +180,8 @@ A avaliação teve como objetivo validar a análise da tarefa [Gerar Documento (
 O método utilizado foi a entrevista. Um entrevistado habituado com a plataforma SEI foi selecionado para responder algumas perguntas e expressar suas opiniões sobre a qualidade da análise HTA.
 
 <center>
-<b>Tabela 4</b> - Cronograma da entrevista.
+    
+*Tabela 4* - Cronograma da entrevista.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -268,5 +270,5 @@ Os ícones devem estar organizados em grupos ou divididos em telas diferentes, a
 | `1.0`  | 04/11/2023 | Inicio do documento com a tarefa de pesquisa como servidor   | [Felipe de Sousa](https://github.com/fsousac) | [Caio Mesquita](https://github.com/Caiomesvie)  |
 | `1.1`  | 05/11/2023 | Inicio do documento com a tarefa de conferência de autenticação  | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie)  |
 | `1.2`  | 05/11/2023 | Inicio do documento com a tarefa de iniciar um processo  | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb)  |
-| `1.3`  | 07/11/2023 | Inicio do documento com a tarefa de gerar documento como servidor  | [João Pedro](https://github.com/JoosPerro) | |
+| `1.3`  | 07/11/2023 | Inicio do documento com a tarefa de gerar documento como servidor  | [João Pedro](https://github.com/JoosPerro) | [Felipe de Sousa](https://github.com/fsousac) |
 
