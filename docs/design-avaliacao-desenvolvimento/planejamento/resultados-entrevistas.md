@@ -263,7 +263,7 @@ A situação apresentada pelo Storyboard é coerente com diversas situações qu
 O Storyboard pode ser mais detalhado na tela representada. Quadros adicionais mostrando outras telas relevantes para a tarefas podem ser acrescentados.
 Os ícones devem estar organizados em grupos ou divididos em telas diferentes, a fim de melhorar a visibilidade das ações disponíveis.
 
-<p style="text-align: center"><a href="https://www.youtube.com/_cysisUbHRc" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtu.be/_cysisUbHRc?si=RE4UbEg1YOn9vrWr" target="blanket">Clique aqui</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_cysisUbHRc" title="IHC: Entrevista 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
