@@ -151,7 +151,7 @@ O usuário acredita que o HTA e o storyboard estão condizentes com a tarefa rel
 
 ### Análise e interpretação dos resultados
 
-Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo da tarefa de verificar autenticação de um documento (cidadão) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI. 
+Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo da tarefa de iniciar um processo está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI. O storyboard também está condizente com a realidade do usuário mas faltou detalhamento na tarefa.
 
 ### Sumário dos principais resultados
 
