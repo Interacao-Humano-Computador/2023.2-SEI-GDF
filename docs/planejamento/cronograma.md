@@ -165,6 +165,50 @@ A **Tabela 6** trata do cronograma executado do desenvolvimento de todas as ativ
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JoosPerro).</p></font>
 
+## Etapa 5 - Relato dos Resultados do Story Board, Relato dos Resultados da Análise de Tarefas, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel.
+
+### Planejado
+
+A **Tabela 7** trata do cronograma planejado para o desenvolvimento das atividades referentes à Etapa 5 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Relato dos Resultados do Story Board, Relato dos Resultados da Análise de Tarefas, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel</p></font>
+
+<center>
+
+| Atividades                                                | Período de desenvolvimento  | Responsáveis | Período de revisão | Revisores |
+| --------------------------------------------------------- | --------------------------- | ------------ | ------------------ | --------- |
+| Produzir o cronograma de planejamento referente à Etapa 5 | Início: 30/10/2023<br>Fim: 01/11/2023 | [João Pedro](https://github.com/JoosPerro) | Início: 01/10/2023<br>Fim: 02/11/2023 | [Millena Queiroz](https://github.com/millenaqueiroz) |
+| Produzir o cronograma de execução referente à Etapa 5     | Início: 05/10/2023<br>Fim: 06/11/2023 | [João Pedro](https://github.com/JoosPerro) | Início: 06/10/2023<br>Fim: 06/11/2023 | [Lucas Caldas](https://github.com/lucascaldasb) |
+| Relato dos resultados do Story Board                      | Início: 03/10/2023<br>Fim: 05/11/2023 | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: 05/10/2023<br>Fim: 06/11/2023 | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro)  |
+| Relato dos resultados da Análise de tarefas               | Início: 03/10/2023<br>Fim: 05/11/2023 | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: 05/10/2023<br>Fim: 06/11/2023 | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro)  |
+| Planejamento da Avaliação do Protótipo de Papel           | Início: 30/10/2023<br>Fim: 04/11/2023 | [Caio Mesquita](https://github.com/Caiomesvie) | Início: 05/11/2023<br>Fim: 06/11/2023 | [Felipe de Sousa](https://github.com/fsousac)|
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel | Início: 30/10/2023<br>Fim: 04/11/2023 | [Lucas Caldas](https://github.com/lucascaldasb) | Início: 05/11/2023<br>Fim: 06/11/2023 | [Caio Mesquita](https://github.com/Caiomesvie) |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JoosPerro).</p></font>
+
+### Executado
+
+A **Tabela 8** trata do cronograma da execução das atividades referentes à Etapa 5 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Relato dos Resultados do Story Board, Relato dos Resultados da Análise de Tarefas, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel</p></font>
+
+<center>
+
+| Atividades                                                | Período de desenvolvimento  | Responsáveis | Período de revisão | Revisores |
+| --------------------------------------------------------- | --------------------------- | ------------ | ------------------ | --------- |
+| Produzir o cronograma de planejamento referente à Etapa 5 | Início: 07/10/2023<br>Fim: 08/11/2023 | [João Pedro](https://github.com/JoosPerro) | Início: 08/10/2023<br>Fim: 08/11/2023 | [Millena Queiroz](https://github.com/millenaqueiroz) |
+| Produzir o cronograma de execução referente à Etapa 5     | Início: 07/10/2023<br>Fim: 08/11/2023 | [João Pedro](https://github.com/JoosPerro) | Início: 08/10/2023<br>Fim: 08/11/2023 | [Lucas Caldas](https://github.com/lucascaldasb) |
+| Relato dos resultados do Story Board                      | Início: 03/10/2023<br>Fim: 07/11/2023 | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: 07/10/2023<br>Fim: 07/11/2023 | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro)  |
+| Relato dos resultados da Análise de tarefas               | Início: 03/10/2023<br>Fim: 07/11/2023 | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro) | Início: 07/10/2023<br>Fim: 07/11/2023 | [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/millenaqueiroz), [Caio Mesquita Vieira](https://github.com/Caiomesvie), [Lucas Caldas](https://github.com/lucascaldasb) e [João Pedro](https://github.com/JoosPerro)  |
+| Planejamento da Avaliação do Protótipo de Papel           | Início: 30/10/2023<br>Fim: 04/11/2023 | [Caio Mesquita](https://github.com/Caiomesvie) | Início: 05/11/2023<br>Fim: 06/11/2023 | [Felipe de Sousa](https://github.com/fsousac)|
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel | Início: 30/10/2023<br>Fim: 04/11/2023 | [Lucas Caldas](https://github.com/lucascaldasb) | Início: 05/11/2023<br>Fim: 06/11/2023 | [Caio Mesquita](https://github.com/Caiomesvie) |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JoosPerro).</p></font>
+
 ## Bibliografia
 
 > - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692453/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf>>. Acesso em 27 de set. de 2023.
@@ -184,3 +228,4 @@ A **Tabela 6** trata do cronograma executado do desenvolvimento de todas as ativ
 | `1.6`   | 04/10/2023 | Atualização dos dados sobre Autores e Revisores. | [Artur Ricardo](https://github.com/algorithmorphic) | [João Pedro](https://github.com/JoosPerro) |
 | `1.7`   | 16/10/2023 | Inserção dos dados dos cronogramas de planejamento (**Tabela 3**) e execução (**Tabela 4**) referentes à Etapa 2 do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | [João Pedro](https://github.com/JoosPerro) |
 | `1.8`   | 28/10/2023 | Criação das tabelas de planejamento (**Tabela 5**) e execução (**Tablea 6**) | [João Pedro](https://github.com/JoosPerro) | |
+| `1.9`   | 08/10/2023 | Criação dos cronogramas (**Tabela 7** e **Tabela 8**) da Etapa 5 | [João Pedro](https://github.com/JoosPerro) | [Millena Queiroz](https://github.com/millenaqueiroz) e [Lucas Caldas](https://github.com/lucascaldasb) | 
