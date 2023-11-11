@@ -8,6 +8,7 @@
   - [Reunião 03](atas/IHC_ATA_03.md)
   - [Reunião 04](atas/IHC_ATA_04.md)
   - [Reunião 05](atas/IHC_ATA_05.md)
+  - [Reunião 06](atas/IHC_ATA_06.md)
 
 
 * Apresentações
@@ -60,3 +61,10 @@
   - Protótipo de papel
     * [Planejamento da avaliação do Protótipo de papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel.md)
     * [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/planejamento-relato-resultados-pp.md)
+
+* Verificação
+  - Etapa 1 
+  - Etapa 2 
+  - Etapa 3 
+  - Etapa 4 
+  - Etapa 5 
