@@ -19,8 +19,7 @@ Local: Microsoft Teams
 - Verificação dos artefatos do [grupo 1](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal)
 
 ## Decisões:
-- [Entrega passada] Correção do Cronograma - [João Pedro Veras Gomes](https://github.com/JoosPerro)
-- [Entrega passada] Ajustar o relato para dividir entre storyboard e HTA (todos)
+
 - Realizar protótipo de papel (Todos, com base na atividade que ficaram responsável)
 - Verificação de artefatos
     - Planejamento de verificação, Cronograma, Ferramentas, Processo de Design, Site Escolhido - [Lucas Caldas Barbosa de Souza](https://github.com/lucascaldasb)
@@ -30,18 +29,21 @@ Local: Microsoft Teams
     - Planejamento da verificação, Relato dos Resultados do Storyboard, Relato dos resultados da Análise de Tarefas, Planejamento da avaliação do Protótipo de Papel e Planejamento do relato dos resultados do Protótipo de Papel - [João Pedro Veras Gomes](https://github.com/JoosPerro)
   
 ## Pendências Anteriores:
--
+
+- Correção do Cronograma - [João Pedro Veras Gomes](https://github.com/JoosPerro)
+- Ajustar o relato para dividir entre storyboard e HTA (todos)
 
 ## Link da gravação:
-- [Link]()
+- [Link](https://youtu.be/exYfVRCL1vo)
 
 ## Próxima Reunião 
 ### Data: 13/11/2023 às 21:00
 
 ## Histórico de versão
 
-| Versão   | Data           | Descrição                                                                | Autor(es)                                        | Revisor(es)                                      |
-| :------: | :------------: | ------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`    | 11/11/2023     | Criação da documentação.                                                 |    [Millena](https://github.com/millenaqueiroz)         |     |
+| Versão   | Data           | Descrição                                                                | Autor(es)                                        | Revisor(es)                          |
+| :------: | :------------: | ----------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`    | 11/11/2023     | Criação da documentação.                              |    [Millena Queiroz](https://github.com/millenaqueiroz)    |  [Felipe de Sousa](https://github.com/fsousac) |
+| `1.1`    | 11/11/2023     | Inserção do link da reunião.                              |    [Felipe de Sousa](https://github.com/fsousac)    | [Millena Queiroz](https://github.com/millenaqueiroz)   |
 
                                           
