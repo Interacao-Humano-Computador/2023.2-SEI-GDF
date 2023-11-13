@@ -37,6 +37,8 @@ Na tabela 1, os campos de "Avaliação" e "Observações" serão preenchidos no 
 
 O artefato foi verificado e gerou os resultados da Tabela 2, sendo possível identificar os tópicos faltantes e/ou concluídos.
 
+<center>
+
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist preechido. </p></font>
 
 | ID  |                                                                                      Descrição                                                                                       | Avaliação  |        Observações         |
@@ -53,6 +55,8 @@ O artefato foi verificado e gerou os resultados da Tabela 2, sendo possível ide
 | 10  |                                                     O diagrama da análise hierárquica de tarefas segue a representação correta?                                                      | Incompleto | Será justificado no texto. |
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+
+</center>
 
 Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
 
@@ -82,12 +86,38 @@ Analisando algumas das tarefas presentes nos documentos temos algumas descriçõ
 
 </center>
 
+### CTT
+
+O artefato foi verificado e gerou os resultados da Tabela 3, sendo possível identificar os tópicos faltantes e/ou concluídos.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist preechido. </p></font>
+
+| ID  |                                                                                      Descrição                                                                                       | Avaliação  |        Observações        |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------------: |
+|  1  |                                                                            O artefato possui Introdução?                                                                             |    Sim     |                           |
+|  2  |                                                        O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                                         |    Sim     |                           |
+|  3  |                                        O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                                        |    Sim     |                           |
+|  4  |                                                     Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                     |    Sim     |                           |
+|  5  |                                                                        Todos os textos estão na norma padrão?                                                                        |    Sim     |                           |
+|  6  |                             As tarefas foram descritas em termos de objetivos que os usuários precisam executar, evitando descrições vagas ou ambíguas?                              | Incompleto | Mesmas observações do HTA |
+|  7  |                                                                       As tarefas apresentadas são verossímeis?                                                                       |    Sim     |                           |
+|  8  | As tarefas foram formuladas de maneira conceitual e orientada ao usuário, focando nas ações que eles executam, em vez de detalhes técnicos ou da implementação/interface do sistema? |    Sim     |                           |
+| 11  |                                            A análise de tarefas com o método CTT apresenta representações gráficas coerentes às tarefas?                                             |    Sim     |                           |
+
+<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+
+</center>
+
+Com base na tabela preenchida, as considerações feitas serão as mesmas já citadas no ID 6 do HTA, não sendo necessário repeti-las
+
 ## Sugestões e melhorias
 
-O artefato está muito bom, com exceção de algumas pequenas ressalvas com relação aos pontos citados, sugere-se algumas melhorias a seguir:
+Os artefatos estão bem definidos e executados, salvo alguns detalhes com relação aos pontos citados. Sugere-se. portanto, algumas melhorias a seguir:
 
-- Reorganizar as tarefas de alguns diagramas, explicitando melhor que são sub-tarefas umas das outras;
-- Realizar descrições mais claras de algumas tarefas, de forma que o artefato seja mais independente do artefato de Cenários.
+- Reorganizar as tarefas de alguns diagramas do HTA, explicitando melhor que são sub-tarefas umas das outras;
+- Realizar descrições mais claras de algumas tarefas, de forma que os artefatos seja mais independente do artefato de Cenários.
 
 ## Referências Bibliográficas
 

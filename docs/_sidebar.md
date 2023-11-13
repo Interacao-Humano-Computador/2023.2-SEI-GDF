@@ -69,7 +69,9 @@
 * Verificação
   - Etapa 1
   - Etapa 2
+    - [Planejamento da Verificação da Etapa 2](verificacao/Grupo1/Etapa2/planejamento-verificacao-etapa2.md)
+    - [Análise de Tarefas](verificacao/Grupo1/Etapa2/analise_tarefas.md)
   - Etapa 3
-    - [Planejamento da Verificação](verificacao/Etapa3/planejamento_verif_etapa_3.md)
+    - [Planejamento da Verificação da Etapa 3](verificacao/Grupo1/Etapa3/planejamento_verif_etapa_3.md)
   - Etapa 4
   - Etapa 5
