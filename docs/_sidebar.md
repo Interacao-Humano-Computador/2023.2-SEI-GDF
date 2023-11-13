@@ -66,5 +66,6 @@
   - Etapa 1 
   - Etapa 2 
   - Etapa 3 
+      * [Planejamento da Verificação](verificacao/planejamento_verif_etapa_3.md)
   - Etapa 4 
   - Etapa 5 
