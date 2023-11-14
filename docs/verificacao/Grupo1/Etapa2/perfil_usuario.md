@@ -23,7 +23,7 @@ A checklist, baseada no livro Interação-Humano-Computador de Barbosa e Silva, 
 |  8  |                                                           Os perfis de usuário são agrupados por faixa etária, experiência com o produto, atitude perante tecnologia e tarefas primárias no sistema?                                                           |           |             |
 |  9  |                                                                                        As porcentagens de usuários em cada faixa de características foram determinadas?                                                                                        |           |             |
 
-<font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
 
 </center>
 
@@ -31,7 +31,9 @@ Na Tabela 1, os campos de "Avaliação" e "Observações" serão preenchidos no 
 
 ## Desenvolvimento
 
-O artefato foi verificado e gerou os resultados da tabela 2, sendo possível identificar os tópicos faltantes e/ou concluídos.
+O artefato foi verificado e gerou os resultados da Tabela 2, sendo possível identificar os tópicos faltantes e/ou concluídos.
+
+<center>
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist preechido. </p></font>
 
@@ -43,31 +45,43 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 |  4  |                                                                                                      Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                                       |    Sim    |                            |
 |  5  |                                                                                                                         Todos os textos estão na norma padrão?                                                                                                                          |    Sim    |                            |
 |  6  | Foram identificadas características de interesse (como cargo, função, experiência, nível de instrução, atividades principais, faixa etária, relação com tecnologia, conhecimento do domínio do produto, principais tarefas realizadas, entre outras) para serem coletadas dos usuários? |    Sim    | Será justificado no texto. |
-|  7  |                                                                                     Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários?                                                                                      |    Sim    | Será justificado no texto. |
-|  8  |                                                                                        Os perfis de usuário são agrupados por faixa etária, experiência, atitude e tarefas primárias no sistema?                                                                                        |    Sim    |                            |
+|  7  |                                                                                     Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários?                                                                                      |    Sim    |                            |
+|  8  |                                                                                        Os perfis de usuário são agrupados por faixa etária, experiência, atitude e tarefas primárias no sistema?                                                                                        |    Sim    | Será justificado no texto. |
 |  9  |                                                                                                                 A proporção de usuários em cada perfil foi determinada?                                                                                                                 |    Não    | Será justificado no texto. |
 
-<font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+
+</center>
 
 Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
 
 ### ID 6 - Foram identificadas características de interesse (como cargo, função, experiência, nível de instrução, atividades principais, faixa etária, relação com tecnologia, conhecimento do domínio do produto, principais tarefas realizadas, entre outras) para serem coletadas dos usuários?
 
-Por mais que o grupo não entre em detalhes acerca dos dados demográficos, as características acerca de atividades principais, conhecimento do domínio do produto e motivações de uso são bem exploradas.
+Foram mostradas as características levantadas no documento de [Questionários](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/questionario/) e definidas, a seguir, as características principais utilizadas no perfil de usuário e apresentadas na Tabela 1 do artefato como mostra a Figura 1 a seguir:
 
-### ID 7 - Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários?
+<center>
 
-A escolha do grupo de utilizar o artigo "Why We Read Wikipedia" da Universidade de Stanford e os dados da plataforma SimilarWeb como base pra definição do seu perfil de usuário foi muito interessante. Isso em conjunto com o questionário elaborado pelos participantes possibilitou juntar diversos dados interessantes e pertinentes para o artefato.
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Exemplo do ID 6. </p></font>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/33729266-2dbb-42ba-b833-041d97a55d3a" data-origin="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/33729266-2dbb-42ba-b833-041d97a55d3a" alt="image">
+
+<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+
+</center>
+
+### ID 8 - Os perfis de usuário são agrupados por faixa etária, experiência, atitude e tarefas primárias no sistema?
+
+O grupo optou por apresentar somente um perfil de usuário, o que torna a pergunta verdadeira, pois o único perfil presente tem somente uma faixa étaria, experiência, atitude e tarefas primárias no sistema.
 
 ### ID 9 - A proporção de usuários em cada perfil foi determinada?
 
-Na conclusão do artefato não foi evidenciado qual a proporção dos usuários que cada perfil representa. Mesmo que de maneira aproximada, esse dado seria interessante para entender qual é o perfil de usuários principal e qual deve ser priorizado no desenvolvimento.
+No artefato final não foi apresentado a proporção de usuários para o perfil, porém, no artefato de [Questionários](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-perfil-usuario/questionario/) foi mostrado a quantidade de indivíduos que responderam o questionário, assim como suas idades, etc. Ficando a cargo do leitor calcular a proporção de usuários para o perfil.
 
 ## Sugestões e melhorias
 
-Apesar da grande quantidade de informações, o artefato esté bem bacana e as pesquisas utilizadas são um diferencial e dão uma profundidade muito interessante ao documento. De sugestões e melhorias ficam:
+O artefato apresentado é de excelente qualidade, o grupo criou uma aba no projeto somente para a parte de criação de perfil de usuário, o que mostra um cuidado e refino com a avaliação. De sugestões e melhorias ficam:
 
-- Colocar as tabelas na forma da ABNT;
+- Abordar mais de um perfil de usuário, com base nos dados coletados dos questionários;
 - Especificar a proporção dos usuários em cada perfil;
 
 ## Referências Bibliográficas
@@ -76,6 +90,6 @@ Apesar da grande quantidade de informações, o artefato esté bem bacana e as p
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)                                    | Revisor(es)                                |
-| ------ | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------ |
-| `1.0`  | 05/06/2023 | Criação do documento | [Douglas Alves](https://github.com/dougalvs) | [Gabriel Campelo](https://github.com/g16c) |
+| Versão | Data       | Descrição            | Autor(es)                                     | Revisor(es)                                    |
+| ------ | ---------- | -------------------- | --------------------------------------------- | ---------------------------------------------- |
+| `1.0`  | 14/11/2023 | Criação do documento | [Felipe de Sousa](https://github.com/fsousac) | [Caio Mesquita](https://github.com/Caiomesvie) |
