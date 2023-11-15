@@ -68,6 +68,12 @@
 
 * Verificação
   - Etapa 1
+    - [Planejamento da Verificação da Etapa 1](verificacao/Grupo1/Etapa1/planejamento-verificacao-etapa1.md)
+    - [Cronograma](verificacao/Grupo1/Etapa1/cronograma.md)
+    - [Ferramentas](verificacao/Grupo1/Etapa1/ferramentas.md)
+    - [Processo de Design](verificacao/Grupo1/Etapa1/processo-design.md)
+    - [Sites Avaliados](verificacao/Grupo1/Etapa1/sites-avaliados.md)
+    - [Site Escolhido](verificacao/Grupo1/Etapa1/site-escolhido.md)
   - Etapa 2
     - [Planejamento da Verificação da Etapa 2](verificacao/Grupo1/Etapa2/planejamento-verificacao-etapa2.md)
     - [Análise de Tarefas](verificacao/Grupo1/Etapa2/analise_tarefas.md)
