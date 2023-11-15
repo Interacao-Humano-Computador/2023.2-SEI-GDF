@@ -46,4 +46,4 @@ Não há sugestões de melhoria, o artefato está inteiramente bem redigido
 
 | Versão | Data       | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | ---------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 14/11/2023 | Criação do documento | [Caio Mesquita](https://github.com/Caiomesvie) |   | 
+| `1.0`  | 15/11/2023 | Criação do documento | [Caio Mesquita](https://github.com/Caiomesvie) |   | 
