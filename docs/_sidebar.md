@@ -89,4 +89,9 @@
     - [Metas de Usabilidade](verificacao/Grupo1/Etapa3/metas_d_usabilidade.md)
     - [Guia de Estilo](verificacao/Grupo1/Etapa3/guia_estilo.md)
   - Etapa 4
+    - [Planejamento da Verificação da Etapa 4](verificacao/Grupo1/Etapa4/Planejamento_verif_etapa_4.md)
+    - [Planejamento da avaliação do storyboard](verificacao/Grupo1/Etapa4/Planejamento_avaliacao_storyboard.md)
+    - [Planejamento da avaliação da análise de tarefas](verificacao/Grupo1/Etapa4/Planejamento_avaliacao_analise_de_tarefas.md)
+    - [Planejamento do relato dos resultados do storyboard](verificacao/Grupo1/Etapa4/Planejamento_relato_resultados_storyboard.md)
+    - [Planejamento do relato dos resultados da análise de tarefas](verificacao/Grupo1/Etapa4/Planejamento_relato_resultados_analise_tarefas.md)
   - Etapa 5
