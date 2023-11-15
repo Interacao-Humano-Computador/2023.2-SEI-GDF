@@ -30,6 +30,7 @@ A verificação será realizada no período de 31 de maio de 2023 até dia 05 de
 | Data       | Descrição                          | Responsável                                   |
 | ---------- | ---------------------------------- | --------------------------------------------- |
 | 13/11/2023 | Verificação dos Princípios Gerais do Projeto         | [Millena Queiroz](https://github.com/millenaqueiroz) |
+| 13/11/2023 | Verificação das Características Gerais         | [Millena Queiroz](https://github.com/millenaqueiroz) |
 | 13/11/2023 | Verificação das Metas de Usabilidade   | [Millena Queiroz](https://github.com/millenaqueiroz) |
 | 13/11/2023 | Verificação do Guia de Estilo | [Millena Queiroz](https://github.com/millenaqueiroz) |
 
@@ -117,7 +118,20 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 <Center>
 
 **Tabela 5** - Checklist Guia de Estilo
--
+
+| ID  | Descrição                                                                                           | Avaliação |
+| --- | --------------------------------------------------------------------------------------------------- | --------- | 
+| 26  | O guia de estilo construído é relevante para o site avaliado?                                        | sim/não   |
+| 27  | Possui um objetivo claro definido para o guia de estilo?                                              | sim/não   |
+| 28  | Existe um público-alvo específico para o guia de estilos?                                            | sim/não   |
+| 29  | Instrui sobre como utilizar e manter o guia de estilo de maneira eficaz?                              | sim/não   |
+| 30  | O guia de estilo do projeto é estruturado com base nos resultados da análise, incluindo uma descrição do ambiente de trabalho do usuário? | sim/não   |
+| 31  | O guia de estilo contém elementos de interface, como disposição espacial, grid, janelas, tipografia e cores? | sim/não   |
+| 32  | Existem elementos de interação no guia de estilo, como estilos de interação, seleção de um estilo e aceleradores (teclas de atalho)? | sim/não   |
+| 33  | O guia de estilo inclui elementos de ação, como preenchimento de campos, seleção e ativação?       | sim/não   |
+| 34  | Há um vocabulário definido e padrões claros no guia de estilo, incluindo terminologia, tipos de tela para tarefas comuns e sequências de diálogos? | sim/não   |
+| 35  | São abordadas exceções e estados de erro no guia de estilo?                                          | sim/não   |
+
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
 
@@ -131,11 +145,11 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 
 | ID  | Descrição                                                                                              | Avaliação  |
 | --- | ------------------------------------------------------------------------------------------------------ | ---------- |
-| 1   | As características da plataforma para o projeto são identificadas?                                     | sim    |
-| 2   | As limitações são apresentadas?                                                                      | sim    |
-| 3   | A responsividade da página é discutida?                                                              | sim    |
-| 4   | São identificados pontos negativos do sistema?                                                       | sim    |
-| 5   | A metodologia utilizada é apresentada no artefato?                                                  | sim    |
+| 36   | As características da plataforma para o projeto são identificadas?                                     | sim/não    |
+| 37   | As limitações são apresentadas?                                                                      | sim/não    |
+| 38   | A responsividade da página é discutida?                                                              | sim/não    |
+| 39  | São identificados pontos negativos do sistema?                                                       | sim/não    |
+| 40  | A metodologia utilizada é apresentada no artefato?                                                  | sim/não    |
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
 
