@@ -1,4 +1,4 @@
-# Metas de Usabilidade - Grupo 1
+# Guia de Estilo - Grupo 1
 
 ## Introdução
 
