@@ -87,7 +87,6 @@ A fim de guiar o inspetor durante sua tarefa, os checklists são apresentados ab
 |       5       | O relato apresenta os objetivos da avaliação do Storyboard? <a id="anchor_1" href="#REF1">(1)</a>       |         |         |         |         |         |         |         |
 |       6       | O relato apresenta o escopo da avaliação do Storyboard? <a id="anchor_1" href="#REF1">(1)</a>           |         |         |         |         |         |         |         |
 |       7       | O relato apresenta o número e o perfil de usuários e avaliadores? <a id="anchor_1" href="#REF1">(1)</a> |         |         |         |         |         |         |         |
-|       8       |  |
 
 **Fonte**: [João Pedro](https://github.com/JoosPerro).
 
