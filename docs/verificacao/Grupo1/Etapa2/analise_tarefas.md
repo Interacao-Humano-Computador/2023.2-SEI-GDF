@@ -1,3 +1,5 @@
+# Verificação da Análise de Tarefas
+
 ## Introdução
 
 Este documento é de verificação dos artefatos [Análise de Tarefas: HTA](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-analise-de-tarefas/hta/) e [Análise de Tarefas: CTT](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/tecnicas-analise-de-tarefas/ctt/) produzido pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) que tem o projeto voltado ao site do programa governamental Nota Legal. Com base nisso, sua análise de tarefas será verificada de acordo com as informações presentes no livro Interação-Humano-Computador de Barbosa e Silva.
@@ -114,7 +116,7 @@ Com base na tabela preenchida, as considerações feitas serão as mesmas já ci
 
 ## Sugestões e melhorias
 
-Os artefatos estão bem definidos e executados, salvo alguns detalhes com relação aos pontos citados. Sugere-se. portanto, algumas melhorias a seguir:
+Os artefatos estão bem definidos e executados, salvo alguns detalhes com relação aos pontos citados. Sugere-se, portanto, algumas melhorias a seguir:
 
 - Reorganizar as tarefas de alguns diagramas do HTA, explicitando melhor que são sub-tarefas umas das outras;
 - Realizar descrições mais claras de algumas tarefas, de forma que os artefatos seja mais independente do artefato de Cenários.

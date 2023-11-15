@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Etapa 2 do Grupo 1
+# Planejamento da Verificação da Análise de Requisitos do Grupo 1
 
 ## Introdução
 
@@ -34,7 +34,7 @@ Os artefatos alvos dessa verificação são:
 
 ### Cronograma
 
-A verificação será realizada no período de 31 de maio de 2023 até dia 05 de junho de 2023, com os resultados sendo relatados através da página de documentação do Grupo 1 no dia 05 de junho de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
+A verificação será realizada no período de 13 a 15 de novembro de 2023, com os resultados sendo relatados através da página de documentação do Grupo 1 no dia 15 de novembro de 2023. A Tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 <center>
 
@@ -43,10 +43,10 @@ A verificação será realizada no período de 31 de maio de 2023 até dia 05 de
 | Data       | Descrição                          | Responsável                                   |
 | ---------- | ---------------------------------- | --------------------------------------------- |
 | 14/11/2023 | Verificação das Personas.          | [Felipe de Sousa](https://github.com/fsousac) |
-| 14/11/2023 | Verificação dos Aspectos Éticos.   | [Felipe de Sousa](https://github.com/fsousac) |
+| 15/11/2023 | Verificação dos Aspectos Éticos.   | [Felipe de Sousa](https://github.com/fsousac) |
 | 13/11/2023 | Verificação da Análise de Tarefas. | [Felipe de Sousa](https://github.com/fsousac) |
 | 14/11/2023 | Verificação do Perfil de Usuário.  | [Felipe de Sousa](https://github.com/fsousac) |
-| 14/11/2023 | Verificação dos Cenários.          | [Felipe de Sousa](https://github.com/fsousac) |
+| 15/11/2023 | Verificação dos Cenários.          | [Felipe de Sousa](https://github.com/fsousac) |
 
 **Fonte**: [Felipe de Sousa](https://github.com/fsousac).
 
@@ -56,7 +56,7 @@ A verificação será realizada no período de 31 de maio de 2023 até dia 05 de
 
 As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos, tudo isso de acordo com o livro Interação Humano-Computador de Simone Barbosa<a id=anchor_1 href="#REF1"><sup>1</sup></a>.
 
-Com o intuito de melhor organizar a verificação, a checklist será dividida em 4 checklists sendo que 5 perguntas deverão estar presente em todas as etapas de verificação, assim como expressado na Tabela 2. As checklists são as seguintes: Análise de Tarefas, perfil de usuário, personas e aspectos éticos. As Tabelas de 3 a 6 descrevem cada uma dessas checklists.
+Com o intuito de melhor organizar a verificação, a checklist será dividida em 4 checklists sendo que 5 perguntas deverão estar presente em todas as etapas de verificação, assim como expressado na Tabela 2. As checklists são as seguintes: Análise de Tarefas, perfil de usuário, cenários, personas e aspectos éticos. As Tabelas de 3 a 7 descrevem cada uma dessas checklists.
 
 ### Geral
 
@@ -150,6 +150,24 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 | 10  | Pedido de conssentimento em caso de permissão para gravar?                                                                |           |             |
 | 11  | Há o documento do termo de consentimento?                                                                                 |           |             |
 | 12  | Espaço para assinatura no termo de consentimento?                                                                         |           |             |
+
+**Fonte:** [Felipe de Sousa](https://github.com/fsousac).
+
+</center>
+
+### Verificação dos Cenários
+
+<center>
+
+**Tabela 7** - Checklist para os Cenários.
+
+| ID  | Descrição                                                                                                      | Avaliação | Observações |
+| :-: | -------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
+|  6  | O artefato possui a metodologia utilizada?                                                                     |           |             |
+|  7  | Os cenários possuem Objetivo, Ambiente/Contexto, Recursos, Atores, Episódios, Restrições e Exceções?           |           |             |
+|  8  | Lendo o texto, consigo imaginar a situação do cenário corretamente?                                            |           |             |
+|  9  | A modelagem de cenários englobam possíveis situações de erro e caminhos alternativos em pelo menos uma tarefa? |           |             |
+| 10  | A modelagem de cenários mostra tarefas de execução corriqueira do usuário no sistema?                          |           |             |
 
 **Fonte:** [Felipe de Sousa](https://github.com/fsousac).
 

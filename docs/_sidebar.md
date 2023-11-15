@@ -67,6 +67,7 @@
     - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/planejamento-relato-resultados-pp.md)
 
 * Verificação
+
   - Etapa 1
     - [Planejamento da Verificação da Etapa 1](verificacao/Grupo1/Etapa1/planejamento-verificacao-etapa1.md)
     - [Cronograma](verificacao/Grupo1/Etapa1/cronograma.md)
@@ -77,6 +78,10 @@
   - Etapa 2
     - [Planejamento da Verificação da Etapa 2](verificacao/Grupo1/Etapa2/planejamento-verificacao-etapa2.md)
     - [Análise de Tarefas](verificacao/Grupo1/Etapa2/analise_tarefas.md)
+    - [Perfil do Usuário](verificacao/Grupo1/Etapa2/perfil_usuario.md)
+    - [Personas](verificacao/Grupo1/Etapa2/personas.md)
+    - [Cenários](verificacao/Grupo1/Etapa2/cenarios.md)
+    - [Aspectos Éticos](verificacao/Grupo1/Etapa2/aspectos_eticos.md)
   - Etapa 3
     - [Planejamento da Verificação da Etapa 3](verificacao/Grupo1/Etapa3/planejamento_verif_etapa_3.md)
     - [Princípios Gerais do Projeto](verificacao/Grupo1/Etapa3/princ_gerais.md)

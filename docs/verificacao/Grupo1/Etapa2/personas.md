@@ -1,3 +1,5 @@
+# Verificação das Personas
+
 ## Introdução
 
 Este documento é de verificação do artefato [Personas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/personas/) produzido pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) que tem o projeto voltado ao site Wikipedia. Com base nisso, suas personas serão verificadas de acordo com a literatura Interação-Humano-Computador de Barbosa e Silva.
@@ -26,7 +28,7 @@ Para a verificação do artefato, será feito uma checklist com base na literatu
 | 14  |                                Possui objetivos pessoais, corporativos e práticos?                                |           |             |
 | 15  |                                   Há algum objetivo de experiência da persona?                                    |           |             |
 
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
 
 Na Tabela 1, os campos de "Avaliação" e "Observações" serão preenchidos no desenvolvimento em que haverá uma discussão a respeito de alguns itens. Para tal será utilizado o ID da pergunta.
 
