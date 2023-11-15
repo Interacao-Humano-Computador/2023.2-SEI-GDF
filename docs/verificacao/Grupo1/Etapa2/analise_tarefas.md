@@ -119,6 +119,10 @@ Os artefatos estão bem definidos e executados, salvo alguns detalhes com relaç
 - Reorganizar as tarefas de alguns diagramas do HTA, explicitando melhor que são sub-tarefas umas das outras;
 - Realizar descrições mais claras de algumas tarefas, de forma que os artefatos seja mais independente do artefato de Cenários.
 
+## Bibliografia
+
+> ALVES, Douglas. Análise de Tarefas. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/analise-de-tarefas/>. Acesso em: 14 de novembro 2023.
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.

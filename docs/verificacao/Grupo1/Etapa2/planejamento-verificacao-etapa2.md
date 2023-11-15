@@ -43,10 +43,10 @@ A verificação será realizada no período de 31 de maio de 2023 até dia 05 de
 | Data       | Descrição                          | Responsável                                   |
 | ---------- | ---------------------------------- | --------------------------------------------- |
 | 14/11/2023 | Verificação das Personas.          | [Felipe de Sousa](https://github.com/fsousac) |
-| 13/11/2023 | Verificação dos Aspectos Éticos.   | [Felipe de Sousa](https://github.com/fsousac) |
+| 14/11/2023 | Verificação dos Aspectos Éticos.   | [Felipe de Sousa](https://github.com/fsousac) |
 | 13/11/2023 | Verificação da Análise de Tarefas. | [Felipe de Sousa](https://github.com/fsousac) |
 | 14/11/2023 | Verificação do Perfil de Usuário.  | [Felipe de Sousa](https://github.com/fsousac) |
-| 13/11/2023 | Verificação dos Cenários.          | [Felipe de Sousa](https://github.com/fsousac) |
+| 14/11/2023 | Verificação dos Cenários.          | [Felipe de Sousa](https://github.com/fsousac) |
 
 **Fonte**: [Felipe de Sousa](https://github.com/fsousac).
 

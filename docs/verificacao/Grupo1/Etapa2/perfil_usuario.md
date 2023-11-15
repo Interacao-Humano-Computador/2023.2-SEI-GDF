@@ -84,6 +84,10 @@ O artefato apresentado é de excelente qualidade, o grupo criou uma aba no proje
 - Abordar mais de um perfil de usuário, com base nos dados coletados dos questionários;
 - Especificar a proporção dos usuários em cada perfil;
 
+## Bibliografia
+
+> ALVES, Douglas. Perfil de Usuário. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/perfil-de-usuario/>. Acesso em: 14 de novembro 2023.
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
