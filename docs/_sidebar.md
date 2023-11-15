@@ -73,5 +73,9 @@
     - [Análise de Tarefas](verificacao/Grupo1/Etapa2/analise_tarefas.md)
   - Etapa 3
     - [Planejamento da Verificação da Etapa 3](verificacao/Grupo1/Etapa3/planejamento_verif_etapa_3.md)
+    - [Princípios Gerais do Projeto](verificacao/Grupo1/Etapa3/princ_gerais.md)
+    - [Características Gerais](verificacao/Grupo1/Etapa3/carac_gerais.md)
+    - [Metas de Usabilidade](verificacao/Grupo1/Etapa3/metas_d_usabilidade.md)
+    - [Guia de Estilo](verificacao/Grupo1/Etapa3/guia_estilo.md)
   - Etapa 4
   - Etapa 5

@@ -8,7 +8,7 @@ Os artefatos avaliados durante essa ponto de controle foram:
 
 - Princípios Gerais do Projeto
 - Características Gerais
-- Meta de Usabilidade
+- Metas de Usabilidade
 - Guia de Estilo
 
 ## Metodologia
@@ -166,7 +166,13 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 
 ## Bibliografia
 
+> ALVES, Douglas; MACIEL, Geovana. Planejamento da Verificação da Etapa 2 do Grupo 2. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/planejamento-verificacao-etapa2-grupo2/>. Acesso em: 13 de novembro 2023.
+
+> ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>>. Acesso em: 13 de novembro 2023.
+
 > Gerência e Qualidade de Software - Aula 06 - Técnica de revisão, Fábio Levy Siqueira. Disponível em: https://www.youtube.com/watch?v=nA1BVDd9GUE- Acesso em 12 de novembro de 2023
+
+> MACEDO, Lucas. Planejamento da Verificação - PC5. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/>>. Acesso em: 13 de novembro 2023.
 
 
 ## Histórico de Versões
