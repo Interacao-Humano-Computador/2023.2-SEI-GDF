@@ -21,7 +21,7 @@ A alocação de artefatos para inspeção foi atribuída a cada um dos membros d
 
 ### Cronograma
 
-A verificação será realizada no período de 31 de maio de 2023 até dia 05 de junho de 2023, com os resultados sendo relatados através da página de documentação do Grupo 1 no dia 05 de junho de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
+A verificação será realizada no período de 13 de novembro de 2023 até dia 15 de novembro de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 <center>
 
