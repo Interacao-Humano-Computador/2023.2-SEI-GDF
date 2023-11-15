@@ -40,7 +40,7 @@ Como parte importante da inspeção, o checklist apresenta de forma clara e orga
 
 **Tabela 2** - Checklist geral: contém perguntas relacionadas à Consistência e Padronização, comuns a todos os artefatos.
 
-|   Perguntas   |                                                            |
+|      |Perguntas                                                            |
 | ------------- | ---------------------------------------------------------- |
 |       1       | O artefato possui introdução?                              |
 |       2       | O artefato possui bibliografia?                            |
@@ -78,7 +78,7 @@ A fim de guiar o inspetor durante sua tarefa, os checklists são apresentados ab
 
 **Tabela 4** - Relato dos Resultados do StoryBoard
 
-|   Perguntas   |                                                                                                         | RR_SB_1 | RR_SB_2 | RR_SB_3 | RR_SB_4 | RR_SB_5 | RR_SB_6 | RR_SB_7 |
+|      |Perguntas                                                                                                         | RR_SB_1 | RR_SB_2 | RR_SB_3 | RR_SB_4 | RR_SB_5 | RR_SB_6 | RR_SB_7 |
 | ------------- | ------------------------------------------------------------------------------------------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 |       1       | O artefato possui introdução?                                                                           |         |         |         |         |         |         |         |
 |       2       | O artefato possui bibliografia?                                                                         |         |         |         |         |         |         |         |
@@ -99,7 +99,7 @@ A fim de guiar o inspetor durante sua tarefa, os checklists são apresentados ab
 
 **Tabela 5** - Relato dos Resultados da Análise de Tarefas
 
-|   Perguntas   |                                                                                                          | RR_AT_1 | RR_AT_2 | RR_AT_3 | RR_AT_4 | RR_AT_5 | RR_AT_6 | RR_AT_7 |
+|      |Perguntas                                                                                                          | RR_AT_1 | RR_AT_2 | RR_AT_3 | RR_AT_4 | RR_AT_5 | RR_AT_6 | RR_AT_7 |
 | ------------- | -------------------------------------------------------------------------------------------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 |       1       | O artefato possui introdução?                                                                            |         |         |         |         |         |         |         |
 |       2       | O artefato possui bibliografia?                                                                          |         |         |         |         |         |         |         |
@@ -108,7 +108,6 @@ A fim de guiar o inspetor durante sua tarefa, os checklists são apresentados ab
 |       5       | O relato apresenta os objetivos da avaliação da Análise de Tarefas? <a id="anchor_1" href="#REF1">(1)</a>|         |         |         |         |         |         |         |
 |       6       | O relato apresenta o escopo da avaliação da Análise de Tarefas? <a id="anchor_1" href="#REF1">(1)</a>    |         |         |         |         |         |         |         |
 |       7       | O relato apresenta o número e o perfil de usuários e avaliadores? <a id="anchor_1" href="#REF1">(1)</a>  |         |         |         |         |         |         |         |
-|       8       |  |
 
 **Fonte**: [João Pedro](https://github.com/JoosPerro).
 
@@ -140,7 +139,7 @@ A fim de guiar o inspetor durante sua tarefa, os checklists são apresentados ab
 
 **Tabela 7** - Planejamento do Relato dos Resultados do Protótipo de Papel
 
-|   Perguntas   |                                                            |        |
+|      |Perguntas                                                            |        |
 | ------------- | ---------------------------------------------------------- | ------ |
 |       1       | O artefato possui introdução?                              |        |
 |       2       | O artefato possui bibliografia?                            |        |
@@ -151,10 +150,6 @@ A fim de guiar o inspetor durante sua tarefa, os checklists são apresentados ab
 **Fonte**: [João Pedro](https://github.com/JoosPerro).
 
 </center>
-
-## Conclusão
-
-//////////////////////
 
 ## Bibliografia
 
