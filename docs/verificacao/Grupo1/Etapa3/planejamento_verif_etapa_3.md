@@ -99,10 +99,8 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 | 15  | Possui a descrição das metas de usabilidade a serem alcançadas no projeto?                           | sim/não   |
 | 16  | As metas de usabilidade são explicadas?                                                             | sim/não   |
 | 17  | Explica o motivo para escolha dessas metas de usabilidade?                                           | sim/não   |
-| 18  | As usabilidades foram divididas em 6 metas (eficiência, eficácia, segurança, utilidade, aprendizagem e memorabilidade)? | sim/não   |
-| 19  | Possui uma definição de cada uma das 6 metas?                                                       | sim/não   |
+| 18  | É descrito como as metas serão avaliadas no projeto?                                           | não   |
 | 20  | São apresentadas questões condizentes com a meta de eficiência?                                      | sim/não   |
-| 21  | São apresentadas questões condizentes com a meta de eficácia?                                        | sim/não   |
 | 22  | São apresentadas questões condizentes com a meta de segurança?                                       | sim/não   |
 | 23  | São apresentadas questões condizentes com a meta de utilidade?                                       | sim/não   |
 | 24  | São apresentadas questões condizentes com a meta de aprendizagem?                                    | sim/não   |
@@ -150,6 +148,8 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 | 38   | A responsividade da página é discutida?                                                              | sim/não    |
 | 39  | São identificados pontos negativos do sistema?                                                       | sim/não    |
 | 40  | A metodologia utilizada é apresentada no artefato?                                                  | sim/não    |
+| 41  | São identificadas as tecnologias que foram utilizadas | sim |
+
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
 
