@@ -51,6 +51,20 @@ O método utilizado será o de Inspeção para conduzir a verificação. Esse m�
 
 </Center>
 
+## ID 5 - Todos os textos estão na norma padrão?                                                                 
+
+Algumas partes dos textos não apresentam a norma padrão.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Exemplo do ID 5. </p></font>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/60625345/4b0d6758-cc6d-4fd9-affb-c2b4ff09e0e7" alt="image">
+
+<font size="3"><p style="text-align: center">Fonte: [Millena Queiroz](https://github.com/millenaqueiroz).</p></font>
+
+</center>
+
 ## Sugestões
 
 As descrições apresentadas evidenciam uma sólida compreensão na elaboração deste artefato, delineando de maneira precisa o guia de estilo. Entretanto, pode ser interessante incluir algum exemplo de exceções e estados de erro no guia de estilo.
