@@ -56,8 +56,8 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 **Tabela 2** - Checklist para os Itens Gerais.
 
-| ID  | Descrição                                                                                              | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+| ID  | Descrição                                                                                              | Avaliação | 
+| --- | ------------------------------------------------------------------------------------------------------ | --------- |
 | 1   | O artefato possui Introdução?                                                                          |           |
 | 2   | O artefato possui uma bibliografia/referência bibliográfica?                                           |           |
 | 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |           |
@@ -73,19 +73,19 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 **Tabela 3** - Checklist para a Verificação do Planejamento da Avaliação dos Storyboards
 
-| ID  | Descrição                                                                                                                                                                            | Avaliação | Observações |
-| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------: | ----------- |
-| 6  |  O planejamento segue o Framework DECIDE? | -       |
-| 7  |  O planejamento descreve o(s) objetivos da avaliação? Apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade como padrão de mercado, problemas na interação e na interface na fase do modelo conceitual? | -      |
-| 8  |  O planejamento descreve os métodos de avaliação a serem utilizados?| -        |
-| 9  |  O planejamento descreve as questões práticas da avaliação? Recrutamento de usuários (usuários devem estar dentro do perfil de usuários levantado.), quantidade de usuários, explicação do porque foi decidido por essa quantidade de usuários, o modo como será realizada essa reunião(presencial ou remota), como foi preparada essa avaliação (equipamentos utilizados, orçamento, recursos de mão-de-obra e a especificação do teste piloto (dia, horário, participantes).)                                                                          | -        |
-| 10 |  O planejamento apresenta os resultados obtidos pelo teste piloto? (A falta de algum recurso necessário para a avaliação, defeitos na metodologia adotada, falha de equipamentos.)                | -        |
-| 11 |  O planejamento define os prazos para serem realizadas as avaliações como os usuários?                                | -        |
-| 12 |  O planejamento apresenta um roteiro de perguntas a serem feitas pelo avaliador durante o processo de avaliação? Essa tabela apresenta as carcateríticas de uma resposta satisfatória para a questão realizada?                                                      | -        |
-| 13 |   O planejamento apresenta as questões éticas a serem adotadas para a avaliação? (Termo de consentimento.)                                                                      | -        |
-| 14 |   O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das repostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conormidade com o perfil de usuário traçado.)         | -        |
-| 15 | Os storyboards avaliados está relacionado uma especificação do artefato da Análise de Tarefas? | - |
-| 16 | A quantidade de storybords é igual ao número de integrantes do grupo? | - |
+| ID  | Descrição                                                                                                                                                                            | Avaliação | 
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------: | 
+| 6  |  O planejamento segue o Framework DECIDE? |        |
+| 7  |  O planejamento descreve o(s) objetivos da avaliação? Apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade como padrão de mercado, problemas na interação e na interface na fase do modelo conceitual? |       |
+| 8  |  O planejamento descreve os métodos de avaliação a serem utilizados?|        |
+| 9  |  O planejamento descreve as questões práticas da avaliação? Recrutamento de usuários (usuários devem estar dentro do perfil de usuários levantado.), quantidade de usuários, explicação do porque foi decidido por essa quantidade de usuários, o modo como será realizada essa reunião(presencial ou remota), como foi preparada essa avaliação (equipamentos utilizados, orçamento, recursos de mão-de-obra e a especificação do teste piloto (dia, horário, participantes).)                                                                          |       |
+| 10 |  O planejamento apresenta os resultados obtidos pelo teste piloto? (A falta de algum recurso necessário para a avaliação, defeitos na metodologia adotada, falha de equipamentos.)                |       |
+| 11 |  O planejamento define os prazos para serem realizadas as avaliações como os usuários?                                |        |
+| 12 |  O planejamento apresenta um roteiro de perguntas a serem feitas pelo avaliador durante o processo de avaliação? Essa tabela apresenta as carcateríticas de uma resposta satisfatória para a questão realizada?                                                      |         |
+| 13 |   O planejamento apresenta as questões éticas a serem adotadas para a avaliação? (Termo de consentimento.)                                                                      |       |
+| 14 |   O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das repostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conormidade com o perfil de usuário traçado.)         |      |
+| 15 | Os storyboards avaliados está relacionado uma especificação do artefato da Análise de Tarefas? |  |
+| 16 | A quantidade de storybords é igual ao número de integrantes do grupo? |  |
 
 **Fonte:** [Caio Mesquita](https://github.com/Caiomesvie).
 
@@ -97,16 +97,16 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 **Tabela 4** - Checklist para a Verificação do Planejamento do relato dos resultados da avaliação do Storyboard
 
-| ID  | Descrição                                                                                                                                                                                                                                                      | Avaliação | Observações |
-| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
-| 6 | O planejamento define objetivo e escopo de avalição dos resultados? | - |
-| 7 | O planejamento define método de avaliação dos resultados? | - |
-| 8 | O planejamento define os participantes  selecionados (com base no perfil de usuário traçado.)? | - |
-| 9 | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? | - |
-| 10 |O planejamento apresenta instruções com relação às sugestões de melhorias? | - |
-| 11 | O planejamento apresenta uma seção para o feedback dos usuários? | - |
-| 12 | O planejamento aborda como será realizada a análise e interpretação dos usuários quanto ao artefato exposto? | - |
-| 13 | O planejamento define tópico para sumarizar os principais resultados? | - |
+| ID  | Descrição                                                                                                                                                                                                                                                      | Avaliação |
+| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | 
+| 6 | O planejamento define objetivo e escopo de avalição dos resultados? |  |
+| 7 | O planejamento define método de avaliação dos resultados? |  |
+| 8 | O planejamento define os participantes  selecionados (com base no perfil de usuário traçado.)? |  |
+| 9 | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? |  |
+| 10 |O planejamento apresenta instruções com relação às sugestões de melhorias? |  |
+| 11 | O planejamento apresenta uma seção para o feedback dos usuários? | |
+| 12 | O planejamento aborda como será realizada a análise e interpretação dos usuários quanto ao artefato exposto? |  |
+| 13 | O planejamento define tópico para sumarizar os principais resultados? |  |
 
 **Fonte:** [Caio Mesquita](https://github.com/Caiomesvie).
 
@@ -117,17 +117,17 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 **Tabela 5** - Checklist para a Verificação do Planejamento da avaliação da Análise de Tarefas
 
-| ID  | Descrição                                                                                                         | Avaliação | Observações |
-| :-: | ----------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
-| 6  |  O planejamento segue o Framework DECIDE? | -       |
-| 7  |  O planejamento descreve o(s) objetivos da avaliação? Apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade como padrão de mercado, problemas na interação e na interface na fase do modelo conceitual? | -       |
-| 8  |  O planejamento descreve os métodos de avaliação a serem utilizados?| -       |
-| 9  |  O planejamento descreve as questões práticas da avaliação? Recrutamento de usuários (usuários devem estar dentro do perfil de usuários levantado.), quantidade de usuários, explicação do porque foi decidido por essa quantidade de usuários, o modo como será realizada essa reunião(presencial ou remota), como foi preparada essa avaliação (equipamentos utilizados, orçamento, recursos de mão-de-obra e a especificação do teste piloto (dia, horário, participantes).)                                                                          | -        |
-| 10 |  O planejamento apresenta os resultados obtidos pelo teste piloto? (A falta de algum recurso necessário para a avaliação, defeitos na metodologia adotada, falha de equipamentos.)                | -        |
-| 11 |  O planejamento define os prazos para serem realizadas as avaliações como os usuários?                                | -        |
-| 12 |  O planejamento apresenta um roteiro de perguntas a serem feitas pelo avaliador durante o processo de avaliação? Essa tabela apresenta as carcateríticas de uma resposta satisfatória para a questão realizada?                                                      | -        |
-| 13 |   O planejamento apresenta as questões éticas a serem adotadas para a avaliação? (Termo de consentimento.)                                                                      | -        |
-| 14 |   O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das repostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conormidade com o perfil de usuário traçado.)         | -        |
+| ID  | Descrição                                                                                                         | Avaliação |
+| :-: | ----------------------------------------------------------------------------------------------------------------- | :-------: | 
+| 6  |  O planejamento segue o Framework DECIDE? |        |
+| 7  |  O planejamento descreve o(s) objetivos da avaliação? Apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade como padrão de mercado, problemas na interação e na interface na fase do modelo conceitual? |        |
+| 8  |  O planejamento descreve os métodos de avaliação a serem utilizados?|      |
+| 9  |  O planejamento descreve as questões práticas da avaliação? Recrutamento de usuários (usuários devem estar dentro do perfil de usuários levantado.), quantidade de usuários, explicação do porque foi decidido por essa quantidade de usuários, o modo como será realizada essa reunião(presencial ou remota), como foi preparada essa avaliação (equipamentos utilizados, orçamento, recursos de mão-de-obra e a especificação do teste piloto (dia, horário, participantes).)                                                                          |      |
+| 10 |  O planejamento apresenta os resultados obtidos pelo teste piloto? (A falta de algum recurso necessário para a avaliação, defeitos na metodologia adotada, falha de equipamentos.)                |      |
+| 11 |  O planejamento define os prazos para serem realizadas as avaliações como os usuários?                                |        |
+| 12 |  O planejamento apresenta um roteiro de perguntas a serem feitas pelo avaliador durante o processo de avaliação? Essa tabela apresenta as carcateríticas de uma resposta satisfatória para a questão realizada?                                                      |        |
+| 13 |   O planejamento apresenta as questões éticas a serem adotadas para a avaliação? (Termo de consentimento.)                                                                      |       |
+| 14 |   O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das repostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conormidade com o perfil de usuário traçado.)         |      |
 
 **Fonte:** [Caio Mesquita](https://github.com/Caiomesvie).
 
@@ -139,16 +139,16 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 **Tabela 6** - Checklist para Verificação do Planejamento do relato dos resultados da Análise de Tarefas
 
-| ID  | Descrição                                                                                                                 | Avaliação | Observações |
-| :-: | ------------------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
-| 6 | O planejamento define objetivo e escopo de avalição dos resultados? | - |
-| 7 | O planejamento define método de avaliação dos resultados? | - |
-| 8 | O planejamento define os participantes  selecionados (com base no perfil de usuário traçado.)? | - |
-| 9 | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? | - |
-| 10 |O planejamento apresenta instruções com relação às sugestões de melhorias? | - |
-| 11 | O planejamento apresenta uma seção para o feedback dos usuários? | - |
-| 12 | O planejamento aborda como será realizada a análise e interpretação dos usuários quanto ao artefato exposto? | - |
-| 13 | O planejamento define tópico para sumarizar os principais resultados? | - |
+| ID  | Descrição                                                                                                                 | Avaliação | 
+| :-: | ------------------------------------------------------------------------------------------------------------------------- | :-------: |
+| 6 | O planejamento define objetivo e escopo de avalição dos resultados? |  |
+| 7 | O planejamento define método de avaliação dos resultados? |  |
+| 8 | O planejamento define os participantes  selecionados (com base no perfil de usuário traçado.)? |  |
+| 9 | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? |  |
+| 10 |O planejamento apresenta instruções com relação às sugestões de melhorias? |  |
+| 11 | O planejamento apresenta uma seção para o feedback dos usuários? | |
+| 12 | O planejamento aborda como será realizada a análise e interpretação dos usuários quanto ao artefato exposto? |  |
+| 13 | O planejamento define tópico para sumarizar os principais resultados? |  |
 
 
 **Fonte:** [Caio Mesquita](https://github.com/Caiomesvie).
