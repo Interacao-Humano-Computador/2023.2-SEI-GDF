@@ -46,7 +46,7 @@
   - [Princípios Gerais do Projeto](analise-de-requisitos/principios-gerais.md)
   - [Metas de Usabilidade](analise-de-requisitos/metas-de-usabilidade.md)
   - [Guia de Estilo](analise-de-requisitos/guia-de-estilo.md)
-  - [Personas](analise-de-requisitos/Personas.md)
+  - [Personas](analise-de-requisitos/personas.md)
 
 * Design, Avaliação e Desenvolvimento
 
