@@ -67,6 +67,10 @@
     - [Planejamento da avaliação do Protótipo de papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel.md)
     - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/planejamento-relato-resultados-pp.md)
 
+  - Protótipo de alta fidelidade
+    - [Planejamento da avaliação do Protótipo de Alta Fidelidade](design-avaliacao-desenvolvimento/planejamento/prototipo-alta-fidelidade/planejamento-avaliacao-protot-alta-fid.md)
+    - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-alta-fidelidade/planejamento-relato-result-protot-alta-fid.md)
+
 * Verificação
 
   - Etapa 1
