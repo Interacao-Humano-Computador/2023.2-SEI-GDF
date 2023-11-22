@@ -71,7 +71,7 @@
       - [Protótipos de Verificação de Autenticidade (Cidadão)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-aut-doc.md)
       - [Protótipos de Iniciar um processo (Servidor)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-de-papel-iniciar-processo.md)
       - [Protótipos de Pesquisa processual (Cidadão)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-cidadao.md)
-      - [Protótipos de Gerar Documento (Servidor)](docs/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-gerar-doc.md)
+      - [Protótipos de Gerar Documento (Servidor)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-gerar-doc.md)
     - [Planejamento da avaliação do Protótipo de papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel.md)
     - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/planejamento-relato-resultados-pp.md)
     - [Relato dos resultados do Protótipo de Papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/relat-resultados-prot-papel.md)
