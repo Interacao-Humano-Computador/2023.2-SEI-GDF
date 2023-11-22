@@ -69,6 +69,7 @@
       - [Protótipos de Verificação de Autenticidade (Cidadão)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-aut-doc.md)
     - [Planejamento da avaliação do Protótipo de papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel.md)
     - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/planejamento-relato-resultados-pp.md)
+    - [Relato dos resultados do Protótipo de Papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/relat-resultados-prot-papel.md)
 
   - Protótipo de alta fidelidade
     - [Planejamento da avaliação do Protótipo de Alta Fidelidade](design-avaliacao-desenvolvimento/planejamento/prototipo-alta-fidelidade/planejamento-avaliacao-protot-alta-fid.md)
