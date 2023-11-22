@@ -52,7 +52,7 @@ A seguir é disponibilizado o cronograma de entrevistas que cada um dos integran
 | [Felipe de Sousa](https://github.com/fsousac)     | Laís Soares     | 16:00              | 16:25          | 09/11/2023 | Pessoalmente |
 | [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 11/11/2023 |   Pessoalmente    |
 | [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 8/11/2023 |   Plataforma Discord    |
-|  [João Pedro](https://github.com/JoosPerro)       | Ronildo  |       21:30       |    22:00      | 11/11/2023 | Plataforma Discord |
+|  [João Pedro](https://github.com/JoosPerro)       | Márcio  |       19:00       |    19:30      | 20/11/2023 | Pessoalmente |
 
 **Fonte:** [Caio Mesquita](https://github.com/Caiomesvie), 2023.
 </center>
