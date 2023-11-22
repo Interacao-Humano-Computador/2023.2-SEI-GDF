@@ -128,7 +128,7 @@ O método utilizado foi de entrevista e execução do protótipo com o usuário,
 
 <center>
     
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
 
 #### Planejado
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
@@ -187,7 +187,7 @@ A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de 
 O método utilizado foi de entrevista e execução do protótipo com o usuário. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI.
 <center>
     
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
 
 #### Planejado
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
@@ -243,6 +243,77 @@ Com base nas entrevistas realizada e na observação dos usuários, podemos conc
 
 <font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
+## Entrevista - Gerar Documento (Servidor)
+
+### Objetivo e escopo da avaliação
+A avaliação teve como objetivo validar o [Protótipo de papel da tarefa Gerar Documento (Servidor)](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/blob/main/docs/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-gerar-doc.md). O protótipo deve refletir o fluxo da tarefa, de forma que o usuário do SEI possa realizar com relativa facilidade a sua tarefa.
+
+### Método de avaliação
+O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 5 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
+
+<center>
+    
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
+
+#### Planejado
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [João Pedro](https://github.com/JoosPerro) |    Márcio   |       19:00       |     19:30      | 21/11/2023 | Pessoalmente |
+
+#### Executado
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [João Pedro](https://github.com/JoosPerro) |    Lucy Moreira   |       21:27       |     21:42      | 21/11/2023 | Pessoalmente |
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JoosPerro).</p></font>
+
+Houve a mudaça na entrevista por motivos de mudança do entrevistado, devido à disponibilidade.
+
+</center>
+
+### Seleção de participante
+
+A participante é uma servidora pública, usuária do SEI, já realizou a tarefa de gerar documento como servidor. Porém, não se encaixa na faixa etária do perfil, tendo mais de 50 anos. Não trabalha na área de tecnologia, e relata que num primeiro momento precisou de bastante esforço para se adaptar à plataforma.
+
+### Problemas e dificuldades encontradas
+
+Ao final da execução simulada da tarefa, a entrevistada relatou facilidade em realizar a tarefa de gerar documento.
+
+### Sugestões de melhoria
+
+- A entrevistada relatou que o protótipo difere um pouco do site do SEI, pois a assinatura do documento ocorria de forma automática, diferente do protótipo, que possui uma tela para assinatura.
+
+### Análise e interpretação dos resultados
+
+Com base na entrevista realizada e na observação dos usuários, posso concluir que o protótipo da tarefa Gerar Documento (Servidor) atende ao usuário do SEI, com uma estrutura simples e compreensível.
+
+### Sumário dos principais resultados
+
+<center>
+  
+**Tabela 2** - Roteiro de Perguntas.
+
+|n°|Pergunta|Resposta|
+| :-: | :-: | :-: |
+|1| Você conseguiu concluir a tarefa proposta no protótipo com dificuldade ?|Sim( ) <br />Não(X) <br />Parcialmente( )|
+|2| Você achou o design intuitivo ?|Sim(X) <br />Não( ) <br />Não sei( )|
+|3| Você sentiu que o design da interface colabora com a conclusão da sua tarefa ?|Sim(X) <br />Não( ) <br />Não sei( )|
+|4| Acha que a tarefa poderia ser concluida com menos passos ?|Sim(X) <br />Não( ) <br />Não sei( ) <br /> A entrevistada acredita que é possível suprimir a tela de assinatura, pois o processo de assinatura pode ser automatizado. |
+|5| Qual foi a maior dificuldade em realizar a tarefa proposta ?| Não foi relatada nenhuma dificuldade. |
+|6| Quais sugestões de melhorias você nos daria para o design da interface ?| Apenas a questão da assinatura, já explicada. |
+
+**Fonte:** [Planejamento da avaliação do Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/blob/main/docs/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel.md).
+</center>
+
+### Gravação da Entrevista
+
+<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+
+**************LINK DO VIDEO AQUI****************
+
+<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JoosPerro).</p></font>
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                     | Autor(es)                                        | Revisor(es)                                    |
@@ -251,4 +322,5 @@ Com base nas entrevistas realizada e na observação dos usuários, podemos conc
 | `1.1`  | 21/11/2023 | Inserção da tarefa de Pesquisa como servidor  | [Felipe de Sousa](https://github.com/fsousac) | [Lucas Caldas](https://github.com/lucascaldasb)  |
 | `1.2`  | 21/11/2023 | Inserção da tarefa de Pesquisa como cidadão  | [Lucas Caldas](https://github.com/lucascaldasb) | [Felipe de Sousa](https://github.com/fsousac)  |
 | `1.3`  | 21/11/2023 | Inserção da tarefa de Iniciar um processo como Servidor  | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb) |
+| `1.4`  | 22/11/2023 | Inserção da tarefa de Gerar Documento como Servidor  | [João Pedro](https://github.com/JoosPerro) | [Millena Queiroz](https://github.com/MillenaQueiroz) |
 
