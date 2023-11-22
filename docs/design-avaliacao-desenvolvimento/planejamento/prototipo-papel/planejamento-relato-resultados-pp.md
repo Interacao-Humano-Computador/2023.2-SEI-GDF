@@ -45,7 +45,7 @@ A fim de mater um padrão no cronograma, iremos ilustrar na tabela 1, o exemplo 
 | [Felipe de Sousa](https://github.com/fsousac)     | Laís Soares     | 16:00              | 16:25          | 09/11/2023 | Pessoalmente |
 | [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 11/11/2023 |   Pessoalmente    |
 | [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 8/11/2023 |   Plataforma Discord    |
-|  [João Pedro](https://github.com/JoosPerro)       | Ronildo  |       21:30       |    22:00      | 11/11/2023 | Plataforma Discord |
+|  [João Pedro](https://github.com/JoosPerro)       | Márcio  |       20:00       |    20:30      | 11/11/2023 | Pessoalmente |
 
 **Fonte** - _[Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/README)_
 
