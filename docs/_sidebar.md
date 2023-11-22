@@ -17,6 +17,8 @@
   - [Apresentação 3](apresentacoes/apresentacao_3.md)
   - [Apresentação 4](apresentacoes/apresentacao_4.md)
   - [Apresentação 5](apresentacoes/apresentacao_5.md)
+  - [Apresentação 6](apresentacoes/apresentacao_6.md)
+  - [Apresentação 7](apresentacoes/apresentacao_7.md)
 
 * Planejamento
 
