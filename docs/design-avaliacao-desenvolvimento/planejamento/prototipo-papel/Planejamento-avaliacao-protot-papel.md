@@ -47,8 +47,8 @@ A seguir é disponibilizado o cronograma de entrevistas que cada um dos integran
 
 | Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
-| [Caio Mesquita](https://github.com/Caiomesvie)   |  Leila Kelri  |       20:00       |     20:30      | 08/11/2023 | Presencial  |
-| [Caio Mesquita](https://github.com/Caiomesvie)   |  Jane Ramalho  |       07:10       |     07:25      | 08/11/2023 | Presencial  |
+| [Caio Mesquita](https://github.com/Caiomesvie)   |  Caio Alves  |       18:00      |     18:10      | 20/11/2023 | Presencial  |
+| [Caio Mesquita](https://github.com/Caiomesvie)   |  Gustavo Augusto  |       18:10       |     18:20      | 20/11/2023 | Presencial  |
 | [Felipe de Sousa](https://github.com/fsousac)     | Laís Soares     | 16:00              | 16:25          | 09/11/2023 | Pessoalmente |
 | [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano |       22:00       |     22:10      | 11/11/2023 |   Pessoalmente    |
 | [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 8/11/2023 |   Plataforma Discord    |
