@@ -178,6 +178,71 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 <font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
 
+## Entrevista - Pesquisar processo (Servidor)
+
+### Objetivo e escopo da avaliação
+A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Iniciar um processo (Servidor)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-de-papel-iniciar-processo) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
+
+### Método de avaliação
+O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 2 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
+
+<center>
+    
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
+
+#### Planejado
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Caio Mesquita](https://github.com/Caiomesvie)   |  Leila Kelri  |       20:00       |     20:30      | 08/11/2023 | Presencial  |
+| [Caio Mesquita](https://github.com/Caiomesvie)   |  Jane Ramalho  |       07:10       |     07:25      | 08/11/2023 | Presencial  |
+
+#### Executado
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Caio Mesquita](https://github.com/Caiomesvie)   |  Caio Alves  |       18:00      |     18:10      | 20/11/2023 | Presencial  |
+| [Caio Mesquita](https://github.com/Caiomesvie)   |  Gustavo Augusto  |       18:10       |     18:20      | 20/11/2023 | Presencial  |
+
+<font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
+
+Houve a mudança nos entrevistada visando o enriquecimento na coleta de informações para o projeto e por problemas de logística para a realização da entrevista de forma presencial 
+
+</center>
+
+### Seleção de participante
+
+Os participante se encaixam no perfil de usuário, pois são usuários entre 18 e 30 anos, possui uma boa experiência com tecnologia e trabalham com a plataforma SEI! em seu estágio
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação do protótipo, os usuários não declararam dificuldades em realizar a tarefa em seu fluxo e a entrevista ocorreu de forma clara e concisa.
+
+### Sugestões de melhoria
+
+Ambos os entrevistados sugeriram que o fluxo de tarefas de preenchimento dos dados do processo, que são 4 tarefas que ocorrem concomitantemente, que elas fossem desmembradas em etapas sequenciais para ficar mais intuitivo e de fácil preenchimento.
+O entrevistado Caio Alves sugeriu que o botão de controle de expansão do menu lateral fosse mais claro e de visualização mais simples como um ícone de menu hambúrguer. 
+
+### Feedback do usuário
+
+Os usuários não apresentaram dificuldade em realizar a tarefa, mas sugeriram mudanças apenas para facilitar o uso. Os problemas encontrados por eles na prototipação não são graves nem interferem na finalização da tarefa 
+### Análise e interpretação dos resultados
+
+Com base nas entrevistas realizada e na observação dos usuários, podemos concluir que o protótipo da tarefa de Iniciar um processo (servidor) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI.
+
+### Sumário dos principais resultados
+
+* O protótipo da tarefa de Iniciar um processo (servidor) está alinhado com o proposto para o escopo da avaliação.
+* Os usuário recomendam a separação das 4 tarefas de preenchimento do processo em etapas separadas para melhor utilização.
+
+
+<p style="text-align: center"><a href="https://youtu.be/XGbcCqvajDQ" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XGbcCqvajDQ" title="Entrevista para avaliação Protótipo de papel Gustavo Augusto ihc g8 23/2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/5Z21BJLem6A" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5Z21BJLem6A" title="Entrevista para avaliação Protótipo de papel Caio Alves ihc g8 23/2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
 ## Histórico de Versões
 
@@ -186,3 +251,5 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 | `1.0`  | 21/11/2023 | Inicio do documento com a tarefa de conferência de autenticação  | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie)  |
 | `1.1`  | 21/11/2023 | Inserção da tarefa de Pesquisa como servidor  | [Felipe de Sousa](https://github.com/fsousac) | [Lucas Caldas](https://github.com/lucascaldasb)  |
 | `1.2`  | 21/11/2023 | Inserção da tarefa de Pesquisa como cidadão  | [Lucas Caldas](https://github.com/lucascaldasb) | [Felipe de Sousa](https://github.com/fsousac)  |
+| `1.3`  | 21/11/2023 | Inserção da tarefa de Iniciar um processo como Servidor  | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb) |
+
