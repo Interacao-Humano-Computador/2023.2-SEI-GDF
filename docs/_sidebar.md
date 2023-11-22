@@ -66,6 +66,7 @@
   - Protótipo de papel
     - Protótipos de papel
       - [Protótipos da Pesquisa processual (Servidor)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-servidor.md)
+      - [Protótipos de Verificação de Autenticidade (Cidadão)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-aut-doc.md)
     - [Planejamento da avaliação do Protótipo de papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel.md)
     - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/planejamento-relato-resultados-pp.md)
 
