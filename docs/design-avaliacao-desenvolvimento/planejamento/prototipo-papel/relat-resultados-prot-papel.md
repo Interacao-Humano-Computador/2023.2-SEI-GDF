@@ -174,7 +174,7 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 <p style="text-align: center"><a href="https://youtu.be/00we3TsDIVI" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="1835" height="763" src="https://www.youtube.com/embed/00we3TsDIVI" title="Entrevista -  Protótipo de Papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/00we3TsDIVI" title="Entrevista -  Protótipo de Papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
 
