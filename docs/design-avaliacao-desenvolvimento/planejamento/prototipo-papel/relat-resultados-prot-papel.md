@@ -253,7 +253,7 @@ O método utilizado foi de entrevista e execução do protótipo com o usuário,
 
 <center>
     
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
 
 #### Planejado
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
@@ -291,7 +291,7 @@ Com base na entrevista realizada e na observação dos usuários, posso concluir
 
 <center>
   
-**Tabela 2** - Roteiro de Perguntas.
+**Tabela 6** - Roteiro de Perguntas.
 
 |n°|Pergunta|Resposta|
 | :-: | :-: | :-: |
@@ -307,9 +307,9 @@ Com base na entrevista realizada e na observação dos usuários, posso concluir
 
 ### Gravação da Entrevista
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/hXuDONY0ac8" target="blanket">Clique aqui</a></p>
 
-**************LINK DO VIDEO AQUI****************
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/hXuDONY0ac8" title="Entrevista da avaliação do protótipo de papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JoosPerro).</p></font>
 
