@@ -178,7 +178,7 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 <font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
 
-## Entrevista - Pesquisar processo (Servidor)
+## Entrevista - Iniciar um processo (Servidor)
 
 ### Objetivo e escopo da avaliação
 A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Iniciar um processo (Servidor)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-de-papel-iniciar-processo) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
