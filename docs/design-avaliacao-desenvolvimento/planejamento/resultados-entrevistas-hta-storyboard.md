@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse artefato tem o objetivo de documentar um planejamento para o relato dos resultados obtidos pela avaliação da Análise de Tarefas. O relato dos resultados é uma forma de explicitar a análise feita por uma determinada atividade. Nele serão abordados os tópicos necessários para a construção de tal relato.
+Esse artefato tem o objetivo de documentar um planejamento para o relato dos resultados obtidos pela avaliação da Análise de Tarefas e do Storyboard. O relato dos resultados é uma forma de explicitar a análise feita por uma determinada atividade. Nele serão abordados os tópicos necessários para a construção de tal relato.
 
 ## Entrevista - Pesquisar processo (Servidor)
 
