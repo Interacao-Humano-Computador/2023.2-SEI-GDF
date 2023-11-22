@@ -118,9 +118,71 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 
 
+## Entrevista - Pesquisar processo (Cidadão)
+
+### Objetivo e escopo da avaliação
+A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Pesquisar processo (Cidadão)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-cidadao) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
+
+### Método de avaliação
+O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 2 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar o Protótipo de Papel.
+
+<center>
+    
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
+
+#### Planejado
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       22:00       |     22:50      | 8/11/2023 |   Plataforma Discord    |
+
+#### Executado
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       20:00       |     20:15      | 19/11/2023 |   Pessoalmente    |
+
+<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+
+Houve a mudaça na entrevistada visando o enriquecimento na coleta de informações para o projeto e a disponibilidade do usuário em realizar pessoalmente a entrevista.
+
+</center>
+
+### Seleção de participante
+
+O participante se encaixa no perfil de usuário, pois é um usuário entre 18 e 30 anos, possui uma boa experiência com tecnologia e já realizou a ação de pesquisar processos como cidadão.
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação do protótipo, a usuária não relatou nenhuma dificuldade em executar a tarefa. Ele considerou fluxo claro e bem intuitivo.
+
+### Sugestões de melhoria
+
+- O usuário sugeriu melhorias não relacionadas exatamente a funcionalidade e sim a aba de menu da platafroma que não apresenta nenhuma ação considerável.
+
+### Feedback do usuário
+
+A usuário ficou bastante satisfeito com a realização da tarefa e não apontou melhorias relacioanadas a funcionalidade de pesquisa de processo.
+
+### Análise e interpretação dos resultados
+
+Com base na entrevista realizada e na observação dos usuários, podemos concluir que o protótipo da tarefa de Pesquisar processo (Cidadaõ) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI.
+
+### Sumário dos principais resultados
+
+* O protótipo da tarefa de Pesquisar processo (cidadão) está alinhado com o proposto para o escopo da avaliação.
+* O usuário chama a atenção para o ponto de menu do site que só apresenta ação de abrir e fechar a sidebar da tela de listagem de processos.
+
+
+<p style="text-align: center"><a href="https://youtu.be/00we3TsDIVI" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="1835" height="763" src="https://www.youtube.com/embed/00we3TsDIVI" title="Entrevista -  Protótipo de Papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                     | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | --------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 21/11/2023 | Inicio do documento com a tarefa de conferência de autenticação  | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie)  |
 | `1.1`  | 21/11/2023 | Inserção da tarefa de Pesquisa como servidor  | [Felipe de Sousa](https://github.com/fsousac) | [Lucas Caldas](https://github.com/lucascaldasb)  |
+| `1.2`  | 21/11/2023 | Inserção da tarefa de Pesquisa como cidadão  | [Lucas Caldas](https://github.com/lucascaldasb) | [Felipe de Sousa](https://github.com/fsousac)  |
