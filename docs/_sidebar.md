@@ -54,14 +54,14 @@
 
     - [Planejamento da avaliação de análise de tarefas](design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-avaliacao-analise-tarefas.md)
     - [Planejamento do relato dos resultados da avaliação](design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-resultado-analise-tarefas.md)
+    - [Relato dos resultados das avaliações do Storyboard e análise de tarefas](design-avaliacao-desenvolvimento/planejamento/resultados-entrevistas-hta-storyboard.md)
 
   - Storyboard
 
     - [Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/storyboards.md)
     - [Planejamento da avaliação do Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/planejamento-avaliacao-storyboard.md)
     - [Planejamento do Relato dos Resultados - Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/planej-relat-resul.md)
-
-  - [Relato dos resultados das avaliações do Storyboard e análise de tarefas](design-avaliacao-desenvolvimento/planejamento/resultados-entrevistas-hta-storyboard.md)
+    - [Relato dos resultados das avaliações do Storyboard e análise de tarefas](design-avaliacao-desenvolvimento/planejamento/resultados-entrevistas-hta-storyboard.md)
 
   - Protótipo de papel
     - Protótipos de papel
