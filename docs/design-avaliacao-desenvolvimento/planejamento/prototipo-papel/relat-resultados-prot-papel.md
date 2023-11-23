@@ -62,7 +62,7 @@ Com base na entrevista realizada e na observação do usuário, podemos concluir
 A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Pesquisar processo (Servidor)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-servidor) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
 
 ### Método de avaliação
-O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 2 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
+O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 2 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do Protótipo de papel.
 
 <center>
     
@@ -140,7 +140,7 @@ O método utilizado foi de entrevista e execução do protótipo com o usuário,
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 | [Lucas Caldas](https://github.com/lucascaldasb)   |  Pedro Igor  |       20:00       |     20:15      | 19/11/2023 |   Pessoalmente    |
 
-<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
 
 Houve a mudaça na entrevistada visando o enriquecimento na coleta de informações para o projeto e a disponibilidade do usuário em realizar pessoalmente a entrevista.
 
