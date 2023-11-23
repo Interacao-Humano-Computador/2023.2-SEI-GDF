@@ -70,4 +70,4 @@ A tarefa Gerar Documento possui um fluxo que percorre seis telas, a saber:
 
 | Versão | Data       | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | ---------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 22/11/2023 | Criação do documento | [João Pedro](https://github.com/JoosPerro) |         |
+| `1.0`  | 22/11/2023 | Criação do documento | [João Pedro](https://github.com/JoosPerro) |   [Lucas Caldas](https://github.com/lucascaldasb)      |
