@@ -7,7 +7,7 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 ## Entrevista - Fazer a conferência da autenticação de documentos (Cidadão)
 
 ### Objetivo e escopo da avaliação
-A avaliação teve como objetivo validar se a o protótipo de papel de [fazer a conferência da autenticação de documentos](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/analise-de-tarefas/HTA?id=fazer-a-confer%c3%aancia-da-autentica%c3%a7%c3%a3o-de-documentos-cidad%c3%a3) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
+A avaliação teve como objetivo validar se a o protótipo de papel de [fazer a conferência da autenticação de documentos](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/analise-de-tarefas/HTA?id=fazer-a-confer%c3%aancia-da-autentica%c3%a7%c3%a3o-de-documentos-cidad%c3%a3) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
 
 ### Método de avaliação
 O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar o protótipo de papel.
@@ -59,7 +59,7 @@ Com base na entrevista realizada e na observação do usuário, podemos concluir
 ## Entrevista - Pesquisar processo (Servidor)
 
 ### Objetivo e escopo da avaliação
-A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Pesquisar processo (Servidor)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-servidor) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
+A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Pesquisar processo (Servidor)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-servidor) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
 
 ### Método de avaliação
 O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 2 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do Protótipo de papel.
@@ -121,10 +121,10 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 ## Entrevista - Pesquisar processo (Cidadão)
 
 ### Objetivo e escopo da avaliação
-A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Pesquisar processo (Cidadão)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-cidadao) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
+A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Pesquisar processo (Cidadão)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-cidadao) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
 
 ### Método de avaliação
-O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 2 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar o Protótipo de Papel.
+O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 3 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar o Protótipo de Papel.
 
 <center>
     
