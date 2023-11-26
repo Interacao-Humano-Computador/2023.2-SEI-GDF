@@ -171,7 +171,7 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 | :-: | :----------------------------------------------------------------------------------: | :------: | :------------ |
 |  1  |                   A interface apresentada foi de fácil utilização?                   |  Aberta  | Justifique    |
 |  2  |        Você acredita que as tarefas solicitadas correspondem com ações reais?        |  Aberta  | Justifique    |
-|  3  |           Alguma sugestão com relação à dispozição dos elementos na tela?            |  Aberta  | Justifique    |
+|  3  |           Alguma sugestão com relação à disposição dos elementos na tela?            |  Aberta  | Justifique    |
 |  4  | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? |  Aberta  | Justifique    |
 |  5  |       Você encontrou alguma inconsistência ou erro durante o uso da interface?       |  Aberta  | Justifique    |
 
