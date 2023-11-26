@@ -226,9 +226,9 @@ Dito isso, a execução do teste-piloto será realizado no dia 24 de novembro de
 
 Após realizar o teste piloto deve ser postado abaixo.
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtu.be/WTPGFsIdzbw" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center">Em breve.</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/WTPGFsIdzbw?si=Ddr5e35Jt_PXWCTC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac) e [Millena Queiroz](https://github.com/millenaqueiroz).</p></font>
 
