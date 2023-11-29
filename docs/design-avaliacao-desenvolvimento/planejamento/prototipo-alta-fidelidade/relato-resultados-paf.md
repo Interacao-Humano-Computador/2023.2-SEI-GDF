@@ -8,7 +8,7 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 
 ### Objetivo e escopo da avaliação
 
-A avaliação teve como objetivo validar se a o protótipo de alta fidelidade de [fazer a conferência da autenticação de documentos](https://www.figma.com/file/sXQbjC3sXyNOs9m2kKhSnn/Prot%C3%B3tipos-de-alta-fidelidade?type=design&node-id=55-97&mode=dev) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
+A avaliação teve como objetivo validar se o protótipo de alta fidelidade de [fazer a conferência da autenticação de documentos](https://www.figma.com/file/sXQbjC3sXyNOs9m2kKhSnn/Prot%C3%B3tipos-de-alta-fidelidade?type=design&node-id=55%3A96&mode=design&t=qYbqUkbpPBb527DF-1) está alinhado com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
 
 <center>
 
@@ -31,24 +31,25 @@ O método utilizado foi de entrevista e análise dos artefatos com o usuário, n
 |                  Entrevistador(es)                   |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :--------------------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :----------: |
 | [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano Peixoto |       21:00       |     21:06      | 26/11/2023 | Pessoalmente |
-| [Millena Queiroz](https://github.com/MillenaQueiroz) | Mateus Vinicius |       22:20      |     22:27      | 27/11/2023 | Teams |
-| [Felipe de Sousa](https://github.com/fsousac) | Davi Nobre |       21:05      |     21:10      | 28/11/2023 | Teams |
-
+| [Millena Queiroz](https://github.com/MillenaQueiroz) |  Mateus Vinicius  |       22:20       |     22:27      | 27/11/2023 |    Teams     |
+|    [Felipe de Sousa](https://github.com/fsousac)     |    Davi Nobre     |       21:00       |     21:09      | 28/11/2023 |    Teams     |
 
 _Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
 
-
 #### Vídeo 1 - Entrevista com Cristiano (até minuto 3:36)
+
 <iframe width="1017" height="315" src="https://www.youtube.com/embed/-7s-Yc08vW8" title="Entrevista - Cristiano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
 
 #### Vídeo 2 - Entrevista com Mateus (até minuto 4:26)
+
 <iframe width="1017" height="315" src="https://www.youtube.com/embed/G-WludIJ7ME" title="Entrevista - Mateus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
 
 #### Vídeo 3 - Entrevista com Davi (até minuto 6:09)
+
 <iframe width="1017" height="315" src="https://www.youtube.com/embed/HLmbso0979k" title="Entrevista Davi (Protótipo de Alta Fidelidade)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _Fonte_ - [Felipe de Sousa](https://github.com/fsousac)
@@ -57,7 +58,7 @@ _Fonte_ - [Felipe de Sousa](https://github.com/fsousac)
 
 ### Seleção de participante
 
-Os participantes se encaixam no perfil de usuário, pois são usuários entre 30 e 50 anos, possuem experiencia razoável com tecnologia e já realizaram a ação de verificar autenticação de um documento.
+Os participantes se encaixam no perfil de usuário, pois são usuários entre 30 e 50 anos e entre 18 e 30 anos, que possuem experiencia, no mínimo, razoável com tecnologia e já realizaram a ação de verificar autenticação de um documento.
 
 ### Problemas e dificuldades encontradas
 
@@ -65,8 +66,8 @@ Durante a avaliação os usuários não relataram problemas relacionados a ativi
 
 ### Sugestões de melhoria
 
-- O participante Cristiano não trouxe sugestões de melhoria relacionados a atividade. 
-- O participante Davi não trouxe sugestões de melhoria relacionados a atividade. 
+- O participante Cristiano não trouxe sugestões de melhoria relacionados a atividade.
+- O participante Davi não trouxe sugestões de melhoria relacionados a atividade.
 - O participante Mateus sugeriu que a fonte usada no texto de indicação de preenchimento de campos fosse maior.
 
 ### Feedback do usuário
@@ -82,69 +83,84 @@ Com base na entrevista realizada e na observação dos entrevistados, podemos co
 - O fluxo de tarefas de conferir autenticidade de documento como cidadão representado no protótipo está alinhado com o uso real dos usuários do SEI GDF.
 - O participante Mateus deu como sugestão aumentar a fonte do texto de indicação de preenchimento de campos.
 
-
 ## Entrevista - Pesquisar processo (Servidor)
 
 ### Objetivo e escopo da avaliação
 
-A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Pesquisar processo (Servidor)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-servidor) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
+A avaliação teve como objetivo validar se o protótipo de alta fidelidade de [pesquisar processo como servidor](https://www.figma.com/file/sXQbjC3sXyNOs9m2kKhSnn/Prot%C3%B3tipos-de-alta-fidelidade?type=design&node-id=1%3A3&mode=design&t=qYbqUkbpPBb527DF-1) está alinhado com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
+
+<center>
+
+#### Protótipo 2 - Pesquisar Processo (Servidor).
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FsXQbjC3sXyNOs9m2kKhSnn%2FProt%25C3%25B3tipos-de-alta-fidelidade%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DqYbqUkbpPBb527DF-1" allowfullscreen></iframe>
+
+_Fonte_ - [Felipe de Sousa](https://github.com/fsousac)
+
+</center>
 
 ### Método de avaliação
 
-O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 2 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do Protótipo de papel.
+O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 2 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar o protótipo de alta fidelidade.
 
 <center>
-    
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
 
-#### Planejado
+#### Tabela 2 - Cronograma da entrevista.
 
-|               Entrevistador(es)               | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :-------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Felipe de Sousa](https://github.com/fsousac) |   Laís Soares   |       16:00       |     16:15      | 03/11/2023 | Pessoalmente |
+|                  Entrevistador(es)                   |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :--------------------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano Peixoto |       21:00       |     21:06      | 26/11/2023 | Pessoalmente |
+| [Millena Queiroz](https://github.com/MillenaQueiroz) |  Mateus Vinicius  |       22:20       |     22:27      | 27/11/2023 |    Teams     |
+|    [Felipe de Sousa](https://github.com/fsousac)     |    Davi Nobre     |       21:00       |     21:09      | 28/11/2023 |    Teams     |
 
-#### Executado
+_Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
 
-|               Entrevistador(es)               | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :-------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Felipe de Sousa](https://github.com/fsousac) |  Rayssa Soares  |       16:00       |     16:15      | 21/11/2023 | Pessoalmente |
+#### Vídeo 1 - Entrevista com Cristiano (a partir do minuto 3:36)
 
-<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+<iframe width="1017" height="315" src="https://www.youtube.com/embed/-7s-Yc08vW8" title="Entrevista - Cristiano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Houve a mudaça na entrevistada visando o enriquecimento na coleta de informações para o projeto.
+_Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
+
+#### Vídeo 2 - Entrevista com Mateus (a partir do minuto 4:26)
+
+<iframe width="1017" height="315" src="https://www.youtube.com/embed/G-WludIJ7ME" title="Entrevista - Mateus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+_Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
+
+#### Vídeo 3 - Entrevista com Davi (a partir do minuto 6:09)
+
+<iframe width="1017" height="315" src="https://www.youtube.com/embed/HLmbso0979k" title="Entrevista Davi (Protótipo de Alta Fidelidade)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+_Fonte_ - [Felipe de Sousa](https://github.com/fsousac)
 
 </center>
 
 ### Seleção de participante
 
-A participante se encaixa no perfil de usuário, pois é uma usuária entre 18 e 30 anos, possui uma boa experiência com tecnologia e já realizou a ação de pesquisar processos como servidor.
+Os participantes se encaixam no perfil de usuário, pois são usuários entre 30 e 50 anos e entre 18 e 30 anos, que possuem experiencia, no mínimo, razoável com tecnologia e já realizaram a ação de verificar autenticação de um documento.
 
 ### Problemas e dificuldades encontradas
 
-Durante a avaliação do protótipo, a usuária não relatou nenhuma dificuldade em executar a tarefa. Ela cita ainda que a tarefa possui um fluxo claro e simples de execução.
+Durante a avaliação os usuários não relataram problemas relacionados a atividade de pesquisar um documento.
 
 ### Sugestões de melhoria
 
-- A usuária sugere apenas a inserção de cores no projeto, mas que o protótipo para a tarefa está bem conciso.
+- O participante Cristiano não trouxe sugestões de melhoria relacionados a atividade.
+- O participante Davi não trouxe sugestões de melhoria relacionados a atividade.
+- O participante Mateus sugeriu que a aba de pesquisa de processo fosse recolhida automaticamente ao mudar de página.
 
 ### Feedback do usuário
 
-A usuária ficou satisfeita com a realização da tarefa e, quando questinada, não apresentou nenhum ponto a mais de melhoria para a tarefa.
+Os entrevistados acreditam que o protótipo está condizente com a tarefa relacionada.
 
 ### Análise e interpretação dos resultados
 
-Com base na entrevista realizada e na observação dos usuários, podemos concluir que o protótipo da tarefa de Pesquisar processo (servidor) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI.
+Com base na entrevista realizada e na observação dos entrevistados, podemos concluir que o protótipo de alta fidelidade da tarefa de pesquisar processo como servidor está alinhada com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI.
 
 ### Sumário dos principais resultados
 
-- O protótipo da tarefa de Pesquisar processo (servidor) está alinhado com o proposto para o escopo da avaliação.
-- O usuário explicita a importancia de se ater futuramente com a paleta de cores para o site.
-
-<p style="text-align: center"><a href="https://youtu.be/MgM3Xhb1c3k" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/MgM3Xhb1c3k?si=FZH1w7j7PUwjF5mh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+- O fluxo da tarefa de pesquisar processo como servidor representado no protótipo está alinhado com o uso real dos usuários do SEI GDF.
+- O participante Mateus deu a sugestão do menu de pesquisa de processos ser recolhido automaticamente ao passar de página.
 
 ## Entrevista - Pesquisar processo (Cidadão)
 
@@ -356,7 +372,7 @@ Com base na entrevista realizada e na observação dos usuários, posso concluir
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                       | Autor(es)                                            | Revisor(es)                                          |
-| ------ | ---------- | --------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 28/11/2023 | Inicio do documento com a tarefa de conferência de autenticação | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie)       |
-
+| Versão | Data       | Descrição                                                       | Autor(es)                                            | Revisor(es)                                    |
+| ------ | ---------- | --------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- |
+| `1.0`  | 28/11/2023 | Inicio do documento com a tarefa de conferência de autenticação | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie) |
+| `1.1`  | 28/11/2023 | Inserção da tarefa de Pesquisar Processo como servidor          | [Felipe de Sousa](https://github.com/fsousac)        | [João Pedro](https://github.com/JoosPerro)     |
