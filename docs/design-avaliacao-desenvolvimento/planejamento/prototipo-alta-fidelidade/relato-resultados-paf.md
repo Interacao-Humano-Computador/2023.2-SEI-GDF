@@ -166,64 +166,64 @@ Com base na entrevista realizada e na observação dos entrevistados, podemos co
 
 ### Objetivo e escopo da avaliação
 
-A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Pesquisar processo (Cidadão)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-cidadao) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
+A avaliação teve como objetivo validar se o protótipo de alta fidelidade de [pesquisar processo como cidadão](https://www.figma.com/file/sXQbjC3sXyNOs9m2kKhSnn/Prot%C3%B3tipos-de-alta-fidelidade?type=design&node-id=1%3A3&mode=design&t=qYbqUkbpPBb527DF-1) está alinhado com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
+
+<center>
+
+#### Protótipo 3 - Pesquisar Processo (Cidadão).
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FsXQbjC3sXyNOs9m2kKhSnn%2FProt%25C3%25B3tipos-de-alta-fidelidade%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DqYbqUkbpPBb527DF-1" allowfullscreen></iframe>
+
+_Fonte_ - [Lucas Caldas](https://github.com/lucascaldasb)
+
+</center>
 
 ### Método de avaliação
 
-O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 3 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar o Protótipo de Papel.
+O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 3 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar o protótipo de alta fidelidade.
 
 <center>
-    
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
 
-#### Planejado
+#### Tabela 3 - Cronograma da entrevista.
 
-|                Entrevistador(es)                | Entrevistado(s) | Horário de Início | Horário de Fim |   Data    |       Local        |
-| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :-------: | :----------------: |
-| [Lucas Caldas](https://github.com/lucascaldasb) |   Pedro Igor    |       22:00       |     22:50      | 8/11/2023 | Plataforma Discord |
+|                  Entrevistador(es)                   |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :--------------------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Lucas Caldas](https://github.com/lucascaldasb) | Marcus Eduardo |       22:00       |     22:30     | 28/11/2023 | Plataforma Teams |
 
-#### Executado
+_Fonte_ - [Lucas Caldas](https://github.com/lucascaldasb) |
 
-|                Entrevistador(es)                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Lucas Caldas](https://github.com/lucascaldasb) |   Pedro Igor    |       20:00       |     20:15      | 19/11/2023 | Pessoalmente |
+#### Vídeo - Entrevista com Marcus
 
-<font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
+<iframe width="1017" height="315" src="https://www.youtube.com/embed/mHNvuppUy5A" title="Entrevista IHC - Protótipo de Alta Fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Houve a mudaça na entrevistada visando o enriquecimento na coleta de informações para o projeto e a disponibilidade do usuário em realizar pessoalmente a entrevista.
+_Fonte_ - [Lucas Caldas](https://github.com/lucascaldasb)
 
 </center>
 
 ### Seleção de participante
 
-O participante se encaixa no perfil de usuário, pois é um usuário entre 18 e 30 anos, possui uma boa experiência com tecnologia e já realizou a ação de pesquisar processos como cidadão.
+O participante se encaixa no perfil de usuário, pois é um usuário entre 18 e 30 anos, que possui experiencia, no mínimo, razoável com tecnologia e já realizarou a ação de pesquisar um processo como cidadão.
 
 ### Problemas e dificuldades encontradas
 
-Durante a avaliação do protótipo, a usuária não relatou nenhuma dificuldade em executar a tarefa. Ele considerou fluxo claro e bem intuitivo.
+Durante a avaliação os usuários não relataram problemas relacionados a atividade de pesquisar um processo.
 
 ### Sugestões de melhoria
 
-- O usuário sugeriu melhorias não relacionadas exatamente a funcionalidade e sim a aba de menu da platafroma que não apresenta nenhuma ação considerável.
+- O participante sugeriu alterar as cores utilizadas e diminuir o tamanho das fontes.
 
 ### Feedback do usuário
 
-A usuário ficou bastante satisfeito com a realização da tarefa e não apontou melhorias relacioanadas a funcionalidade de pesquisa de processo.
+O entrevistado acredita que o protótipo está condizente com a tarefa relacionada e a deixou bem mais fácil de ser realizada.
 
 ### Análise e interpretação dos resultados
 
-Com base na entrevista realizada e na observação dos usuários, podemos concluir que o protótipo da tarefa de Pesquisar processo (Cidadaõ) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI.
+Com base na entrevista realizada e na observação do entrevistado, podemos concluir que o protótipo de alta fidelidade da tarefa de pesquisar processo como cidadão está alinhada com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI.
 
 ### Sumário dos principais resultados
 
-- O protótipo da tarefa de Pesquisar processo (cidadão) está alinhado com o proposto para o escopo da avaliação.
-- O usuário chama a atenção para o ponto de menu do site que só apresenta ação de abrir e fechar a sidebar da tela de listagem de processos.
-
-<p style="text-align: center"><a href="https://youtu.be/00we3TsDIVI" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/00we3TsDIVI" title="Entrevista -  Protótipo de Papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-<font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
+- O fluxo da tarefa de pesquisar processo como cidadão representado no protótipo está alinhado com o uso real dos usuários do SEI GDF.
+- O participante Marcus deu a sugestão de alterar as cores para não deixar tão misturado demais e diminuir as fontes.
 
 ## Entrevista - Iniciar um processo (Servidor)
 
@@ -376,3 +376,4 @@ Com base na entrevista realizada e na observação dos usuários, posso concluir
 | ------ | ---------- | --------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- |
 | `1.0`  | 28/11/2023 | Inicio do documento com a tarefa de conferência de autenticação | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie) |
 | `1.1`  | 28/11/2023 | Inserção da tarefa de Pesquisar Processo como servidor          | [Felipe de Sousa](https://github.com/fsousac)        | [João Pedro](https://github.com/JoosPerro)     |
+| `1.2`  | 29/11/2023 | Inserção da tarefa de Pesquisar Processo como cidadão          | [lucas Caldas](https://github.com/lucascaldasb)        | [João Pedro](https://github.com/JoosPerro)     |
