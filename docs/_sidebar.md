@@ -79,6 +79,7 @@
   - Protótipo de alta fidelidade
     - [Planejamento da avaliação do Protótipo de Alta Fidelidade](design-avaliacao-desenvolvimento/planejamento/prototipo-alta-fidelidade/planejamento-avaliacao-protot-alta-fid.md)
     - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-alta-fidelidade/planejamento-relato-result-protot-alta-fid.md)
+    - [Relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-alta-fidelidade/relato-resultados-paf.md)
 
 * Verificação
 

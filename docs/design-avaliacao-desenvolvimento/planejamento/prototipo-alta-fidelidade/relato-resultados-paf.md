@@ -8,56 +8,74 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 
 ### Objetivo e escopo da avaliação
 
-A avaliação teve como objetivo validar se a o protótipo de papel de [fazer a conferência da autenticação de documentos](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/analise-de-tarefas/HTA?id=fazer-a-confer%c3%aancia-da-autentica%c3%a7%c3%a3o-de-documentos-cidad%c3%a3) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
-
-### Método de avaliação
-
-O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar o protótipo de papel.
+A avaliação teve como objetivo validar se a o protótipo de alta fidelidade de [fazer a conferência da autenticação de documentos](https://www.figma.com/file/sXQbjC3sXyNOs9m2kKhSnn/Prot%C3%B3tipos-de-alta-fidelidade?type=design&node-id=55-97&mode=dev) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
 
 <center>
 
-_Tabela 1_ - Cronograma da entrevista.
+#### Protótipo 1 - Conferência da autenticação de documentos.
 
-|                  Entrevistador(es)                   |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :--------------------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano Peixoto |       21:00       |     16:46      | 20/11/2023 | Pessoalmente |
-| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano Peixoto |       21:00       |     16:46      | 20/11/2023 | Pessoalmente |
-| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano Peixoto |       21:00       |     16:46      | 20/11/2023 | Pessoalmente |
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FsXQbjC3sXyNOs9m2kKhSnn%2FProt%25C3%25B3tipos-de-alta-fidelidade%3Ftype%3Ddesign%26node-id%3D55%253A96%26mode%3Ddesign%26t%3DBdcqfwFsurfbcI7L-1" allowfullscreen></iframe>
 
 _Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
 
 </center>
 
+### Método de avaliação
+
+O método utilizado foi de entrevista e análise dos artefatos com o usuário, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar o protótipo de alta fidelidade.
+
+<center>
+
+#### Tabela 1 - Cronograma da entrevista.
+
+|                  Entrevistador(es)                   |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :--------------------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano Peixoto |       21:00       |     21:06      | 26/11/2023 | Pessoalmente |
+| [Millena Queiroz](https://github.com/MillenaQueiroz) | Mateus Vinicius |       22:20      |     22:27      | 27/11/2023 | Teams |
+
+
+_Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
+
+
+#### Vídeo 1 - Entrevista com Cristiano (até minuto 3:36)
+<iframe width="1017" height="315" src="https://www.youtube.com/embed/-7s-Yc08vW8" title="Entrevista - Cristiano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+_Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
+
+#### Vídeo 2 - Entrevista com Mateus (até minuto 4:26)
+<iframe width="1017" height="315" src="https://www.youtube.com/embed/G-WludIJ7ME" title="Entrevista - Mateus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+_Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
+
+
+</center>
+
 ### Seleção de participante
 
-O participante se encaixa no perfil de usuário, pois é um usuário entre 30 e 50 anos, possui experiencia razoável com tecnologia e já realizou a ação de verificar autenticação de um documento.
+Os participantes se encaixam no perfil de usuário, pois é um usuário entre 30 e 50 anos, possui experiencia razoável com tecnologia e já realizou a ação de verificar autenticação de um documento.
 
 ### Problemas e dificuldades encontradas
 
-Durante a avaliação o usuário não relatou problemas relacionados a atividade de verificar autenticação de um documento.
+Durante a avaliação os usuários não relataram problemas relacionados a atividade de verificar autenticação de um documento.
 
 ### Sugestões de melhoria
 
-- Deixar claro o significado dos códigos (CRC e verificador). Para um usuário que não entende esses termos pode ser confuso para saber qual campo preencher.
+- O participante Cristiano não trouxe sugestões de melhoria relacionados a atividade. 
+- O participante Mateus sugeriu que a fonte usada no texto de indicação de preenchimento de campos fosse maior.
 
 ### Feedback do usuário
 
-O usuário acredita que o protótipo está condizente com a tarefa relacionada.
+Os entrevistados acreditam que o protótipo está condizente com a tarefa relacionada.
 
 ### Análise e interpretação dos resultados
 
-Com base na entrevista realizada e na observação do usuário, podemos concluir que o protótipo de papel da tarefa de verificar autenticação de um documento (cidadão) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI.
+Com base na entrevista realizada e na observação dos entrevistados, podemos concluir que o protótipo de alta fidelidade da tarefa de verificar autenticação de um documento (cidadão) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI.
 
 ### Sumário dos principais resultados
 
 - O fluxo de tarefas de conferir autenticidade de documento como cidadão representado no protótipo está alinhado com o uso real dos usuários do SEI GDF.
-- O participante deu como sugestão deixar mais claro o significado dos códigos (CRC e verificador).
+- O participante Mateus deu como sugestão aumentar a fonte do texto de indicação de preenchimento de campos.
 
-<p style="text-align: center"><a href="https://youtu.be/wmRyPfbCUO4" target="blanket">Clique aqui</a></p>
-
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/wmRyPfbCUO4" title="Entrevista Cristiano Protótipo de Papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-<font size="3"><p style="text-align: center">Fonte: [Millena Queiroz](https://github.com/MillenaQueiroz).</p></font>
 
 ## Entrevista - Pesquisar processo (Servidor)
 
@@ -334,8 +352,5 @@ Com base na entrevista realizada e na observação dos usuários, posso concluir
 
 | Versão | Data       | Descrição                                                       | Autor(es)                                            | Revisor(es)                                          |
 | ------ | ---------- | --------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 21/11/2023 | Inicio do documento com a tarefa de conferência de autenticação | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie)       |
-| `1.1`  | 21/11/2023 | Inserção da tarefa de Pesquisa como servidor                    | [Felipe de Sousa](https://github.com/fsousac)        | [Lucas Caldas](https://github.com/lucascaldasb)      |
-| `1.2`  | 21/11/2023 | Inserção da tarefa de Pesquisa como cidadão                     | [Lucas Caldas](https://github.com/lucascaldasb)      | [Felipe de Sousa](https://github.com/fsousac)        |
-| `1.3`  | 21/11/2023 | Inserção da tarefa de Iniciar um processo como Servidor         | [Caio Mesquita](https://github.com/Caiomesvie)       | [Lucas Caldas](https://github.com/lucascaldasb)      |
-| `1.4`  | 22/11/2023 | Inserção da tarefa de Gerar Documento como Servidor             | [João Pedro](https://github.com/JoosPerro)           | [Millena Queiroz](https://github.com/MillenaQueiroz) |
+| `1.0`  | 28/11/2023 | Inicio do documento com a tarefa de conferência de autenticação | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie)       |
+
