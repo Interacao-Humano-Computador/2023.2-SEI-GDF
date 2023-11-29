@@ -32,6 +32,7 @@ O método utilizado foi de entrevista e análise dos artefatos com o usuário, n
 | :--------------------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :----------: |
 | [Millena Queiroz](https://github.com/MillenaQueiroz) | Cristiano Peixoto |       21:00       |     21:06      | 26/11/2023 | Pessoalmente |
 | [Millena Queiroz](https://github.com/MillenaQueiroz) | Mateus Vinicius |       22:20      |     22:27      | 27/11/2023 | Teams |
+| [Felipe de Sousa](https://github.com/fsousac) | Davi Nobre |       21:05      |     21:10      | 28/11/2023 | Teams |
 
 
 _Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
@@ -47,12 +48,16 @@ _Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
 
 _Fonte_ - [Millena Queiroz](https://github.com/MillenaQueiroz)
 
+#### Vídeo 3 - Entrevista com Davi (até minuto 6:09)
+<iframe width="1017" height="315" src="https://www.youtube.com/embed/HLmbso0979k" title="Entrevista Davi (Protótipo de Alta Fidelidade)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+_Fonte_ - [Felipe de Sousa](https://github.com/fsousac)
 
 </center>
 
 ### Seleção de participante
 
-Os participantes se encaixam no perfil de usuário, pois é um usuário entre 30 e 50 anos, possui experiencia razoável com tecnologia e já realizou a ação de verificar autenticação de um documento.
+Os participantes se encaixam no perfil de usuário, pois são usuários entre 30 e 50 anos, possuem experiencia razoável com tecnologia e já realizaram a ação de verificar autenticação de um documento.
 
 ### Problemas e dificuldades encontradas
 
@@ -61,6 +66,7 @@ Durante a avaliação os usuários não relataram problemas relacionados a ativi
 ### Sugestões de melhoria
 
 - O participante Cristiano não trouxe sugestões de melhoria relacionados a atividade. 
+- O participante Davi não trouxe sugestões de melhoria relacionados a atividade. 
 - O participante Mateus sugeriu que a fonte usada no texto de indicação de preenchimento de campos fosse maior.
 
 ### Feedback do usuário
