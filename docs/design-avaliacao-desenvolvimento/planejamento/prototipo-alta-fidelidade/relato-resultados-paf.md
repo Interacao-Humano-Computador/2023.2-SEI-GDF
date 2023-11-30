@@ -137,7 +137,7 @@ _Fonte_ - [Felipe de Sousa](https://github.com/fsousac)
 
 ### Seleção de participante
 
-Os participantes se encaixam no perfil de usuário, pois são usuários entre 30 e 50 anos e entre 18 e 30 anos, que possuem experiencia, no mínimo, razoável com tecnologia e já realizaram a ação de verificar autenticação de um documento.
+Os participantes se encaixam no perfil de usuário, pois são usuários entre 30 e 50 anos e entre 18 e 30 anos, que possuem experiencia, no mínimo, razoável com tecnologia e já realizaram a ação de pesquisar processo como servidor.
 
 ### Problemas e dificuldades encontradas
 
