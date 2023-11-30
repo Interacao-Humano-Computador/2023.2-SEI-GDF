@@ -225,15 +225,24 @@ Com base na entrevista realizada e na observação do entrevistado, podemos conc
 - O fluxo da tarefa de pesquisar processo como cidadão representado no protótipo está alinhado com o uso real dos usuários do SEI GDF.
 - O participante Marcus deu a sugestão de alterar as cores para não deixar tão misturado demais e diminuir as fontes.
 
+
+
+
+
+
+
+
+
+
 ## Entrevista - Iniciar um processo (Servidor)
 
 ### Objetivo e escopo da avaliação
 
-A avaliação teve como objetivo validar se o [Protótipo de papel da tarefa de Iniciar um processo (Servidor)](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-de-papel-iniciar-processo) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
+A avaliação teve como objetivo validar se o Protótipo de alta fidelidade de [Iniciar um processo (Servidor)](https://www.figma.com/file/sXQbjC3sXyNOs9m2kKhSnn/Prot%C3%B3tipos-de-alta-fidelidade?type=design&node-id=1%3A3&mode=design&t=qYbqUkbpPBb527DF-1) está alinhada com o fluxo de atividades dos usuários do SEI e identificar áreas de melhoria para fornecer um suporte mais eficaz e satisfatório aos usuários.
 
 ### Método de avaliação
 
-O método utilizado foi de entrevista e execução do protótipo com o usuário. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI.
+O método utilizado foi de entrevista e execução do protótipo com o usuário. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI. A entrevista foi realizada de forma presencial utilzando um notebook para a validação do protótipo e um celular para a gravação gerando 0 custos para o entrevistado.
 
 <center>
     
@@ -243,132 +252,66 @@ O método utilizado foi de entrevista e execução do protótipo com o usuário.
 
 |               Entrevistador(es)                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |   Local    |
 | :--------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :--------: |
-| [Caio Mesquita](https://github.com/Caiomesvie) |   Leila Kelri   |       20:00       |     20:30      | 08/11/2023 | Presencial |
-| [Caio Mesquita](https://github.com/Caiomesvie) |  Jane Ramalho   |       07:10       |     07:25      | 08/11/2023 | Presencial |
+| [Caio Mesquita](https://github.com/Caiomesvie) |  Felipe Carvalho    |       20:00       |     20:30      | 24/11/2023 | Presencial |
+| [Caio Mesquita](https://github.com/Caiomesvie) |  Matheus Duarte    |       07:10       |     07:25      | 27/11/2023 | Presencial |
 
 #### Executado
 
 |               Entrevistador(es)                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |   Local    |
 | :--------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :--------: |
-| [Caio Mesquita](https://github.com/Caiomesvie) |   Caio Alves    |       18:00       |     18:10      | 20/11/2023 | Presencial |
-| [Caio Mesquita](https://github.com/Caiomesvie) | Gustavo Augusto |       18:10       |     18:20      | 20/11/2023 | Presencial |
+| [Caio Mesquita](https://github.com/Caiomesvie) |   Felipe Carvalho    |       18:00       |     18:10      | 29/11/2023 | Presencial |
+| [Caio Mesquita](https://github.com/Caiomesvie) | André Belle |       18:10       |     18:20      | 29/11/2023 | Presencial |
+| [Caio Mesquita](https://github.com/Caiomesvie) | André Belle |       18:20       |     18:30      | 29/11/2023 | Presencial |
 
 <font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
-Houve a mudança nos entrevistada visando o enriquecimento na coleta de informações para o projeto e por problemas de logística para a realização da entrevista de forma presencial
 
 </center>
 
 ### Seleção de participante
 
-Os participante se encaixam no perfil de usuário, pois são usuários entre 18 e 30 anos, possui uma boa experiência com tecnologia e trabalham com a plataforma SEI! em seu estágio
+Os participante se encaixam no perfil de usuário, pois são usuários entre 18 e 45 anos, os 3 selecionados trabalham em um tribunal em 3 cargos diferentes, gerando assim uma qualidade de dados rica e respostas diversas.
 
 ### Problemas e dificuldades encontradas
 
-Durante a avaliação do protótipo, os usuários não declararam dificuldades em realizar a tarefa em seu fluxo e a entrevista ocorreu de forma clara e concisa.
+Durante a avaliação do protótipo, os usuários não declararam dificuldades em realizar a tarefa em seu fluxo e a entrevista ocorreu de forma clara e concisa. Também não houveram empecilhos técnicos para a realização.
 
 ### Sugestões de melhoria
 
-Ambos os entrevistados sugeriram que o fluxo de tarefas de preenchimento dos dados do processo, que são 4 tarefas que ocorrem concomitantemente, que elas fossem desmembradas em etapas sequenciais para ficar mais intuitivo e de fácil preenchimento.
-O entrevistado Caio Alves sugeriu que o botão de controle de expansão do menu lateral fosse mais claro e de visualização mais simples como um ícone de menu hambúrguer.
+O entrevistado Felipe sugeriu uma melhora no design dos ícones para melhor vizualiação de pessoas com dificuldades visuais.
+O entrevistado André sugeriu uma melhora na tarefa de selecionar os interessados do processo, onde possa haver uma forma mais intuitiva de vizualização dos dados do interessado.
+A entrevistada Nébia não fez nenhuma sugestão de melhoria
 
 ### Feedback do usuário
 
-Os usuários não apresentaram dificuldade em realizar a tarefa, mas sugeriram mudanças apenas para facilitar o uso. Os problemas encontrados por eles na prototipação não são graves nem interferem na finalização da tarefa
+Os usuários realizaram a tarefa com êxito, sem dificuldades. Relataram que o design está agradável e intuitivo, com enfâse no elogio do entrevistado Felipe onde afirma que a versão do protótipo está melhor de se utilizar do que a atual versão da plataforma SEI!.
 
 ### Análise e interpretação dos resultados
 
-Com base nas entrevistas realizada e na observação dos usuários, podemos concluir que o protótipo da tarefa de Iniciar um processo (servidor) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI.
+Com base nas entrevistas realizada e na observação dos usuários, podemos concluir que o protótipo da tarefa de Iniciar um processo (servidor) está alinhado com a realidade de acordo com o escopo pretendido e corresponde às necessidades dos usuários do SEI. O design está intuitivo para a realização das tarefas, apenas algum detalhes estéticos para serem alterados visando melhorar mais ainda a realização da tarefa que já é realizada com êxito.
 
 ### Sumário dos principais resultados
 
-- O protótipo da tarefa de Iniciar um processo (servidor) está alinhado com o proposto para o escopo da avaliação.
-- Os usuário recomendam a separação das 4 tarefas de preenchimento do processo em etapas separadas para melhor utilização.
+- O protótipo de alta fidelidade da tarefa de Iniciar um processo (servidor) está alinhado com o proposto para o escopo da avaliação.
+- O fluxo da tarefa, da maneira que está disposta o layout está intuitivo e de fácil conclusão
+- Há alguns detalhes estétiticos que podem melhorar a usabilidade mas não são impeditivas da realização da tarefa
 
-<p style="text-align: center"><a href="https://youtu.be/XGbcCqvajDQ" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtu.be/ESAGij1wqF8" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XGbcCqvajDQ" title="Entrevista para avaliação Protótipo de papel Gustavo Augusto ihc g8 23/2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ESAGij1wqF8" title="Entrevista Filipe protótipo de alta fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<p style="text-align: center"><a href="https://youtu.be/5Z21BJLem6A" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtu.be/m2XGDZd9nuM" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5Z21BJLem6A" title="Entrevista para avaliação Protótipo de papel Caio Alves ihc g8 23/2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="853" height="480" src="https://www.youtube.com/embed/m2XGDZd9nuM" title="Entrevista André protótipo de alta fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/QQ0jNlljThE" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="853" height="480" src="https://www.youtube.com/embed/QQ0jNlljThE" title="Entrevista Nébia protótipo de alta fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
-## Entrevista - Gerar Documento (Servidor)
 
-### Objetivo e escopo da avaliação
 
-A avaliação teve como objetivo validar o [Protótipo de papel da tarefa Gerar Documento (Servidor)](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/blob/main/docs/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-gerar-doc.md). O protótipo deve refletir o fluxo da tarefa, de forma que o usuário do SEI possa realizar com relativa facilidade a sua tarefa.
-
-### Método de avaliação
-
-O método utilizado foi de entrevista e execução do protótipo com o usuário, na Tabela 5 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião em que foram feitas perguntas ao usuário, que já tinha familiaridade com o SEI, a fim de validar a acurácia do HTA e do Storyboard da tarefa.
-
-<center>
-    
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma de entrevistas Planejado X Executado. </p></font>
-
-#### Planejado
-
-|             Entrevistador(es)              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [João Pedro](https://github.com/JoosPerro) |     Márcio      |       19:00       |     19:30      | 21/11/2023 | Pessoalmente |
-
-#### Executado
-
-|             Entrevistador(es)              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [João Pedro](https://github.com/JoosPerro) |  Lucy Moreira   |       21:27       |     21:42      | 21/11/2023 | Pessoalmente |
-
-<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JoosPerro).</p></font>
-
-Houve a mudaça na entrevista por motivos de mudança do entrevistado, devido à disponibilidade.
-
-</center>
-
-### Seleção de participante
-
-A participante é uma servidora pública, usuária do SEI, já realizou a tarefa de gerar documento como servidor. Porém, não se encaixa na faixa etária do perfil, tendo mais de 50 anos. Não trabalha na área de tecnologia, e relata que num primeiro momento precisou de bastante esforço para se adaptar à plataforma.
-
-### Problemas e dificuldades encontradas
-
-Ao final da execução simulada da tarefa, a entrevistada relatou facilidade em realizar a tarefa de gerar documento.
-
-### Sugestões de melhoria
-
-- A entrevistada relatou que o protótipo difere um pouco do site do SEI, pois a assinatura do documento ocorria de forma automática, diferente do protótipo, que possui uma tela para assinatura.
-
-### Análise e interpretação dos resultados
-
-Com base na entrevista realizada e na observação dos usuários, posso concluir que o protótipo da tarefa Gerar Documento (Servidor) atende ao usuário do SEI, com uma estrutura simples e compreensível.
-
-### Sumário dos principais resultados
-
-<center>
-  
-**Tabela 6** - Roteiro de Perguntas.
-
-| n°  |                                    Pergunta                                    |                                                                                Resposta                                                                                |
-| :-: | :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |    Você conseguiu concluir a tarefa proposta no protótipo com dificuldade ?    |                                                               Sim( ) <br />Não(X) <br />Parcialmente( )                                                                |
-|  2  |                        Você achou o design intuitivo ?                         |                                                                  Sim(X) <br />Não( ) <br />Não sei( )                                                                  |
-|  3  | Você sentiu que o design da interface colabora com a conclusão da sua tarefa ? |                                                                  Sim(X) <br />Não( ) <br />Não sei( )                                                                  |
-|  4  |           Acha que a tarefa poderia ser concluida com menos passos ?           | Sim(X) <br />Não( ) <br />Não sei( ) <br /> A entrevistada acredita que é possível suprimir a tela de assinatura, pois o processo de assinatura pode ser automatizado. |
-|  5  |          Qual foi a maior dificuldade em realizar a tarefa proposta ?          |                                                                 Não foi relatada nenhuma dificuldade.                                                                  |
-|  6  |    Quais sugestões de melhorias você nos daria para o design da interface ?    |                                                             Apenas a questão da assinatura, já explicada.                                                              |
-
-**Fonte:** [Planejamento da avaliação do Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/blob/main/docs/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel.md).
-
-</center>
-
-### Gravação da Entrevista
-
-<p style="text-align: center"><a href="https://www.youtube.com/hXuDONY0ac8" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/hXuDONY0ac8" title="Entrevista da avaliação do protótipo de papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-<font size="3"><p style="text-align: center">Fonte: [João Pedro](https://github.com/JoosPerro).</p></font>
 
 ## Histórico de Versões
 
@@ -376,4 +319,5 @@ Com base na entrevista realizada e na observação dos usuários, posso concluir
 | ------ | ---------- | --------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- |
 | `1.0`  | 28/11/2023 | Inicio do documento com a tarefa de conferência de autenticação | [Millena Queiroz](https://github.com/MillenaQueiroz) | [Caio Mesquita](https://github.com/Caiomesvie) |
 | `1.1`  | 28/11/2023 | Inserção da tarefa de Pesquisar Processo como servidor          | [Felipe de Sousa](https://github.com/fsousac)        | [João Pedro](https://github.com/JoosPerro)     |
-| `1.2`  | 29/11/2023 | Inserção da tarefa de Pesquisar Processo como cidadão          | [lucas Caldas](https://github.com/lucascaldasb)        | [João Pedro](https://github.com/JoosPerro)     |
+| `1.2`  | 29/11/2023 | Inserção da tarefa de Pesquisar Processo como cidadão          | [lucas Caldas](https://github.com/lucascaldasb)        | [Caio Mesquita](https://github.com/Caiomesvie)     |
+| `1.3`  | 29/11/2023 | Inserção da tarefa de Iniciar um processo como Servidor    | [Caio Mesquita](https://github.com/Caiomesvie)      |  [Millena Queiroz](https://github.com/MillenaQueiroz)  |
