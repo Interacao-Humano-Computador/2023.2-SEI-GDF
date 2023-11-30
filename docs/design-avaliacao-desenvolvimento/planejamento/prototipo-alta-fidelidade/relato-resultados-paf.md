@@ -261,7 +261,7 @@ O método utilizado foi de entrevista e execução do protótipo com o usuário.
 | :--------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :--------: |
 | [Caio Mesquita](https://github.com/Caiomesvie) |   Felipe Carvalho    |       18:00       |     18:10      | 29/11/2023 | Presencial |
 | [Caio Mesquita](https://github.com/Caiomesvie) | André Belle |       18:10       |     18:20      | 29/11/2023 | Presencial |
-| [Caio Mesquita](https://github.com/Caiomesvie) | André Belle |       18:20       |     18:30      | 29/11/2023 | Presencial |
+| [Caio Mesquita](https://github.com/Caiomesvie) | Nébia Augusta  |       18:20       |     18:30      | 29/11/2023 | Presencial |
 
 <font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
