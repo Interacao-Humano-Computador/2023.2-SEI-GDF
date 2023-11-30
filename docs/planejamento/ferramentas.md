@@ -1,5 +1,4 @@
-# Ferramentas
-
+# Ferramentas do projeto
 ## Introdução
 
 O grupo utilizará softwares que auxiliarão nas atividades de planejamento, coordenação, comunicação e documentação do projeto de análise do SEI-GDF. Esses softwares foram escolhidos de acordo com as necessidades e preferências da equipe, mas podem ser alterados ao longo do projeto se houver alguma dificuldade ou oportunidade de melhoria. A tabela 1 mostra as ferramentas selecionadas pelo grupo e suas respectivas funções no projeto.
@@ -18,11 +17,14 @@ O grupo utilizará softwares que auxiliarão nas atividades de planejamento, coo
 | <img alt="Logo do Visual Studio Code" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/f3db70c9-326f-4b2c-8279-66441e7e619a" width="90"> | Visual Studio Code | Criação e edição dos arquivos de documentação. |
 | <img alt="Logo do WhatsApp" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/f6f5eabb-5c12-4e4a-8092-05f0ce968649" width="90"> | WhatsApp | Comunicação via chat com a equipe |
 | <img alt="Logo do Youtube" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/7efd08e3-c792-4789-a677-0b131b0935de" width="90"> | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+| <img alt="Logo do TPDNE" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/bfd0faed-c28b-4345-b487-07c1149bf467" width="90"> | This person does not exist | Criação de imagens para as personas do projeto. |
 | <img alt="Logo do Google Forms" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/4c093ad1-3d24-49a3-9cef-a4471a4cadbf" width="90"> | Google Forms | Produção e distribuição de questionarios e formularios online. |
+| <img alt="Logo do Google Docs" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/99939c87-15fe-4611-8b9e-1cfeb8c0dd31" width="90"> | Google Docs | Produção de textos de questinários e termos de concentimento. |
+| <img alt="Logo do Figma" src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/ff2cf88b-680d-4cc2-8709-c6a791b9f5b3" width="90"> | Figma | Produção do protótipo de alta fidelidade. |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika).</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika) e [Felipe de Sousa](https://github.com/fsousac).</p></font>
 
 ## Bibliografia
 
@@ -38,12 +40,18 @@ O grupo utilizará softwares que auxiliarão nas atividades de planejamento, coo
 >
 > - YouTube. Disponível em: [https://about.youtube/](). Acesso em: 30 de set. de 2023.
 >
+> - This person does not exist. Disponível em: [https://thispersondoesnotexist.com/](). Acesso em: 29 de nov. de 2023.
+>
 > - Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 30 de set. de 2023.
 >
+> - Google Docs. Disponível em: [https://www.google.com/docs/about/](). Acesso em: 29 de nov. de 2023.
+>
+> - Figma. Disponível em: [https://www.figma.com/about/](). Acesso em: 29 de nov. de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | -------------------- | ----------------------------------------------- | ----------- |
-| `1.0`  | 30/09/2023 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) | [Felipe de Sousa](https://github.com/fsousac) |  |
+| `1.0`  | 30/09/2023 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) | [Felipe de Sousa](https://github.com/fsousac) |  
 | `1.1`  | 01/10/2023 | Revisão do documento | [Felipe de Sousa](https://github.com/fsousac) |   [Pablo S. Costa](https://github.com/pabloheika) |
+| `1.2`  | 29/11/2023 | Inserção de novas ferramentas | [Felipe de Sousa](https://github.com/fsousac) |   [Lucas Caldas](https://github.com/lucascaldasb) |
