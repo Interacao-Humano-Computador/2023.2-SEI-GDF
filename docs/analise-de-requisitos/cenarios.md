@@ -134,6 +134,6 @@ _Fonte: [Artur Ricardo](https://github.com/algorithmorphic)._
 
 | Versão | Data       | Descrição                             | Autor(es)                                           | Revisor(es) |
 | ------ | ---------- | ------------------------------------- | --------------------------------------------------- | ----------- |
-| `1.0`  | 15/10/2023 | Criação dos cenários.                 | [Artur Ricardo](https://github.com/algorithmorphic) ||
-| `2.0`  | 15/10/2023 | Atualização da estrutura do artefato. | [Artur Ricardo](https://github.com/algorithmorphic) ||
-| `2.1`  | 16/10/2023 | Atualização dos dados do artefato.    | [Artur Ricardo](https://github.com/algorithmorphic) ||
+| `1.0`  | 15/10/2023 | Criação dos cenários.                 | [Artur Ricardo](https://github.com/algorithmorphic) | [Felipe de Sousa](https://github.com/fsousac)|
+| `2.0`  | 15/10/2023 | Atualização da estrutura do artefato. | [Artur Ricardo](https://github.com/algorithmorphic) | [Millena Queiroz](https://github.com/millenaqueiroz)|
+| `2.1`  | 16/10/2023 | Atualização dos dados do artefato.    | [Artur Ricardo](https://github.com/algorithmorphic) |[Jpão Pedro](https://github.com/JoosPerro)|
