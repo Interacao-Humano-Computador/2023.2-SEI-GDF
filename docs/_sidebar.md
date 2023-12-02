@@ -67,6 +67,7 @@
     - [Relato dos resultados das avaliações do Storyboard e análise de tarefas](design-avaliacao-desenvolvimento/planejamento/resultados-entrevistas-hta-storyboard.md)
 
   - Protótipo de papel
+
     - Protótipos de papel
       - [Protótipos da Pesquisa processual (Servidor)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-servidor.md)
       - [Protótipos de Verificação de Autenticidade (Cidadão)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-aut-doc.md)
@@ -83,35 +84,67 @@
     - [Relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-alta-fidelidade/relato-resultados-paf.md)
 
 * Verificação
-
-  - Etapa 1
-    - [Planejamento da Verificação da Etapa 1](verificacao/Grupo1/Etapa1/planejamento-verificacao-etapa1.md)
-    - [Cronograma](verificacao/Grupo1/Etapa1/cronograma.md)
-    - [Ferramentas](verificacao/Grupo1/Etapa1/ferramentas.md)
-    - [Processo de Design](verificacao/Grupo1/Etapa1/processo-design.md)
-    - [Sites Avaliados](verificacao/Grupo1/Etapa1/sites-avaliados.md)
-    - [Site Escolhido](verificacao/Grupo1/Etapa1/site-escolhido.md)
-  - Etapa 2
-    - [Planejamento da Verificação da Etapa 2](verificacao/Grupo1/Etapa2/planejamento-verificacao-etapa2.md)
-    - [Análise de Tarefas](verificacao/Grupo1/Etapa2/analise_tarefas.md)
-    - [Perfil do Usuário](verificacao/Grupo1/Etapa2/perfil_usuario.md)
-    - [Personas](verificacao/Grupo1/Etapa2/personas.md)
-    - [Cenários](verificacao/Grupo1/Etapa2/cenarios.md)
-    - [Aspectos Éticos](verificacao/Grupo1/Etapa2/aspectos_eticos.md)
-  - Etapa 3
-    - [Planejamento da Verificação da Etapa 3](verificacao/Grupo1/Etapa3/planejamento_verif_etapa_3.md)
-    - [Princípios Gerais do Projeto](verificacao/Grupo1/Etapa3/princ_gerais.md)
-    - [Características Gerais](verificacao/Grupo1/Etapa3/carac_gerais.md)
-    - [Metas de Usabilidade](verificacao/Grupo1/Etapa3/metas_d_usabilidade.md)
-    - [Guia de Estilo](verificacao/Grupo1/Etapa3/guia_estilo.md)
-  - Etapa 4
-    - [Planejamento da Verificação da Etapa 4](verificacao/Grupo1/Etapa4/Planejamento_verif_etapa_4.md)
-    - [Planejamento da avaliação do storyboard](verificacao/Grupo1/Etapa4/Planejamento_avaliacao_storyboard.md)
-    - [Planejamento da avaliação da análise de tarefas](verificacao/Grupo1/Etapa4/Planejamento_avaliacao_analise_de_tarefas.md)
-    - [Planejamento do relato dos resultados do storyboard](verificacao/Grupo1/Etapa4/Planejamento_relato_resultados_storyboard.md)
-    - [Planejamento do relato dos resultados da análise de tarefas](verificacao/Grupo1/Etapa4/Planejamento_relato_resultados_analise_tarefas.md)
-  - Etapa 5
-    - [Planejamento da Verificação da Etapa 5](verificacao/Grupo1/Etapa5/planejamento_verificação.md)
-    - [Planejamento do Protótipo de Papel](verificacao/Grupo1/Etapa5/verificação_planejamento_protótipo_papel.md)
-    - [Relato dos Resultados da Avaliação da Análise de Tarefas](verificacao/Grupo1/Etapa5/verificação_relato_resultados_analise_tarefas.md)
-    - [Relato dos Resultados da Avaliação do Storyboard](verificacao/Grupo1/Etapa5/verificação_relato_resultados_storyboard.md)
+  - Grupo 1
+    - Etapa 1
+      - [Planejamento da Verificação da Etapa 1](verificacao/Grupo1/Etapa1/planejamento-verificacao-etapa1.md)
+      - [Cronograma](verificacao/Grupo1/Etapa1/cronograma.md)
+      - [Ferramentas](verificacao/Grupo1/Etapa1/ferramentas.md)
+      - [Processo de Design](verificacao/Grupo1/Etapa1/processo-design.md)
+      - [Sites Avaliados](verificacao/Grupo1/Etapa1/sites-avaliados.md)
+      - [Site Escolhido](verificacao/Grupo1/Etapa1/site-escolhido.md)
+    - Etapa 2
+      - [Planejamento da Verificação da Etapa 2](verificacao/Grupo1/Etapa2/planejamento-verificacao-etapa2.md)
+      - [Análise de Tarefas](verificacao/Grupo1/Etapa2/analise_tarefas.md)
+      - [Perfil do Usuário](verificacao/Grupo1/Etapa2/perfil_usuario.md)
+      - [Personas](verificacao/Grupo1/Etapa2/personas.md)
+      - [Cenários](verificacao/Grupo1/Etapa2/cenarios.md)
+      - [Aspectos Éticos](verificacao/Grupo1/Etapa2/aspectos_eticos.md)
+    - Etapa 3
+      - [Planejamento da Verificação da Etapa 3](verificacao/Grupo1/Etapa3/planejamento_verif_etapa_3.md)
+      - [Princípios Gerais do Projeto](verificacao/Grupo1/Etapa3/princ_gerais.md)
+      - [Características Gerais](verificacao/Grupo1/Etapa3/carac_gerais.md)
+      - [Metas de Usabilidade](verificacao/Grupo1/Etapa3/metas_d_usabilidade.md)
+      - [Guia de Estilo](verificacao/Grupo1/Etapa3/guia_estilo.md)
+    - Etapa 4
+      - [Planejamento da Verificação da Etapa 4](verificacao/Grupo1/Etapa4/Planejamento_verif_etapa_4.md)
+      - [Planejamento da avaliação do storyboard](verificacao/Grupo1/Etapa4/Planejamento_avaliacao_storyboard.md)
+      - [Planejamento da avaliação da análise de tarefas](verificacao/Grupo1/Etapa4/Planejamento_avaliacao_analise_de_tarefas.md)
+      - [Planejamento do relato dos resultados do storyboard](verificacao/Grupo1/Etapa4/Planejamento_relato_resultados_storyboard.md)
+      - [Planejamento do relato dos resultados da análise de tarefas](verificacao/Grupo1/Etapa4/Planejamento_relato_resultados_analise_tarefas.md)
+    - Etapa 5
+      - [Planejamento da Verificação da Etapa 5](verificacao/Grupo1/Etapa5/planejamento_verificação.md)
+      - [Planejamento do Protótipo de Papel](verificacao/Grupo1/Etapa5/verificação_planejamento_protótipo_papel.md)
+      - [Relato dos Resultados da Avaliação da Análise de Tarefas](verificacao/Grupo1/Etapa5/verificação_relato_resultados_analise_tarefas.md)
+      - [Relato dos Resultados da Avaliação do Storyboard](verificacao/Grupo1/Etapa5/verificação_relato_resultados_storyboard.md)
+  - Grupo 8
+    - Etapa 1
+      - [Planejamento da Verificação da Etapa 1](verificacao/Grupo8/Etapa1/planejamento-verificacao-etapa1.md)
+      - [Cronograma](verificacao/Grupo8/Etapa1/cronograma.md)
+      - [Ferramentas](verificacao/Grupo8/Etapa1/ferramentas.md)
+      - [Processo de Design](verificacao/Grupo8/Etapa1/processo-design.md)
+      - [Sites Avaliados](verificacao/Grupo8/Etapa1/sites-avaliados.md)
+      - [Site Escolhido](verificacao/Grupo8/Etapa1/site-escolhido.md)
+    - Etapa 2
+      - [Planejamento da Verificação da Etapa 2](verificacao/Grupo8/Etapa2/planejamento-verificacao-etapa2.md)
+      - [Análise de Tarefas](verificacao/Grupo8/Etapa2/analise_tarefas.md)
+      - [Perfil do Usuário](verificacao/Grupo8/Etapa2/perfil_usuario.md)
+      - [Personas](verificacao/Grupo8/Etapa2/personas.md)
+      - [Cenários](verificacao/Grupo8/Etapa2/cenarios.md)
+      - [Aspectos Éticos](verificacao/Grupo8/Etapa2/aspectos_eticos.md)
+    - Etapa 3
+      - [Planejamento da Verificação da Etapa 3](verificacao/Grupo8/Etapa3/planejamento_verif_etapa_3.md)
+      - [Princípios Gerais do Projeto](verificacao/Grupo8/Etapa3/princ_gerais.md)
+      - [Características Gerais](verificacao/Grupo8/Etapa3/carac_gerais.md)
+      - [Metas de Usabilidade](verificacao/Grupo8/Etapa3/metas_d_usabilidade.md)
+      - [Guia de Estilo](verificacao/Grupo8/Etapa3/guia_estilo.md)
+    - Etapa 4
+      - [Planejamento da Verificação da Etapa 4](verificacao/Grupo8/Etapa4/Planejamento_verif_etapa_4.md)
+      - [Planejamento da avaliação do storyboard](verificacao/Grupo8/Etapa4/Planejamento_avaliacao_storyboard.md)
+      - [Planejamento da avaliação da análise de tarefas](verificacao/Grupo8/Etapa4/Planejamento_avaliacao_analise_de_tarefas.md)
+      - [Planejamento do relato dos resultados do storyboard](verificacao/Grupo8/Etapa4/Planejamento_relato_resultados_storyboard.md)
+      - [Planejamento do relato dos resultados da análise de tarefas](verificacao/Grupo8/Etapa4/Planejamento_relato_resultados_analise_tarefas.md)
+    - Etapa 5
+      - [Planejamento da Verificação da Etapa 5](verificacao/Grupo8/Etapa5/planejamento_verificação.md)
+      - [Planejamento do Protótipo de Papel](verificacao/Grupo8/Etapa5/verificação_planejamento_protótipo_papel.md)
+      - [Relato dos Resultados da Avaliação da Análise de Tarefas](verificacao/Grupo8/Etapa5/verificação_relato_resultados_analise_tarefas.md)
+      - [Relato dos Resultados da Avaliação do Storyboard](verificacao/Grupo8/Etapa5/verificação_relato_resultados_storyboard.md)
