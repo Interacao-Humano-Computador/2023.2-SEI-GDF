@@ -114,4 +114,4 @@ Classificação:
 | ------ | ---------- | ------------------------------------ | --------------------------------------------------- | ----------- |
 | `1.0`  | 14/10/2023 | Criação da página Perfil de Usuário. | [Lucas Caldas](https://github.com/lucascaldasb)     | [Artur Ricardo](https://github.com/algorithmorphic) |
 | `1.1`  | 14/10/2023 | Correções e melhorias ortográficas.  | [Artur Ricardo](https://github.com/algorithmorphic) | [Lucas Caldas](https://github.com/lucascaldasb) |
-| `1.2` | 17/10/2023 | Adição de resultados do questionário e ajuste de textos. | [Lucas Caldas](https://github.com/lucascaldasb) | |
+| `1.2` | 17/10/2023 | Adição de resultados do questionário e ajuste de textos. | [Lucas Caldas](https://github.com/lucascaldasb) |[Felipe de Sousa](https://github.com/fsousac) |
