@@ -179,7 +179,7 @@ O vídeo 2 mostra a verificação dos artefatos da Etapa 3, realizada pela integ
 
 <font size="3"><p style="text-align: center"><b>Vídeo 2</b> - Verificação em dupla dos artefatos da Etapa 3.</p></font>
 
-<p style="text-align: center"> Em breve</p>
+<iframe width="660" height="315" src="https://www.youtube.com/embed/fMOqA7_G188" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [Millena Queiroz](https://github.com/MillenaQueiroz).</p></font>
 
