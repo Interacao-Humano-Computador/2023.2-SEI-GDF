@@ -232,7 +232,7 @@ O vídeo 1 mostra a verificação dos artefatos da Etapa 2, realizada somente pe
 
 <font size="3"><p style="text-align: center"><b>Vídeo 1</b> - Verificação solo dos artefatos da Etapa 2.</p></font>
 
-<p style="text-align: center"> Em breve</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/iOPpJRhhOhw?si=pTu90Y8cMqBVo6JL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
 
