@@ -74,7 +74,7 @@ Nas tabelas, os campos de "Avaliação" e "Observações" serão preenchidos no 
 
 ## Cronograma e Participantes
 
-Os participantes são os integrantes do grupo [Felipe de Sousa](https://github.com/fsousac), que será responsável por realizar a verificação e a correção dos problemas encontrados. Além disso, o integrante do grupo [Millena Queiroz](https://github.com/millenaqueiroz) realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](planejamento-verificacao-etapa2.md).
+Os participantes são os integrantes do grupo [Felipe de Sousa](https://github.com/fsousac), que será responsável por realizar a verificação e a correção dos problemas encontrados. Além disso, o integrante do grupo [Millena Queiroz](https://github.com/millenaqueiroz) realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/verificacao/Grupo8/Etapa2/planejamento-verificacao-etapa2).
 
 <center>
 
@@ -99,29 +99,29 @@ O artefato foi verificado e gerou os resultados da Tabela 4, sendo possível ide
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist preechido. </p></font>
 
-|  ID  | Descrição                                                                                                                                                                            | Avaliação |        Observações         |
-| :--: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------: | :------------------------: |
-|  1   | O artefato possui introdução?                                                                                                                                                        |    Sim    |                            |
-|  2   | O artefato possui uma bibliografia/referência bibliográfica?                                                                                                                         |    Sim    |                            |
-|  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                                                               |    Sim    |                            |
-|  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                                         |    Sim    | Será justificado no texto. |
-|  5   | Todos os textos estão na norma padrão?                                                                                                                                               |    Sim    |                            |
-|  6   | Os objetivos a serem alcançados são apresentados?                                                                                                                                    |    Não    | Será justificado no texto. |
-|  7   | As tarefas foram descritas em termos de objetivos que os usuários precisam executar, evitando descrições vagas ou ambíguas?                                                          |    Sim    |                            |
-|  8   | As tarefas apresentadas são verossímeis?                                                                                                                                             |    Sim    |                            |
-|  9   | As tarefas foram formuladas de maneira conceitual e orientada ao usuário, focando nas ações que eles executam, em vez de detalhes técnicos ou da implementação/interface do sistema? |    Sim    |                            |
-|  10  | As tarefas são decompostas?                                                                                                                                                          |    Sim    |                            |
-|  11  | As tarefas relacionam o que as pessoas fazem com o porquê o fazem e quais as consequências caso não façam corretamente?                                                              |    Sim    |                            |
-|  12  | Os diagramas apresentam os elementos esperados (objetivos, operações e as relações entre os subobjetivos)?                                                                           |    Sim    |                            |
-|  13  | As operações são especificadas?                                                                                                                                                      |    Sim    |                            |
-| 13.1 | Elas possuem entradas?                                                                                                                                                               |    Sim    |                            |
-| 13.2 | Elas possuem ações?                                                                                                                                                                  |    Sim    |                            |
-| 13.3 | Elas possuem _feedbacks_?                                                                                                                                                            |    Sim    |                            |
-|  14  | A decomposição termina quando os objetivos são atingidos ou quando a origem de um erro é identificada?                                                                               |    Sim    |                            |
-|  15  | As tarefas são apresentadas em tabelas?                                                                                                                                              |    Sim    |                            |
-| 15.1 | As tabelas apresentam os objetivos/operações?                                                                                                                                        |    Sim    |                            |
-| 15.2 | As tabelas apresentam os problemas e recomendações?                                                                                                                                  |    Sim    |                            |
-| 15.3 | As tabelas apresentam as entradas, ações, _feedbacks_?                                                                                                                               |    Sim    | Será justificado no texto. |
+|  ID  | Descrição                                                                                                                                                                            |  Avaliação   |        Observações         |
+| :--: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------: | :------------------------: |
+|  1   | O artefato possui introdução?                                                                                                                                                        |   Conforme   |                            |
+|  2   | O artefato possui uma bibliografia/referência bibliográfica?                                                                                                                         |   Conforme   |                            |
+|  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                                                               |   Conforme   |                            |
+|  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                                         |   Conforme   | Será justificado no texto. |
+|  5   | Todos os textos estão na norma padrão?                                                                                                                                               |   Conforme   |                            |
+|  6   | Os objetivos a serem alcançados são apresentados?                                                                                                                                    | Não conforme | Será justificado no texto. |
+|  7   | As tarefas foram descritas em termos de objetivos que os usuários precisam executar, evitando descrições vagas ou ambíguas?                                                          |   Conforme   |                            |
+|  8   | As tarefas apresentadas são verossímeis?                                                                                                                                             |   Conforme   |                            |
+|  9   | As tarefas foram formuladas de maneira conceitual e orientada ao usuário, focando nas ações que eles executam, em vez de detalhes técnicos ou da implementação/interface do sistema? |   Conforme   |                            |
+|  10  | As tarefas são decompostas?                                                                                                                                                          |   Conforme   |                            |
+|  11  | As tarefas relacionam o que as pessoas fazem com o porquê o fazem e quais as consequências caso não façam corretamente?                                                              |   Conforme   |                            |
+|  12  | Os diagramas apresentam os elementos esperados (objetivos, operações e as relações entre os subobjetivos)?                                                                           |   Conforme   |                            |
+|  13  | As operações são especificadas?                                                                                                                                                      |   Conforme   |                            |
+| 13.1 | Elas possuem entradas?                                                                                                                                                               |   Conforme   |                            |
+| 13.2 | Elas possuem ações?                                                                                                                                                                  |   Conforme   |                            |
+| 13.3 | Elas possuem _feedbacks_?                                                                                                                                                            |   Conforme   |                            |
+|  14  | A decomposição termina quando os objetivos são atingidos ou quando a origem de um erro é identificada?                                                                               |   Conforme   |                            |
+|  15  | As tarefas são apresentadas em tabelas?                                                                                                                                              |   Conforme   |                            |
+| 15.1 | As tabelas apresentam os objetivos/operações?                                                                                                                                        |   Conforme   |                            |
+| 15.2 | As tabelas apresentam os problemas e recomendações?                                                                                                                                  |   Conforme   |                            |
+| 15.3 | As tabelas apresentam as entradas, ações, _feedbacks_?                                                                                                                               |   Conforme   | Será justificado no texto. |
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
 
@@ -167,20 +167,20 @@ O artefato foi verificado e gerou os resultados da Tabela 5, sendo possível ide
 
 |  ID  | Descrição                                                                                              | Avaliação |        Observações         |
 | :--: | ------------------------------------------------------------------------------------------------------ | :-------: | :------------------------: |
-|  1   | O artefato possui introdução?                                                                          |    Sim    |                            |
-|  2   | O artefato possui uma bibliografia/referência bibliográfica?                                           |    Sim    |                            |
-|  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |    Sim    |                            |
-|  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |    Sim    |                            |
-|  5   | Todos os textos estão na norma padrão?                                                                 |    Sim    |                            |
-|  6   | As análises com o GOMS são realizadas a partir das tarefas da HTA?                                     |    Sim    |                            |
-|  7   | Há uma hierarquia estrita entre os objetivos?                                                          |    Sim    |                            |
-|  8   | Os operadores são executados em ordem sequencial?                                                      |    Sim    |                            |
-|  9   | Os métodos GOMS são representados em notação semelhante a pseudocódigo?                                |    Sim    |                            |
-|  10  | Os métodos GOMS possuem os quatros elementos principais?                                               |    Sim    | Será justificado no texto. |
-| 10.1 | Eles possuem os objetivos (_goals_)?                                                                   |    Sim    |                            |
-| 10.2 | Eles possuem os operadores (_operators_) primitivos internos ou externos?                              |    Sim    |                            |
-| 10.3 | Eles possuem os métodos (_methods_)?                                                                   |    Sim    |                            |
-| 10.4 | Eles possuem as regras de seleção (_selection rules_)?                                                 |    Sim    |                            |
+|  1   | O artefato possui introdução?                                                                          | Conforme  |                            |
+|  2   | O artefato possui uma bibliografia/referência bibliográfica?                                           | Conforme  |                            |
+|  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Conforme  |                            |
+|  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           | Conforme  |                            |
+|  5   | Todos os textos estão na norma padrão?                                                                 | Conforme  |                            |
+|  6   | As análises com o GOMS são realizadas a partir das tarefas da HTA?                                     | Conforme  |                            |
+|  7   | Há uma hierarquia estrita entre os objetivos?                                                          | Conforme  |                            |
+|  8   | Os operadores são executados em ordem sequencial?                                                      | Conforme  |                            |
+|  9   | Os métodos GOMS são representados em notação semelhante a pseudocódigo?                                | Conforme  |                            |
+|  10  | Os métodos GOMS possuem os quatros elementos principais?                                               | Conforme  | Será justificado no texto. |
+| 10.1 | Eles possuem os objetivos (_goals_)?                                                                   | Conforme  |                            |
+| 10.2 | Eles possuem os operadores (_operators_) primitivos internos ou externos?                              | Conforme  |                            |
+| 10.3 | Eles possuem os métodos (_methods_)?                                                                   | Conforme  |                            |
+| 10.4 | Eles possuem as regras de seleção (_selection rules_)?                                                 | Conforme  |                            |
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
 
@@ -195,42 +195,6 @@ Os métodos possuem explícitamente três dos quatro elementos principalmente, f
 Os artefatos estão bem definidos e executados, salvo alguns detalhes com relação aos pontos citados. Sugere-se, portanto, apenas uma melhoria para o artefato:
 
 - Explicitar métodos do GOMS.
-
-## Vídeos da Verificação
-
-Como solicitado pelo professor, foram feitos vídeos para a verificação dos artefatos, tanto sozinho como em dupla. Os vídeos estão disponíveis abaixo:
-
-### Verificação solo do HTA
-
-<font size="3"><p style="text-align: center"><b>Vídeo 1</b> - Verificação do HTA solo. </p></font>
-
-<p style="text-align: center">Em breve</p>
-
-<font size="3"><p style="text-align: center">Fonte: YouTube (Acessado em: 29/11/2023).</p></font>
-
-### Verificação em dupla do HTA
-
-<font size="3"><p style="text-align: center"><b>Vídeo 2</b> - Verificação do HTA em dupla. </p></font>
-
-<p style="text-align: center">Em breve</p>
-
-<font size="3"><p style="text-align: center">Fonte: YouTube (Acessado em: 29/11/2023).</p></font>
-
-### Verificação solo do GOMS
-
-<font size="3"><p style="text-align: center"><b>Vídeo 3</b> - Verificação do GOMS em solo. </p></font>
-
-<p style="text-align: center">Em breve</p>
-
-<font size="3"><p style="text-align: center">Fonte: YouTube (Acessado em: 29/11/2023).</p></font>
-
-### Verificação em dupla do GOMS
-
-<font size="3"><p style="text-align: center"><b>Vídeo 4</b> - Verificação do GOMS em dupla. </p></font>
-
-<p style="text-align: center">Em breve</p>
-
-<font size="3"><p style="text-align: center">Fonte: YouTube (Acessado em: 29/11/2023).</p></font>
 
 ## Bibliografia
 

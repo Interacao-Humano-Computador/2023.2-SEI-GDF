@@ -10,8 +10,7 @@ O objetivo deste documento é relatar os resultados das verificações realizada
 
 ## Metodologia
 
-Para a verificação do artefato, a metodologia escolhida será baseada na inspeção de Fagan. Conforme proposta por ele, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados.
-A checklist, baseada no livro, será composta por 5 perguntas que serão o padrão exigido para a documentação e em seguida perguntas envolvendo o conteúdo do artefato.Na Tabela 1 estão expostos todas as perguntas abordadas para verficação do artefato, a versão utilizadas para a verificação será a: 1.1, feita no dia 14 de outubro de 2023.
+Para a verificação do artefato, a metodologia escolhida será baseada na inspeção de Fagan. Conforme proposta por ele, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. A checklist, baseada no livro, será composta por 5 perguntas que serão o padrão exigido para a documentação e em seguida perguntas envolvendo o conteúdo do artefato [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/aspectos-eticos/aspectos-eticos). Na Tabela 1 estão expostos todas as perguntas abordadas para verficação do artefato, a versão utilizadas para a verificação será a: 1.1, feita no dia 14 de outubro de 2023.
 
 <center>
 
@@ -41,7 +40,7 @@ Na Tabela 1, os campos de "Avaliação" e "Observações" serão preenchidos no 
 
 ## Cronograma e Participantes
 
-Os participantes são os integrantes do grupo [Felipe de Sousa](https://github.com/fsousac), que será responsável por realizar a verificação e a correção dos problemas encontrados. Além disso, o integrante do grupo [Millena Queiroz](https://github.com/millenaqueiroz) realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](planejamento-verificacao-etapa2.md).
+Os participantes são os integrantes do grupo [Felipe de Sousa](https://github.com/fsousac), que será responsável por realizar a verificação e a correção dos problemas encontrados. Além disso, o integrante do grupo [Millena Queiroz](https://github.com/millenaqueiroz) realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/verificacao/Grupo8/Etapa2/planejamento-verificacao-etapa2).
 
 <center>
 
@@ -64,21 +63,21 @@ O artefato foi verificado e gerou os resultados da Tabela 2, sendo possível ide
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist preechido. </p></font>
 
-| ID  |                                                         Descrição                                                         | Avaliação |        Observações         |
-| :-: | :-----------------------------------------------------------------------------------------------------------------------: | :-------: | :------------------------: |
-|  1  |                                               O artefato possui Introdução?                                               |    Não    | Será justificado no texto. |
-|  2  |                           O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                           |    Sim    |                            |
-|  3  |          O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?           |    Sim    |                            |
-|  4  |                       Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                        |    Sim    |                            |
-|  5  |                                          Todos os textos estão na norma padrão?                                           |    Sim    |                            |
-|  6  | O documento possui o cuidado ético de evitar prejudicar ou causar dano a outras pessoas, seus bens, reputação ou emprego? |    Sim    |                            |
-|  7  |           O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade?            |    Sim    |                            |
-|  8  |            No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes?             |    Sim    |                            |
-|  9  |                           Há a garantia de confidencialidade e a privacidade dos dados brutos?                            |    Sim    |                            |
-| 10  |  Garante o anonimato dos participantes, preservação das suas imagens e a utilização cuidadosa das informações coletadas?  |    Sim    |                            |
-| 11  |   É explicitado um pedido de permissão para gravação? Enfatizando a necessidade do uso de imagem e voz do participante?   |    Não    | Será justificado no texto. |
-| 12  |                 Há esclarecido um consentimento livre de desistência do participante durante a pesquisa?                  |    Sim    |                            |
-| 13  |                                Há local de assinatura do entrevistador e do entrevsitado?                                 |    Sim    |                            |
+| ID  |                                                         Descrição                                                         |  Avaliação   |        Observações         |
+| :-: | :-----------------------------------------------------------------------------------------------------------------------: | :----------: | :------------------------: |
+|  1  |                                               O artefato possui Introdução?                                               | Não conforme | Será justificado no texto. |
+|  2  |                           O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                           |   Conforme   |                            |
+|  3  |          O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?           |   Conforme   |                            |
+|  4  |                       Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                        |   Conforme   |                            |
+|  5  |                                          Todos os textos estão na norma padrão?                                           |   Conforme   |                            |
+|  6  | O documento possui o cuidado ético de evitar prejudicar ou causar dano a outras pessoas, seus bens, reputação ou emprego? |   Conforme   |                            |
+|  7  |           O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade?            |   Conforme   |                            |
+|  8  |            No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes?             |   Conforme   |                            |
+|  9  |                           Há a garantia de confidencialidade e a privacidade dos dados brutos?                            |   Conforme   |                            |
+| 10  |  Garante o anonimato dos participantes, preservação das suas imagens e a utilização cuidadosa das informações coletadas?  |   Conforme   |                            |
+| 11  |   É explicitado um pedido de permissão para gravação? Enfatizando a necessidade do uso de imagem e voz do participante?   | Não conforme | Será justificado no texto. |
+| 12  |                 Há esclarecido um consentimento livre de desistência do participante durante a pesquisa?                  |   Conforme   |                            |
+| 13  |                                Há local de assinatura do entrevistador e do entrevsitado?                                 |   Conforme   |                            |
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
 

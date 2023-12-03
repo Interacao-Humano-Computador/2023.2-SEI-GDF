@@ -42,7 +42,7 @@ A verificação será realizada no período de 27 de novembro a 3 de dezembro de
 
 | Data       | Descrição                          | Responsável                                   |
 | ---------- | ---------------------------------- | --------------------------------------------- |
-| 02/12/2023 | Verificação das Personas.          | [Felipe de Sousa](https://github.com/fsousac) |
+| 03/12/2023 | Verificação das Personas.          | [Felipe de Sousa](https://github.com/fsousac) |
 | 02/12/2023 | Verificação dos Aspectos Éticos.   | [Felipe de Sousa](https://github.com/fsousac) |
 | 02/12/2023 | Verificação da Análise de Tarefas. | [Felipe de Sousa](https://github.com/fsousac) |
 | 02/12/2023 | Verificação do Perfil de Usuário.  | [Felipe de Sousa](https://github.com/fsousac) |
@@ -135,12 +135,25 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 **Tabela 5** - Checklist para a Verificação do Perfil de Usuário.
 
-| ID  | Descrição                                                                                                                                                                                                                                                      | Avaliação | Observações |
-| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
-|  6  | O perfil de usuário identifica características de interesse como cargo, função, experiência, nível de instrução, atividades principais, faixa etária, relação com tecnologia, conhecimento do domínio do produto, principais tarefas realizadas, entre outras? |           |             |
-|  7  | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários?                                                                                                                                                 |           |             |
-|  8  | Os perfis de usuário são agrupados por faixa etária, experiência com o produto, atitude perante tecnologia e tarefas primárias no sistema?                                                                                                                     |           |             |
-|  9  | As porcentagens de usuários em cada faixa de características foram determinadas?                                                                                                                                                                               |           |             |
+| ID  | Descrição                                                                                                      | Avaliação | Observações |
+| :-: | -------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
+|  6  | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários? |           |             |
+|  7  | Os dados coletados são agregados por grupos e faixas na qual os usuários se encaixam?                          |           |             |
+| 7.1 | É traçado perfis de usuários a partir deste dados agregados?                                                   |           |             |
+| 7.2 | A proporção de usuários que se encaixam em cada perfil é calculada?                                            |           |             |
+| 7.3 | Os usuários são categorizados em grupos por idade, experiências, atitudes e tarefas primárias?                 |           |             |
+|  8  | O perfil de usuário identifica características de interesse?                                                   |           |             |
+| 8.1 | O perfil de usuário identifica o cargo?                                                                        |           |             |
+| 8.2 | O perfil de usuário identifica a função?                                                                       |           |             |
+| 8.3 | O perfil de usuário identifica a experiência?                                                                  |           |             |
+| 8.4 | O perfil de usuário identifica o nível de instrução?                                                           |           |             |
+| 8.5 | O perfil de usuário identifica as atividades principais?                                                       |           |             |
+| 8.6 | O perfil de usuário identifica a faixa etária?                                                                 |           |             |
+| 8.7 | O perfil de usuário identifica a relação com a tecnologia?                                                     |           |             |
+| 8.8 | O perfil de usuário identifica a relação com o domínio do produto?                                             |           |             |
+| 8.9 | O perfil de usuário identifica a relação com o principais tarefas realizadas?                                  |           |             |
+|  9  | As características dos perfis são priorizadas?                                                                 |           |             |
+| 10  | São apresentados os participantes e suas funções?                                                              |           |             |
 
 **Fonte:** [Felipe de Sousa](https://github.com/fsousac).
 
@@ -155,15 +168,15 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 | ID  | Descrição                                                                                                         | Avaliação | Observações |
 | :-: | ----------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
 |  6  | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? |           |             |
-|  7  | A persona primária possui elasticidade?                                                                           |           |             |
-|  8  | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva?        |           |             |
-|  9  | O elenco de personas torna evidente quais são os objetivos dos usuários?                                          |           |             |
-| 10  | O elenco de personas tem entre 3 a 12 personas?                                                                   |           |             |
-| 11  | Possui justificativa do número?                                                                                   |           |             |
-| 12  | Possui uma antipersona definida?                                                                                  |           |             |
-| 13  | Há algum método para descobrir o objetivo das personas?                                                           |           |             |
-| 14  | Possui objetivos pessoais, corporativos e práticos?                                                               |           |             |
-| 15  | Há algum objetivo de experiência da persona?                                                                      |           |             |
+|  7  | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva?        |           |             |
+|  8  | O elenco de personas torna evidente quais são os objetivos dos usuários?                                          |           |             |
+|  9  | O elenco de personas tem entre 3 a 12 personas?                                                                   |           |             |
+| 10  | Possui justificativa do número?                                                                                   |           |             |
+| 11  | Possui uma antipersona definida?                                                                                  |           |             |
+| 12  | Há algum método para descobrir o objetivo das personas?                                                           |           |             |
+| 13  | Possui objetivos pessoais, corporativos e práticos?                                                               |           |             |
+| 14  | Há algum objetivo de experiência da persona?                                                                      |           |             |
+| 15  | O elenco de personas é definido a partir do perfil de usuário?                                                    |           |             |
 
 **Fonte:** [Felipe de Sousa](https://github.com/fsousac).
 
@@ -209,13 +222,53 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 </center>
 
+## Vídeos de verificação
+
+### Video solo mostrando os artefatos verificados
+
+O vídeo 1 mostra a verificação dos artefatos da Etapa 2, realizada somente pelo integrante [Felipe de Sousa](https://github.com/fsousac) a fim de validar as verificações dos artefatos citados anteriormente.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Vídeo 1</b> - Verificação solo dos artefatos da Etapa 2.</p></font>
+
+<p style="text-align: center"> Em breve</p>
+
+<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+
+</center>
+
+### Video em dupla com o revisor mostrando os artefatos verificados
+
+O vídeo 2 mostra a verificação dos artefatos da Etapa 2, realizada pelo integrante [Felipe de Sousa](https://github.com/fsousac) e a revisora [Millena Queiroz](https://github.com/millenaqueiroz) a fim de validar as verificações dos artefatos citados anteriormente.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Vídeo 2</b> - Verificação em dupla dos artefatos da Etapa 2.</p></font>
+
+<p style="text-align: center"> Em breve</p>
+
+<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+
+</center>
+
+### Video com o criador de cada artefato
+
+O vídeo 3 mostra a verificação dos artefatos da Etapa 2, realizada pelo integrante [Felipe de Sousa](https://github.com/fsousac) e o criador de cada artefati a fim de explicitar as verificações realizadas sobre seus respectivos artefatos.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Vídeo 3</b> - Exposição dos resultados ao criador.</p></font>
+
+<p style="text-align: center"> Em breve</p>
+
+<font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
+
+</center>
+
 ## Bibliografia
 
-> ALVES, Douglas; MACIEL, Geovana. Planejamento da Verificação da Etapa 2 do Grupo 2. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/planejamento-verificacao-etapa2-grupo2/>. Acesso em: 13 de novembro 2023.
-
-> ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>>. Acesso em: 13 de novembro 2023.
-
-> MACEDO, Lucas. Planejamento da Verificação - PC5. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/>>. Acesso em: 13 de novembro 2023.
+> ALVES, Douglas; MACIEL, Geovana; HENRIQUE, Matheus. Planejamento da Verificação da Etapa 2 do Grupo. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa2/planejamento-verificacao-etapa2-grupo/>. Acesso em: 2 de dezembro de 2023.
 
 ## Referências Bibliográficas
 
@@ -223,6 +276,6 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição             | Autor(es)                                     | Revisor(es)                                     |
-| ------ | ---------- | --------------------- | --------------------------------------------- | ----------------------------------------------- |
-| `1.0`  | 13/11/2023 | Criação do documento. | [Felipe de Sousa](https://github.com/fsousac) | [Lucas Caldas](https://github.com/lucascaldasb) |
+| Versão | Data       | Descrição             | Autor(es)                                     | Revisor(es)                                          |
+| ------ | ---------- | --------------------- | --------------------------------------------- | ---------------------------------------------------- |
+| `1.0`  | 03/12/2023 | Criação do documento. | [Felipe de Sousa](https://github.com/fsousac) | [Millena Queiroz](https://github.com/millenaqueiroz) |

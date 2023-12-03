@@ -10,8 +10,7 @@ O objetivo deste documento é relatar os resultados das verificações realizada
 
 ## Metodologia
 
-Para a verificação do artefato, a metodologia escolhida será baseada na inspeção de Fagan. Conforme proposta por ele, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados.
-A checklist, baseada no livro, será composta por 5 perguntas que serão o padrão exigido para a documentação e em seguida perguntas envolvendo o conteúdo do artefato.Na Tabela 1 estão expostos todas as perguntas abordadas para verficação do artefato, a versão utilizadas para a verificação será a: 1.10, feita no dia 13 de outubro de 2023.
+Para a verificação do artefato, a metodologia escolhida será baseada na inspeção de Fagan. Conforme proposta por ele, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. A checklist, baseada no livro, será composta por 5 perguntas que serão o padrão exigido para a documentação e em seguida perguntas envolvendo o conteúdo do artefato [Cenários](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/cenarios). Na Tabela 1 estão expostos todas as perguntas abordadas para verficação do artefato, a versão utilizadas para a verificação será a: 2.1, feita no dia 16 de outubro de 2023.
 
 <center>
 
@@ -39,7 +38,7 @@ Na Tabela 1, os campos de "Avaliação" e "Observações" serão preenchidos no 
 
 ## Cronograma e Participantes
 
-Os participantes são os integrantes do grupo [Felipe de Sousa](https://github.com/fsousac), que será responsável por realizar a verificação e a correção dos problemas encontrados. Além disso, o integrante do grupo [Millena Queiroz](https://github.com/millenaqueiroz) realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](planejamento-verificacao-etapa2.md).
+Os participantes são os integrantes do grupo [Felipe de Sousa](https://github.com/fsousac), que será responsável por realizar a verificação e a correção dos problemas encontrados. Além disso, o integrante do grupo [Millena Queiroz](https://github.com/millenaqueiroz) realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/verificacao/Grupo8/Etapa2/planejamento-verificacao-etapa2).
 
 <center>
 
@@ -62,19 +61,19 @@ O artefato foi verificado e gerou os resultados da Tabela 2, sendo possível ide
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist preechido. </p></font>
 
-| ID  | Descrição                                                                                              | Avaliação |        Observações        |
-| :-: | ------------------------------------------------------------------------------------------------------ | :-------: | :-----------------------: |
-|  1  | O artefato possui Introdução?                                                                          |    Sim    |                           |
-|  2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  |    Sim    |                           |
-|  3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? |    Sim    |                           |
-|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |    Sim    |                           |
-|  5  | Todos os textos estão na norma padrão?                                                                 |    Sim    |                           |
-|  6  | Os cenários possuem detalhes contextuais de uso da aplicação envolvendo o usuário?                     |    Sim    |                           |
-|  7  | Eles descrevem o comportamento e as experiência dos atores?                                            |    Sim    |                           |
-|  8  | Cada ator possui objetivos que dirigem as tarefas que ele realiza?                                     |    Sim    |                           |
-|  9  | Cada cenário tem um título que descreve brevemente a situação, os atores, referência a outro artefato? |    Sim    |                           |
-| 10  | Nos cenários há o ambiente, o planejamento, as ações, os eventos, e a avaliação?                       |    Não    | Será justificado no texto |
-| 11  | Os cenários são associados à alguma tarefa de uso diário do ator?                                      |    Sim    |                           |
+| ID  | Descrição                                                                                              |  Avaliação   |        Observações        |
+| :-: | ------------------------------------------------------------------------------------------------------ | :----------: | :-----------------------: |
+|  1  | O artefato possui Introdução?                                                                          |   Conforme   |                           |
+|  2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  |   Conforme   |                           |
+|  3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? |   Conforme   |                           |
+|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |   Conforme   |                           |
+|  5  | Todos os textos estão na norma padrão?                                                                 |   Conforme   |                           |
+|  6  | Os cenários possuem detalhes contextuais de uso da aplicação envolvendo o usuário?                     |   Conforme   |                           |
+|  7  | Eles descrevem o comportamento e as experiência dos atores?                                            |   Conforme   |                           |
+|  8  | Cada ator possui objetivos que dirigem as tarefas que ele realiza?                                     |   Conforme   |                           |
+|  9  | Cada cenário tem um título que descreve brevemente a situação, os atores, referência a outro artefato? |   Conforme   |                           |
+| 10  | Nos cenários há o ambiente, o planejamento, as ações, os eventos, e a avaliação?                       | Não conforme | Será justificado no texto |
+| 11  | Os cenários são associados à alguma tarefa de uso diário do ator?                                      |   Conforme   |                           |
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
 
