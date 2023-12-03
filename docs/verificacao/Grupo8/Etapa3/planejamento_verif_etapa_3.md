@@ -50,11 +50,11 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 
 | ID  | Descrição                                                                                              | Avaliação |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | 
-| 1   | O artefato possui Introdução?                                                                          |        sim/não  |
-| 2   | O artefato possui bibliografia?                                           |   sim/não        |
-| 3   | O artefato possui um histórico de versões correto? |    sim/não       |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     sim/não      |
-| 5   | Todos os textos estão na norma padrão?                                                                 |    sim/não       |
+| 1   | O artefato possui Introdução?                                                                          |        conforme/não conforme  |
+| 2   | O artefato possui bibliografia?                                           |   conforme/não conforme        |
+| 3   | O artefato possui um histórico de versões correto? |    conforme/não conforme       |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     conforme/não conforme      |
+| 5   | Todos os textos estão na norma padrão?                                                                 |    conforme/não conforme       |
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
 
@@ -68,19 +68,19 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 
 | ID  | Descrição                                                                                              | Avaliação |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | 
-| 1   | O artefato possui Introdução?                                                                          | sim/não   |
-| 2   | O artefato possui bibliografia?                                                                       | sim/não   |
-| 3   | O artefato possui um histórico de versões correto?                                                     | sim/não   |
-| 4   | Como os Princípios Gerais do Projeto serão aplicados no projeto?                                      | sim/não            |
-| 5   | Existe uma descrição para cada um desses princípios?                                                  |     sim/não        |
-| 6   | Contém Alinhamento com as expectativas dos usuários?                                                  |   sim/não          |
-| 7   | Contém Simplificação nas estruturas das tarefas?                                                      |     sim/não        |
-| 8   | Contém Equilíbrio entre controle e liberdade do usuário?                                              |     sim/não        |
-| 9   | Contém Consistência e padronização; promoção da eficiência do usuário?                                |     sim/não        |
-| 10  | Contém Antecipação das necessidades do usuário?                                                        |       sim/não      |
-| 11  | Contém Visibilidade e reconhecimento?                                                                 |    sim/não         |
-| 12  | Contém Conteúdo relevante e expressão apropriada?                                                     |    sim/não         |
-| 13  | Contém Design para lidar com erros?   | sim/não  |
+| 1   | O artefato possui Introdução?                                                                          | conforme/não conforme   |
+| 2   | O artefato possui bibliografia?                                                                       | conforme/não conforme   |
+| 3   | O artefato possui um histórico de versões correto?                                                     | conforme/não conforme   |
+| 4   | Como os Princípios Gerais do Projeto serão aplicados no projeto?                                      | conforme/não conforme            |
+| 5   | Existe uma descrição para cada um desses princípios?                                                  |     conforme/não conforme        |
+| 6   | Contém Alinhamento com as expectativas dos usuários?                                                  |   conforme/não conforme          |
+| 7   | Contém Simplificação nas estruturas das tarefas?                                                      |     conforme/não conforme        |
+| 8   | Contém Equilíbrio entre controle e liberdade do usuário?                                              |     conforme/não conforme        |
+| 9   | Contém Consistência e padronização; promoção da eficiência do usuário?                                |     conforme/não conforme        |
+| 10  | Contém Antecipação das necessidades do usuário?                                                        |       conforme/não conforme      |
+| 11  | Contém Visibilidade e reconhecimento?                                                                 |    conforme/não conforme         |
+| 12  | Contém Conteúdo relevante e expressão apropriada?                                                     |    conforme/não conforme         |
+| 13  | Contém Design para lidar com erros?   | conforme/não conforme  |
 
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
@@ -95,16 +95,16 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 
 | ID  | Descrição                                                                                            | Avaliação |
 | --- | ---------------------------------------------------------------------------------------------------- | --------- | 
-| 14  | É mostrado quais metas de usabilidade foram utilizadas?                                              | sim/não   |
-| 15  | Possui a descrição das metas de usabilidade a serem alcançadas no projeto?                           | sim/não   |
-| 16  | As metas de usabilidade são explicadas?                                                             | sim/não   |
-| 17  | Explica o motivo para escolha dessas metas de usabilidade?                                           | sim/não   |
-| 18  | É descrito como as metas serão avaliadas no projeto?                                           | não   |
-| 20  | São apresentadas questões condizentes com a meta de eficiência?                                      | sim/não   |
-| 22  | São apresentadas questões condizentes com a meta de segurança?                                       | sim/não   |
-| 23  | São apresentadas questões condizentes com a meta de utilidade?                                       | sim/não   |
-| 24  | São apresentadas questões condizentes com a meta de aprendizagem?                                    | sim/não   |
-| 25  | São apresentadas questões condizentes com a meta de memorabilidade?                                  | sim/não   |
+| 14  | É mostrado quais metas de usabilidade foram utilizadas?                                              | conforme/não conforme   |
+| 15  | Possui a descrição das metas de usabilidade a serem alcançadas no projeto?                           | conforme/não conforme   |
+| 16  | As metas de usabilidade são explicadas?                                                             | conforme/não conforme   |
+| 17  | Explica o motivo para escolha dessas metas de usabilidade?                                           | conforme/não conforme   |
+| 18  | É descrito como as metas serão avaliadas no projeto?                                           | conforme/não conforme   |
+| 20  | São apresentadas questões condizentes com a meta de eficiência?                                      | conforme/não conforme   |
+| 22  | São apresentadas questões condizentes com a meta de segurança?                                       | conforme/não conforme   |
+| 23  | São apresentadas questões condizentes com a meta de utilidade?                                       | conforme/não conforme   |
+| 24  | São apresentadas questões condizentes com a meta de aprendizagem?                                    | conforme/não conforme   |
+| 25  | São apresentadas questões condizentes com a meta de memorabilidade?                                  | conforme/não conforme   |
 
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
@@ -119,16 +119,16 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 
 | ID  | Descrição                                                                                           | Avaliação |
 | --- | --------------------------------------------------------------------------------------------------- | --------- | 
-| 26  | O guia de estilo construído é relevante para o site avaliado?                                        | sim/não   |
-| 27  | Possui um objetivo claro definido para o guia de estilo?                                              | sim/não   |
-| 28  | Existe um público-alvo específico para o guia de estilos?                                            | sim/não   |
-| 29  | Instrui sobre como utilizar e manter o guia de estilo de maneira eficaz?                              | sim/não   |
-| 30  | O guia de estilo do projeto é estruturado com base nos resultados da análise, incluindo uma descrição do ambiente de trabalho do usuário? | sim/não   |
-| 31  | O guia de estilo contém elementos de interface, como disposição espacial, grid, janelas, tipografia e cores? | sim/não   |
-| 32  | Existem elementos de interação no guia de estilo, como estilos de interação, seleção de um estilo e aceleradores (teclas de atalho)? | sim/não   |
-| 33  | O guia de estilo inclui elementos de ação, como preenchimento de campos, seleção e ativação?       | sim/não   |
-| 34  | Há um vocabulário definido e padrões claros no guia de estilo, incluindo terminologia, tipos de tela para tarefas comuns e sequências de diálogos? | sim/não   |
-| 35  | São abordadas exceções e estados de erro no guia de estilo?                                          | sim/não   |
+| 26  | O guia de estilo construído é relevante para o site avaliado?                                        | conforme/não conforme   |
+| 27  | Possui um objetivo claro definido para o guia de estilo?                                              | conforme/não conforme   |
+| 28  | Existe um público-alvo específico para o guia de estilos?                                            | conforme/não conforme   |
+| 29  | Instrui sobre como utilizar e manter o guia de estilo de maneira eficaz?                              | conforme/não conforme   |
+| 30  | O guia de estilo do projeto é estruturado com base nos resultados da análise, incluindo uma descrição do ambiente de trabalho do usuário? | conforme/não conforme   |
+| 31  | O guia de estilo contém elementos de interface, como disposição espacial, grid, janelas, tipografia e cores? | conforme/não conforme   |
+| 32  | Existem elementos de interação no guia de estilo, como estilos de interação, seleção de um estilo e aceleradores (teclas de atalho)? | conforme/não conforme   |
+| 33  | O guia de estilo inclui elementos de ação, como preenchimento de campos, seleção e ativação?       | conforme/não conforme   |
+| 34  | Há um vocabulário definido e padrões claros no guia de estilo, incluindo terminologia, tipos de tela para tarefas comuns e sequências de diálogos? | conforme/não conforme   |
+| 35  | São abordadas exceções e estados de erro no guia de estilo?                                          | conforme/não conforme   |
 
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
@@ -143,12 +143,12 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 
 | ID  | Descrição                                                                                              | Avaliação  |
 | --- | ------------------------------------------------------------------------------------------------------ | ---------- |
-| 36   | As características da plataforma para o projeto são identificadas?                                     | sim/não    |
-| 37   | As limitações são apresentadas?                                                                      | sim/não    |
-| 38   | A responsividade da página é discutida?                                                              | sim/não    |
-| 39  | São identificados pontos negativos do sistema?                                                       | sim/não    |
-| 40  | A metodologia utilizada é apresentada no artefato?                                                  | sim/não    |
-| 41  | São identificadas as tecnologias que foram utilizadas | sim |
+| 36   | As características da plataforma para o projeto são identificadas?                                     | conforme/não conforme    |
+| 37   | As limitações são apresentadas?                                                                      | conforme/não conforme    |
+| 38   | A responsividade da página é discutida?                                                              | conforme/não conforme    |
+| 39  | São identificados pontos negativos do sistema?                                                       | conforme/não conforme    |
+| 40  | A metodologia utilizada é apresentada no artefato?                                                  | conforme/não conforme    |
+| 41  | São identificadas as tecnologias que foram utilizadas | conforme/não conforme |
 
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).

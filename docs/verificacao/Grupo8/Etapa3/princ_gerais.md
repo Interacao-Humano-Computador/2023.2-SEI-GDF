@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é de verificação do artefato [Principios Gerais](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/caract-da-plataforma) produzido pelo Grupo 8 que tem o projeto voltado ao site do Sistema Eletrônico de Informações do DF (SEI-GDF).
+Este documento é de verificação do artefato [Principios Gerais](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/principios-gerais) produzido pelo Grupo 8 que tem o projeto voltado ao site do Sistema Eletrônico de Informações do DF (SEI-GDF).
 
 ## Metodologia
 
@@ -17,11 +17,11 @@ O método utilizado será o de Inspeção para conduzir a verificação. Esse m�
 
 | ID  | Descrição                                                                                              | Avaliação |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | 
-| 1   | O artefato possui Introdução?                                                                          |        sim  |
-| 2   | O artefato possui bibliografia?                                           |   sim       |
-| 3   | O artefato possui um histórico de versões correto? |    sim       |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     sim      |
-| 5   | Todos os textos estão na norma padrão?                                                                 |    sim    |
+| 1   | O artefato possui Introdução?                                                                          |        conforme  |
+| 2   | O artefato possui bibliografia?                                           |   conforme       |
+| 3   | O artefato possui um histórico de versões correto? |    conforme       |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     conforme      |
+| 5   | Todos os textos estão na norma padrão?                                                                 |    conforme    |
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
 
@@ -35,16 +35,16 @@ O método utilizado será o de Inspeção para conduzir a verificação. Esse m�
 
 | ID  | Descrição                                                                                              | Avaliação |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | 
-| 6   | Como os Princípios Gerais do Projeto serão aplicados no projeto?                                      | sim            |
-| 7  | Existe uma descrição para cada um desses princípios?                                                  |     sim        |
-| 8   | Contém Alinhamento com as expectativas dos usuários?                                                  |   sim          |
-| 9   | Contém Simplificação nas estruturas das tarefas?                                                      |     sim        |
-| 10   | Contém Equilíbrio entre controle e liberdade do usuário?                                              |     sim        |
-| 11  | Contém Consistência e padronização; promoção da eficiência do usuário?                                |     sim        |
-| 12  | Contém Antecipação das necessidades do usuário?                                                        |       sim      |
-| 13  | Contém Visibilidade e reconhecimento?                                                                 |    sim         |
-| 14 | Contém Conteúdo relevante e expressão apropriada?                                                     |    sim         |
-| 15  | Contém Design para lidar com erros?   | sim  |
+| 6   | Como os Princípios Gerais do Projeto serão aplicados no projeto?                                      |  conforme           |
+| 7  | Existe uma descrição para cada um desses princípios?                                                  |     conforme        |
+| 8   | Contém Alinhamento com as expectativas dos usuários?                                                  |   conforme          |
+| 9   | Contém Simplificação nas estruturas das tarefas?                                                      |     conforme        |
+| 10   | Contém Equilíbrio entre controle e liberdade do usuário?                                              |     conforme        |
+| 11  | Contém Consistência e padronização; promoção da eficiência do usuário?                                |     conforme        |
+| 12  | Contém Antecipação das necessidades do usuário?                                                        |       conforme      |
+| 13  | Contém Visibilidade e reconhecimento?                                                                 |    conforme         |
+| 14 | Contém Conteúdo relevante e expressão apropriada?                                                     |    conforme         |
+| 15  | Contém Design para lidar com erros?   | conforme  |
 
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
