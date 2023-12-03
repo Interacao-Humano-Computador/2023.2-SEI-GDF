@@ -1,8 +1,8 @@
-# Princípios Gerais do Projeto - Grupo 1
+# Princípios Gerais do Projeto - Grupo 8
 
 ## Introdução
 
-Este documento é de verificação do artefato [Principios Gerais](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos%20II/principios-gerais/) produzido pelo Grupo 1 que tem o projeto voltado ao site do programa governamental Nota Legal.
+Este documento é de verificação do artefato [Principios Gerais](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/caract-da-plataforma) produzido pelo Grupo 8 que tem o projeto voltado ao site do Sistema Eletrônico de Informações do DF (SEI-GDF).
 
 ## Metodologia
 

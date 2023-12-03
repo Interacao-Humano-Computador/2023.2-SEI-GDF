@@ -1,8 +1,8 @@
-# Metas de Usabilidade - Grupo 1
+# Metas de Usabilidade - Grupo 8
 
 ## Introdução
 
-Este documento é de verificação do artefato [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos%20II/metas_de_usabilidade/) produzido pelo Grupo 1 que tem o projeto voltado ao site do programa governamental Nota Legal.
+Este documento é de verificação do artefato [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/metas-de-usabilidade) produzido pelo Grupo 8 que tem o projeto voltado ao site do Sistema Eletrônico de Informações do DF (SEI-GDF).
 
 ## Metodologia
 

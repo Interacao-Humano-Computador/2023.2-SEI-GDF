@@ -1,8 +1,8 @@
-# Características Gerais do Projeto - Grupo 1
+# Características Gerais do Projeto - Grupo 8
 
 ## Introdução
 
-Este documento é de verificação do artefato [Características Gerais](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos%20II/caracteristicas_da_plataforma/) produzido pelo Grupo 1 que tem o projeto voltado ao site do programa governamental Nota Legal.
+Este documento é de verificação do artefato [Características Gerais](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/caract-da-plataforma) produzido pelo Grupo 8 que tem o projeto voltado ao site do Sistema Eletrônico de Informações do DF (SEI-GDF).
 
 ## Metodologia
 

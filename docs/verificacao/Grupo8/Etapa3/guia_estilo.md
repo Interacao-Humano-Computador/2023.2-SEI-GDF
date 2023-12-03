@@ -1,8 +1,8 @@
-# Guia de Estilo - Grupo 1
+# Guia de Estilo - Grupo 8
 
 ## Introdução
 
-Este documento é de verificação do artefato [Guia de Estilo](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos%20II/guia_de_estilo/) produzido pelo Grupo 1 que tem o projeto voltado ao site do programa governamental Nota Legal.
+Este documento é de verificação do artefato [Guia de Estilo](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/guia-de-estilo) produzido pelo Grupo 8 que tem o projeto voltado ao site do Sistema Eletrônico de Informações do DF (SEI-GDF).
 
 ## Metodologia
 

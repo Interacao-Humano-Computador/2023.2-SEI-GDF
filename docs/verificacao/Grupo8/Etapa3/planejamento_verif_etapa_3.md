@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Etapa 3 - Grupo 1
+# Planejamento da Verificação da Etapa 3 - Grupo 8 
 
 ## Introdução
 
@@ -21,7 +21,7 @@ A alocação de artefatos para inspeção foi atribuída a cada um dos membros d
 
 ### Cronograma
 
-A verificação será realizada no período de 13 de novembro de 2023 até dia 15 de novembro de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
+A verificação será realizada no período de 02 de dezembro de 2023 até dia 03 de dezembro de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 <center>
 
@@ -29,10 +29,10 @@ A verificação será realizada no período de 13 de novembro de 2023 até dia 1
 
 | Data       | Descrição                          | Responsável                                   |
 | ---------- | ---------------------------------- | --------------------------------------------- |
-| 13/11/2023 | Verificação dos Princípios Gerais do Projeto         | [Millena Queiroz](https://github.com/millenaqueiroz) |
-| 13/11/2023 | Verificação das Características Gerais         | [Millena Queiroz](https://github.com/millenaqueiroz) |
-| 13/11/2023 | Verificação das Metas de Usabilidade   | [Millena Queiroz](https://github.com/millenaqueiroz) |
-| 13/11/2023 | Verificação do Guia de Estilo | [Millena Queiroz](https://github.com/millenaqueiroz) |
+| 02/12/2023 | Verificação dos Princípios Gerais do Projeto         | [Millena Queiroz](https://github.com/millenaqueiroz) |
+| 03/12/2023 | Verificação das Características Gerais         | [Millena Queiroz](https://github.com/millenaqueiroz) |
+| 03/12/2023 | Verificação das Metas de Usabilidade   | [Millena Queiroz](https://github.com/millenaqueiroz) |
+| 03/12/2023 | Verificação do Guia de Estilo | [Millena Queiroz](https://github.com/millenaqueiroz) |
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
 
@@ -155,6 +155,49 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 
 </Center>
 
+## Vídeos de Verificação
+
+### Video solo mostrando os artefatos verificados
+
+O vídeo 1 mostra a verificação dos artefatos da Etapa 3, realizada somente pela integrante [Millena Queiroz](https://github.com/millenaqueiroz) a fim de validar as verificações dos artefatos citados anteriormente.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Vídeo 1</b> - Verificação solo dos artefatos da Etapa 3.</p></font>
+
+<p style="text-align: center"> Em breve</p>
+
+<font size="3"><p style="text-align: center">Fonte: [Millena Queiroz](https://github.com/MillenaQueiroz).</p></font>
+
+</center>
+
+### Video em dupla com o revisor mostrando os artefatos verificados
+
+O vídeo 2 mostra a verificação dos artefatos da Etapa 3, realizada pela integrante [Millena Queiroz](https://github.com/MillenaQueiroz) e o revisor [Felipe Sousa](https://github.com/fsousac) a fim de validar as verificações dos artefatos citados anteriormente.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Vídeo 2</b> - Verificação em dupla dos artefatos da Etapa 3.</p></font>
+
+<p style="text-align: center"> Em breve</p>
+
+<font size="3"><p style="text-align: center">Fonte: [Millena Queiroz](https://github.com/MillenaQueiroz).</p></font>
+
+</center>
+
+### Video com o criador de cada artefato
+
+O vídeo 3 mostra a verificação dos artefatos da Etapa 3, realizada pela integrante [Millena Queiroz](https://github.com/MillenaQueiroz) e o criador de cada artefato a fim de explicitar as verificações realizadas sobre seus respectivos artefatos.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Vídeo 3</b> - Exposição dos resultados ao criador.</p></font>
+
+<p style="text-align: center"> Em breve</p>
+
+<font size="3"><p style="text-align: center">Fonte: [Millena Queiroz](https://github.com/MillenaQueiroz).</p></font>
+
+</center>
 
 ## Conclusão
 
@@ -162,15 +205,15 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 
 ## Referências Bibliográficas
 
->  <a id="REF1" href="#anchor_1">1.</a> BARROS, André. Plano de Ensino IHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>. Acesso em: 12 novembro 2023.
+>  <a id="REF1" href="#anchor_1">1.</a> BARROS, André. Plano de Ensino IHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>. Acesso em: 02 dezembro 2023.
 
 ## Bibliografia
 
-> ALVES, Douglas; MACIEL, Geovana. Planejamento da Verificação da Etapa 2 do Grupo 2. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/planejamento-verificacao-etapa2-grupo2/>. Acesso em: 13 de novembro 2023.
+> ALVES, Douglas; MACIEL, Geovana. Planejamento da Verificação da Etapa 2 do Grupo 2. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/planejamento-verificacao-etapa2-grupo2/>. Acesso em: 02 dezembro 2023.
 
-> ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>>. Acesso em: 13 de novembro 2023.
+> ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>>. Acesso em: 02 dezembro 2023.
 
-> Gerência e Qualidade de Software - Aula 06 - Técnica de revisão, Fábio Levy Siqueira. Disponível em: https://www.youtube.com/watch?v=nA1BVDd9GUE- Acesso em 12 de novembro de 2023
+> Gerência e Qualidade de Software - Aula 06 - Técnica de revisão, Fábio Levy Siqueira. Disponível em: https://www.youtube.com/watch?v=nA1BVDd9GUE- Acesso em 02 dezembro 2023.
 
 > MACEDO, Lucas. Planejamento da Verificação - PC5. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/>>. Acesso em: 13 de novembro 2023.
 
@@ -179,5 +222,4 @@ As checklists abaixo detalham os aspectos que serão examinados durante a condu�
 
 | Versão | Data       | Descrição                                       | Autor(es)                                     | Revisor(es)                                    |
 | ------ | ---------- | ----------------------------------------------- | --------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 12/11/2023 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) | [Felipe de Sousa](https://github.com/fsousac) |
-| `1.1`  | 13/11/2023 | Adição das checklists | [Millena Queiroz](https://github.com/millenaqueiroz) | [Felipe de Sousa](https://github.com/fsousac) |
+| `1.0`  | 02/12/2023 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) | [Felipe de Sousa](https://github.com/fsousac) |
