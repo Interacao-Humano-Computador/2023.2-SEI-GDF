@@ -246,7 +246,7 @@ O vídeo 2 mostra a verificação dos artefatos da Etapa 2, realizada pelo integ
 
 <font size="3"><p style="text-align: center"><b>Vídeo 2</b> - Verificação em dupla dos artefatos da Etapa 2.</p></font>
 
-<p style="text-align: center"> Em breve</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/A_Vq8C_5Lfw?si=RCMcaj5JZGIG0Gaf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
 
