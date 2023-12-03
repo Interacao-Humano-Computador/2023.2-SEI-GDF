@@ -55,11 +55,11 @@ Com base na tabela preenchida, serão feitas considerações acerca de alguns it
 
 ## ID 4 - Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?  
 
-No caso abaixo não é apresentado a fonte da imagem.
+No caso abaixo não é apresentado a legenda da imagem.
 
 <center>
 
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Falta de fonte no artefato </p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Falta de legenda no artefato </p></font>
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/60625345/857978c0-c6ed-446e-ae81-befe1f3b0e13" alt="image">
 
