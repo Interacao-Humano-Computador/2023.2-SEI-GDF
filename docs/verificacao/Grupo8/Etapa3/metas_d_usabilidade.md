@@ -17,11 +17,11 @@ O método utilizado será o de Inspeção para conduzir a verificação. Esse m�
 
 | ID  | Descrição                                                                                              | Avaliação |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | 
-| 1   | O artefato possui Introdução?                                                                          |        sim  |
-| 2   | O artefato possui bibliografia?                                           |   sim       |
-| 3   | O artefato possui um histórico de versões correto? |    sim       |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     sim      |
-| 5   | Todos os textos estão na norma padrão?                                                                 |    sim    |
+| 1   | O artefato possui Introdução?                                                                          |        conforme  |
+| 2   | O artefato possui bibliografia?                                           |   conforme       |
+| 3   | O artefato possui um histórico de versões correto? |    conforme       |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     não conforme      |
+| 5   | Todos os textos estão na norma padrão?                                                                 |    conforme    |
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
 
@@ -35,16 +35,16 @@ O método utilizado será o de Inspeção para conduzir a verificação. Esse m�
 
 | ID  | Descrição                                                                                            | Avaliação |
 | --- | ---------------------------------------------------------------------------------------------------- | --------- | 
-| 14  | É mostrado quais metas de usabilidade foram utilizadas?                                              | sim   |
-| 15  | Possui a descrição das metas de usabilidade a serem alcançadas no projeto?                           | sim   |
-| 16  | As metas de usabilidade são explicadas?                                                             | sim   |
-| 17  | Explica o motivo para escolha dessas metas de usabilidade?                                           | sim   |
-| 18  | É descrito como as metas serão avaliadas no projeto?                                           | não   |
-| 20  | São apresentadas questões condizentes com a meta de eficiência?                                      | sim   |
-| 22  | São apresentadas questões condizentes com a meta de segurança?                                       | sim   |
-| 23  | São apresentadas questões condizentes com a meta de utilidade?                                       | sim   |
-| 24  | São apresentadas questões condizentes com a meta de aprendizagem?                                    | sim   |
-| 25  | São apresentadas questões condizentes com a meta de memorabilidade?                                  | sim   |
+| 14  | É mostrado quais metas de usabilidade foram utilizadas?                                              | conforme   |
+| 15  | Possui a descrição das metas de usabilidade a serem alcançadas no projeto?                           | conforme   |
+| 16  | As metas de usabilidade são explicadas?                                                             |  conforme   |
+| 17  | Explica o motivo para escolha dessas metas de usabilidade?                                           | não conforme   |
+| 18  | É descrito como as metas serão avaliadas no projeto?                                           | conforme   |
+| 20  | São apresentadas questões condizentes com a meta de eficiência?                                      | conforme   |
+| 22  | São apresentadas questões condizentes com a meta de segurança?                                       | conforme   |
+| 23  | São apresentadas questões condizentes com a meta de utilidade?                                       | conforme   |
+| 24  | São apresentadas questões condizentes com a meta de aprendizagem?                                    | conforme   |
+| 25  | São apresentadas questões condizentes com a meta de memorabilidade?                                  | conforme   |
 
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
@@ -53,13 +53,28 @@ O método utilizado será o de Inspeção para conduzir a verificação. Esse m�
 
 Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
 
-## ID 18 - É descrito como as metas serão avaliadas no projeto? 
+## ID 4 - Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?  
 
-Não fica claro como as metas seriam avaliadas na plataforma Nota Legal, entendo que durante o artefato foi descrito a definição de cada meta, mas não seu uso na prática.
+No caso abaixo não é apresentado a fonte da imagem.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Falta de fonte no artefato </p></font>
+
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/60625345/857978c0-c6ed-446e-ae81-befe1f3b0e13" alt="image">
+
+<font size="3"><p style="text-align: center">Fonte: [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/metas-de-usabilidade) (Acesso em: 03/10/2023)</p></font>
+
+</center>
+
+## ID 17 - Explica o motivo para escolha dessas metas de usabilidade?
+
+Não fica claro o motivo da escolha das metas de usabilidade apresentadas.
+
 
 ## Sugestões
 
-As descrições apresentadas evidenciam uma sólida compreensão na elaboração deste artefato, delineando de maneira precisa as metas de usabilidade. Apenas seria necessário adicionar como seria a aplicação das metas.
+As descrições apresentadas evidenciam uma sólida compreensão na elaboração deste artefato, delineando de maneira precisa as metas de usabilidade. Apenas seria necessário adicionar o motivo da escolha e ajustes no texto.
 
 ## Referências Bibliográficas
 
@@ -69,4 +84,4 @@ As descrições apresentadas evidenciam uma sólida compreensão na elaboração
 
 | Versão | Data       | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | ---------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 14/11/2023 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) |[Felipe de Sousa](https://github.com/fsousac) | 
+| `1.0`  | 03/12/2023 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) |[Felipe de Sousa](https://github.com/fsousac) | 

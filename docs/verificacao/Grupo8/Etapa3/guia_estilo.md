@@ -17,11 +17,11 @@ O método utilizado será o de Inspeção para conduzir a verificação. Esse m�
 
 | ID  | Descrição                                                                                              | Avaliação |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | 
-| 1   | O artefato possui Introdução?                                                                          |        sim  |
-| 2   | O artefato possui bibliografia?                                           |   sim       |
-| 3   | O artefato possui um histórico de versões correto? |    sim       |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     sim      |
-| 5   | Todos os textos estão na norma padrão?                                                                 |    não    |
+| 1   | O artefato possui Introdução?                                                                          |        conforme  |
+| 2   | O artefato possui bibliografia?                                           |   conforme       |
+| 3   | O artefato possui um histórico de versões correto? |    conforme       |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     conforme      |
+| 5   | Todos os textos estão na norma padrão?                                                                 |    conforme    |
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
 
@@ -35,35 +35,25 @@ O método utilizado será o de Inspeção para conduzir a verificação. Esse m�
 
 | ID  | Descrição                                                                                           | Avaliação |
 | --- | --------------------------------------------------------------------------------------------------- | --------- | 
-| 26  | O guia de estilo construído é relevante para o site avaliado?                                        | sim   |
-| 27  | Possui um objetivo claro definido para o guia de estilo?                                              | sim   |
-| 28  | Existe um público-alvo específico para o guia de estilos?                                            | sim   |
-| 29  | Instrui sobre como utilizar e manter o guia de estilo de maneira eficaz?                              | sim   |
-| 30  | O guia de estilo do projeto é estruturado com base nos resultados da análise, incluindo uma descrição do ambiente de trabalho do usuário? | sim   |
-| 31  | O guia de estilo contém elementos de interface, como disposição espacial, grid, janelas, tipografia e cores? | sim   |
-| 32  | Existem elementos de interação no guia de estilo, como estilos de interação, seleção de um estilo e aceleradores (teclas de atalho)? | sim   |
-| 33  | O guia de estilo inclui elementos de ação, como preenchimento de campos, seleção e ativação?       | sim   |
-| 34  | Há um vocabulário definido e padrões claros no guia de estilo, incluindo terminologia, tipos de tela para tarefas comuns e sequências de diálogos? | sim   |
-| 35  | São abordadas exceções e estados de erro no guia de estilo?                                          | não   |
+| 26  | O guia de estilo construído é relevante para o site avaliado?                                        | conforme   |
+| 27  | Possui um objetivo claro definido para o guia de estilo?                                              | conforme   |
+| 28  | Existe um público-alvo específico para o guia de estilos?                                            | conforme   |
+| 29  | Instrui sobre como utilizar e manter o guia de estilo de maneira eficaz?                              | conforme   |
+| 30  | O guia de estilo do projeto é estruturado com base nos resultados da análise, incluindo uma descrição do ambiente de trabalho do usuário? | conforme   |
+| 31  | O guia de estilo contém elementos de interface, como disposição espacial, grid, janelas, tipografia e cores? | conforme   |
+| 32  | Existem elementos de interação no guia de estilo, como estilos de interação, seleção de um estilo e aceleradores (teclas de atalho)? | conforme   |
+| 33  | O guia de estilo inclui elementos de ação, como preenchimento de campos, seleção e ativação?       | conforme   |
+| 34  | Há um vocabulário definido e padrões claros no guia de estilo, incluindo terminologia, tipos de tela para tarefas comuns e sequências de diálogos? | conforme   |
+| 35  | São abordadas exceções e estados de erro no guia de estilo?                                          | não conforme   |
 
 
 **Fonte**: [Millena Queiroz](https://github.com/millenaqueiroz).
 
 </Center>
 
-## ID 5 - Todos os textos estão na norma padrão?                                                                 
+## ID 5 - São abordadas exceções e estados de erro no guia de estilo?                                                               
 
-Algumas partes dos textos não apresentam a norma padrão.
-
-<center>
-
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Exemplo do ID 5. </p></font>
-
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/60625345/4b0d6758-cc6d-4fd9-affb-c2b4ff09e0e7" alt="image">
-
-<font size="3"><p style="text-align: center">Fonte: [Millena Queiroz](https://github.com/millenaqueiroz).</p></font>
-
-</center>
+O artefato não aborda exceções e estados de erro, o que seria útil para alguns fluxos.
 
 ## Sugestões
 
@@ -77,4 +67,4 @@ As descrições apresentadas evidenciam uma sólida compreensão na elaboração
 
 | Versão | Data       | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | ---------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 14/11/2023 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) |[Felipe de Sousa](https://github.com/fsousac) | 
+| `1.0`  | 03/12/2023 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) |[Felipe de Sousa](https://github.com/fsousac) | 

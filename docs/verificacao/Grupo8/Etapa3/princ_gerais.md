@@ -63,4 +63,4 @@ As descrições apresentadas evidenciam uma sólida compreensão na elaboração
 
 | Versão | Data       | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | ---------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 14/11/2023 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) |[Felipe de Sousa](https://github.com/fsousac) | 
+| `1.0`  | 03/12/2023 | Criação do documento | [Millena Queiroz](https://github.com/millenaqueiroz) |[Felipe de Sousa](https://github.com/fsousac) | 
