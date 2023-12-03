@@ -165,7 +165,7 @@ O vídeo 1 mostra a verificação dos artefatos da Etapa 3, realizada somente pe
 
 <font size="3"><p style="text-align: center"><b>Vídeo 1</b> - Verificação solo dos artefatos da Etapa 3.</p></font>
 
-<p style="text-align: center"> Em breve</p>
+<iframe width="1280" height="315" src="https://www.youtube.com/embed/RPo3u2Dz8vo" title="Verificação solo etapa 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [Millena Queiroz](https://github.com/MillenaQueiroz).</p></font>
 
