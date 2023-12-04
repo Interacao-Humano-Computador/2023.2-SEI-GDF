@@ -21,7 +21,7 @@ A checklist, baseada no livro Interação-Humano-Computador de Barbosa e Silva, 
 |  2  | O artefato possui uma bibliografia/referência bibliográfica?                                                      |           |             |
 |  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?            |           |             |
 |  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                      |           |             |
-|  5  | Todos os textos estão na norma padrão?                                                                            |           |
+|  5  | Todos os textos estão na norma padrão?                                                                            |           |             |
 |  6  | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? |           |             |
 |  7  | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva?        |           |             |
 |  8  | O elenco de personas torna evidente quais são os objetivos dos usuários?                                          |           |             |

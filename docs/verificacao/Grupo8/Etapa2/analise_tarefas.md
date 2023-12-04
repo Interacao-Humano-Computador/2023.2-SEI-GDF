@@ -165,22 +165,22 @@ O artefato foi verificado e gerou os resultados da Tabela 5, sendo possível ide
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist preechido. </p></font>
 
-|  ID  | Descrição                                                                                              | Avaliação |        Observações         |
-| :--: | ------------------------------------------------------------------------------------------------------ | :-------: | :------------------------: |
-|  1   | O artefato possui introdução?                                                                          | Conforme  |                            |
-|  2   | O artefato possui uma bibliografia/referência bibliográfica?                                           | Conforme  |                            |
-|  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Conforme  |                            |
-|  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           | Conforme  |                            |
-|  5   | Todos os textos estão na norma padrão?                                                                 | Conforme  |                            |
-|  6   | As análises com o GOMS são realizadas a partir das tarefas da HTA?                                     | Conforme  |                            |
-|  7   | Há uma hierarquia estrita entre os objetivos?                                                          | Conforme  |                            |
-|  8   | Os operadores são executados em ordem sequencial?                                                      | Conforme  |                            |
-|  9   | Os métodos GOMS são representados em notação semelhante a pseudocódigo?                                | Conforme  |                            |
-|  10  | Os métodos GOMS possuem os quatros elementos principais?                                               | Conforme  | Será justificado no texto. |
-| 10.1 | Eles possuem os objetivos (_goals_)?                                                                   | Conforme  |                            |
-| 10.2 | Eles possuem os operadores (_operators_) primitivos internos ou externos?                              | Conforme  |                            |
-| 10.3 | Eles possuem os métodos (_methods_)?                                                                   | Conforme  |                            |
-| 10.4 | Eles possuem as regras de seleção (_selection rules_)?                                                 | Conforme  |                            |
+|  ID  | Descrição                                                                                              |  Avaliação   |        Observações         |
+| :--: | ------------------------------------------------------------------------------------------------------ | :----------: | :------------------------: |
+|  1   | O artefato possui introdução?                                                                          |   Conforme   |                            |
+|  2   | O artefato possui uma bibliografia/referência bibliográfica?                                           |   Conforme   |                            |
+|  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |   Conforme   |                            |
+|  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |   Conforme   |                            |
+|  5   | Todos os textos estão na norma padrão?                                                                 |   Conforme   |                            |
+|  6   | As análises com o GOMS são realizadas a partir das tarefas da HTA?                                     |   Conforme   |                            |
+|  7   | Há uma hierarquia estrita entre os objetivos?                                                          |   Conforme   |                            |
+|  8   | Os operadores são executados em ordem sequencial?                                                      |   Conforme   |                            |
+|  9   | Os métodos GOMS são representados em notação semelhante a pseudocódigo?                                |   Conforme   |                            |
+|  10  | Os métodos GOMS possuem os quatros elementos principais?                                               |   Conforme   | Será justificado no texto. |
+| 10.1 | Eles possuem os objetivos (_goals_)?                                                                   |   Conforme   |                            |
+| 10.2 | Eles possuem os operadores (_operators_) primitivos internos ou externos?                              |   Conforme   |                            |
+| 10.3 | Eles possuem os métodos (_methods_)?                                                                   | Não conforme |                            |
+| 10.4 | Eles possuem as regras de seleção (_selection rules_)?                                                 |   Conforme   |                            |
 
 <font size="3"><p style="text-align: center">Fonte: [Felipe de Sousa](https://github.com/fsousac).</p></font>
 
