@@ -194,7 +194,8 @@ Os métodos possuem explícitamente três dos quatro elementos principalmente, f
 
 Os artefatos estão bem definidos e executados, salvo alguns detalhes com relação aos pontos citados. Sugere-se, portanto, apenas uma melhoria para o artefato:
 
-- Explicitar métodos do GOMS.
+- Explicitar métodos do GOMS;
+- Explicitar o objetivo da análise no início do artefato.
 
 ## Bibliografia
 
