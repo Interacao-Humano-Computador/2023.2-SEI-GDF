@@ -204,7 +204,7 @@ O vídeo 1 mostra a verificação dos artefatos da Etapa 2, realizada somente pe
 
 ### Video em dupla com o revisor mostrando os artefatos verificados
 
-O vídeo 2 mostra a verificação dos artefatos da Etapa 2, realizada pelo integrante [Lucas Caldas](https://github.com/lucascaldasb) e o revisor [Caio Mesquita](https://github.com/Caiomesvie) a fim de validar as verificações dos artefatos citados anteriormente.
+O vídeo 2 mostra a verificação dos artefatos da Etapa 1, realizada pelo integrante [Lucas Caldas](https://github.com/lucascaldasb) e o revisor [Caio Mesquita](https://github.com/Caiomesvie) a fim de validar as verificações dos artefatos citados anteriormente.
 
 <center>
 
