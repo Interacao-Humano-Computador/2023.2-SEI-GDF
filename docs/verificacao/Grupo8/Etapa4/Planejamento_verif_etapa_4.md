@@ -1,11 +1,11 @@
-# Planejamento da Verficação da etapa 4 do Grupo 1
+# Planejamento da Verficação da etapa 4 do Grupo 8
 
 ## introdução
-A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) até a data de 8/11/2023.
+A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/) até a data de 03/11/2023.
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos durante o período citado realizados pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) possuem os itens e o padrão exigidos para tais. É importante citar que essa verificação em momento nenhum busca diminuir os membros do Grupo 1 ou seu trabalho, apenas aplicar os conceitos de verificação nos artefatos.
+O objetivo deste documento é verificar se os artefatos produzidos durante o período citado realizados pelo [Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/) possuem os itens e o padrão exigidos para tais. É importante citar que essa verificação em momento nenhum busca diminuir os membros do Grupo 1 ou seu trabalho, apenas aplicar os conceitos de verificação nos artefatos.
 
 ## Metodologia
 
@@ -19,13 +19,14 @@ O responsável por essa verificação é o integrante do Grupo 8 [Caio Mesquita]
 
 Os artefatos alvos dessa verificação são:
 
-- O [**Planejamento da Avaliação dos Storyboards**](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard/) na versão 1.5 de data 31/10/2023 produzido por [Izabella Alves](https://github.com/izabellaalves) com revisão de com revisão de [Lucas Ribeiro](https://github.com/lucassouzs);
+- O [**Planejamento da Avaliação dos Storyboards**](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/storyboard/planejamento-avaliacao-storyboard) na versão 1.0 de data 14/10/2023 produzido por [Caio Mesquita](https://github.com/Caiomesvie) com revisão de com revisão de [Felipe de Sousa](https://github.com/fsousac);
 
-- O [**Planejamento do relato dos resultados da avaliação do Storyboard**](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento-relato_storyboard/) na versão 1.2 de data 28/10/2023 produzido por [Zenilda Vieira](https://github.com/zenildavieira) com revisão de [Lucas Victor](https://github.com/Lucas13032003);
+- O [**Planejamento do relato dos resultados da avaliação do Storyboard**](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/storyboard/planej-relat-resul) na versão 1.0 de data 29/10/2023 produzido por [Millena Queiroz](https://github.com/MillenaQueiroz) com revisão de [Felipe de Sousa](https://github.com/fsousac) ;
 
-- O [**Planejamento da avaliação da Análise de Tarefas**](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_analise_tarefas/) na versão 1.4 de data 27/10/2023 produzido por [Gabriel Zaranza](https://github.com/GZaranza);
+- O [**Planejamento da avaliação da Análise de Tarefas**](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-avaliacao-analise-tarefas) na versão 1.0 de data 27/10/2023 produzido por [Felipe de Sousa](https://github.com/fsousac)
+com revisão de [Millena Queiroz](https://github.com/MillenaQueiroz);
 
-- O [**Planejamento do relato dos resultados da Análise de Tarefas**](https://interacao-humano-computador.github.io/2023.2-NotaLegal/analise%20de%20requisitos/cenarios/) na versão 1.3 de data 30/10/2023 produzido por [Lucas Víctor](https://github.com/lucas13032003) com revisão de [Izabella Alves](https://github.com/izabellaalves);
+- O [**Planejamento do relato dos resultados da Análise de Tarefas**](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-resultado-analise-tarefas) na versão 1.0 de data 28/10/2023 produzido por [Lucas Caldas](https://github.com/lucascaldasb) com revisão de [Caio Mesquita](https://github.com/Caiomesvie);
 
 ### Cronograma
 
@@ -37,10 +38,10 @@ A verificação será realizada na data de 15/10/2023. A tabela 1 a seguir, apre
 
 | Data       | Descrição                          | Responsável                                   |
 | ---------- | ---------------------------------- | --------------------------------------------- |
-| 15/11/2023 | Verificação do Planejamento da Avaliação dos Storyboards        | [Caio Mesquita](https://github.com/Caiomesvie) |
-| 15/11/2023 | Verificação do Planejamento do relato dos resultados da avaliação do Storyboard  | [Caio Mesquita](https://github.com/Caiomesvie) |
-| 15/11/2023 | Verificação do Planejamento da avaliação da Análise de Tarefas | [Caio Mesquita](https://github.com/Caiomesvie) |
-| 15/11/2023 | Verificação do Planejamento do relato dos resultados da Análise de Tarefas  | [Caio Mesquita](https://github.com/Caiomesvie) |
+| 03/12/2023 | Verificação do Planejamento da Avaliação dos Storyboards        | [Caio Mesquita](https://github.com/Caiomesvie) |
+| 03/12/2023 | Verificação do Planejamento do relato dos resultados da avaliação do Storyboard  | [Caio Mesquita](https://github.com/Caiomesvie) |
+| 03/12/2023 | Verificação do Planejamento da avaliação da Análise de Tarefas | [Caio Mesquita](https://github.com/Caiomesvie) |
+| 03/12/2023 | Verificação do Planejamento do relato dos resultados da Análise de Tarefas  | [Caio Mesquita](https://github.com/Caiomesvie) |
 
 **Fonte**: [Caio Mesquita](https://github.com/Caiomesvie)
 
@@ -171,4 +172,4 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 | Versão | Data       | Descrição             | Autor(es)                                     | Revisor(es)                                     |
 | ------ | ---------- | --------------------- | --------------------------------------------- | ----------------------------------------------- |
-| `1.0`  | 15/11/2023 | Criação do documento. | [Caio Mesquita](https://github.com/Caiomesvie) |  |
+| `1.0`  | 04/11/2023 | Criação do documento. | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb)  |
