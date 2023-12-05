@@ -156,6 +156,37 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 </center>
 
+
+
+### Video solo mostrando os artefatos verificados
+
+O vídeo 1 mostra a verificação dos artefatos da Etapa 4, realizada somente pelo integrante [Caio Mesquita](https://github.com/Caiomesvie) a fim de validar as verificações dos artefatos citados anteriormente.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Vídeo 1</b> - Verificação solo dos artefatos da Etapa 4.</p></font>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/59QlCV4DY4s" title="Verificação individual etapa 4 grupo 8 IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
+
+</center>
+
+### Video em dupla com o revisor mostrando os artefatos verificados
+
+O vídeo 2 mostra a verificação dos artefatos da Etapa 2, realizada pelo integrante [Caio Mesquita](https://github.com/Caiomesvie) e o revisor [Lucas Caldas](https://github.com/lucascaldasb) a fim de validar as verificações dos artefatos citados anteriormente.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Vídeo 2</b> - Verificação em dupla dos artefatos da Etapa 4.</p></font>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/O_O33zclyME" title="Inspeção em Dupla IHC Lucas e Caio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
+
+</center>
+
+
 ## Bibliografia
 
 > ALVES, Douglas; MACIEL, Geovana. Planejamento da Verificação da Etapa 2 do Grupo 2. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/planejamento-verificacao-etapa2-grupo2/>. Acesso em: 13 de novembro 2023.
