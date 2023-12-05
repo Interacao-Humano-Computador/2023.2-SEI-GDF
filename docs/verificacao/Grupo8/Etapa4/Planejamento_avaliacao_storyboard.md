@@ -61,6 +61,7 @@ O artefato foi verificado e gerou os resultados da Tabela 2, sendo possível ide
 <center>
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist preechido. </p></font>
+
 | ID  | Descrição | Avaliação |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | 
 | 1 | O artefato possui Introdução? | sim |   
