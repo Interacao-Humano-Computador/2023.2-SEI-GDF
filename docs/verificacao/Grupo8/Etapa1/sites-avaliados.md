@@ -38,13 +38,13 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 | ID  | Descrição     | Avaliação | Observação |
 |-----| --------------------------------------------------------------------------------------------------------------- | --------- | --------- |
 | 1   | O artefato possui Introdução?                                                                          | Sim        | - |
-| 2   | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  | Sim        | - |
+| 2   | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  | Não        | - |
 | 3   | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | Sim       | - |
 | 4   | Todos os textos estão na norma padrão?                                                                 | Sim        | - |
 | 5   | O artefato possui a metodologia utilizada e sua respectiva descrição?                  | Não        | - |
 | 6   | O artefato apresenta critérios nos quais foram baseados na hora da escolha do site?                                       | Sim        | - |
 | 7   | O artefato apresenta um site para cada membro do grupo?             | Sim        | - |
-| 8   | O artefato apresenta um planejamento de avaliação para cada site selecionado?                       | Sim        | - |
+| 8   | O artefato apresenta um planejamento de avaliação para cada site selecionado?                       | Não        | No documento detalhado alguns estão somente a avaliação e sem o planejamento |
 | 9   | O artefato apresenta uma avaliação para cada site selecionado?                       | Sim       | - |
 | 10  | Na avaliação heurística, todas as heurísticas foram detalhadas apropriadamente?                             | Sim        | - |
 | 11  | As heurísticas apresentam imagens do site para ilustrar o problema encontrado?                             | Não        | - |
@@ -54,6 +54,12 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 
 ## Problemas encontrados
 Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
+
+### ID 2 - O artefato artefato possui uma Bibliografia/Referência Bibliográfica?
+Não apresentam.
+
+### ID 08 - O artefato apresenta um planejamento de avaliação para cada site selecionado?
+O link que leva pro detalhamento de cada site traz somente a avaliação realizada. Porém, alguns ainda tem o planejamento e avaliação.
 
 ### ID 11 - As heurísticas apresentam imagens do site para ilustrar o problema encontrado quando necessário?
 Não apresentam.

@@ -42,7 +42,7 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 | 5   | As figuras de cada ciclo de vida referenciam a fonte?                                                  | Sim        | - |
 | 6   | A escolha do ciclo de vida foi justificada?                             | Sim        | - |
 | 7   | O ciclo de vida escolhido foi detalhado?             | Sim        | - |
-| 8   | A forma como será executado o ciclo de vida foi detalhada?                       | Sim        | - |
+| 8   | A forma como será executado o ciclo de vida foi detalhada?                       | Sim        | Poderia detalhar mais |
 
 <font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
 
@@ -51,6 +51,11 @@ Com base na tabela preenchida, há uma observação:
 
 ### ID 4 - Todos os textos estão na norma padrão?
 Algumas figuras quando chamadas no texto, estão com a numeração errada.
+
+## Sugestões
+Algumas sugestões foram adicionadas para deixar o artefato ainda melhor:
+
+* ID 8: Poderia detalhar mais a utilização do ciclo de vida.
 
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
