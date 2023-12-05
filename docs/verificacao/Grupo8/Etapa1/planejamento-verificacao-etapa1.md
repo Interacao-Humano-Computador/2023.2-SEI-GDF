@@ -186,6 +186,37 @@ _Fonte: [Lucas Caldas](https://github.com/lucascaldasb), 2023._
 
 </center>
 
+## Vídeos de verificação
+
+### Video solo mostrando os artefatos verificados
+
+O vídeo 1 mostra a verificação dos artefatos da Etapa 2, realizada somente pelo integrante [Lucas Caldas](https://github.com/lucascaldasb) a fim de validar as verificações dos artefatos citados anteriormente.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Vídeo 1</b> - Verificação solo dos artefatos da Etapa 1.</p></font>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qXSb5XbH_qo" title="Verificação dos Artefatos - IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
+
+</center>
+
+### Video em dupla com o revisor mostrando os artefatos verificados
+
+O vídeo 2 mostra a verificação dos artefatos da Etapa 2, realizada pelo integrante [Lucas Caldas](https://github.com/lucascaldasb) e o revisor [Caio Mesquita](https://github.com/Caiomesvie) a fim de validar as verificações dos artefatos citados anteriormente.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Vídeo 2</b> - Verificação em dupla dos artefatos da Etapa 1.</p></font>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ErH5BXxqol8" title="Inspeção em dupla ihc Caio e Lucas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
+
+</center>
+
+
 ## Bibliografia
 
 > DE MELO, Arthur. Planejamento da Verificação da Etapa 1. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/>>. Acesso em: 15 novembro 2023.
