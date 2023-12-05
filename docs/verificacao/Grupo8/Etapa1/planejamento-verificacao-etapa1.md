@@ -190,7 +190,7 @@ _Fonte: [Lucas Caldas](https://github.com/lucascaldasb), 2023._
 
 ### Video solo mostrando os artefatos verificados
 
-O vídeo 1 mostra a verificação dos artefatos da Etapa 2, realizada somente pelo integrante [Lucas Caldas](https://github.com/lucascaldasb) a fim de validar as verificações dos artefatos citados anteriormente.
+O vídeo 1 mostra a verificação dos artefatos da Etapa 1, realizada somente pelo integrante [Lucas Caldas](https://github.com/lucascaldasb) a fim de validar as verificações dos artefatos citados anteriormente.
 
 <center>
 
