@@ -1,14 +1,14 @@
 ## Introdução
 
-Este documento é de verificação do artefato [Processo de Design](https://interacao-humano-computador.github.io/2023.2-NotaLegal/planejamento%20do%20projeto/processo-de-design/) produzido pelo [Grupo 1 da disciplina de IHC](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) que tem o projeto voltado ao site Nota Legal. Com base nisso, o artefato será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silva.
+Este documento é de verificação do artefato [Processo de Design](../../../planejamento/processo-design.md). Com base nisso, o artefato será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silva.
 
 ## Objetivos
 
-O objetivo deste documento é verificar a conformidade com os padrões de qualidade estabelecidos e identificar possíveis problemas no artefato Processo de Design produzido na Etapa 1 pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+O objetivo deste documento é verificar a conformidade com os padrões de qualidade estabelecidos e identificar possíveis problemas no artefato Processo de Design produzido na Etapa 1.
 
 ## Metodologia
 
-Para a verificação do artefato, será feita uma checklist com base no que fora exigido pelo professor em sala de aula e, se possível, com pontos apontados pela literatura referida. Essa será composta por 4 perguntas que serão o padrão exigido para a documentação e, em seguida, perguntas envolvendo o conteúdo do artefato. A Tabela 1 explicita todas as perguntas abordadas para verficação do artefato, a versão utilizada para a verificação será a 1.7, feita no dia 18 de Setembro de 2023.
+Para a verificação do artefato, será feita uma checklist com base no que fora exigido pelo professor em sala de aula e, se possível, com pontos apontados pela literatura referida. Essa será composta por 4 perguntas que serão o padrão exigido para a documentação e, em seguida, perguntas envolvendo o conteúdo do artefato. A Tabela 1 explicita todas as perguntas abordadas para verficação do artefato, a versão utilizada para a verificação será a 1.2, feita no dia 05 de Outubro de 2023.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do Processo de Design. </p></font>
 
@@ -38,7 +38,7 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 | 1   | O artefato possui Introdução?                                                                          | Sim        | - |
 | 2   | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  | Sim        | - |
 | 3   | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | Sim        | - |
-| 4   | Todos os textos estão na norma padrão?                                                                 | Sim       | - |
+| 4   | Todos os textos estão na norma padrão?                                                                 | Sim       | Deve-se ajustar o número das figuras na chamada delas no texto |
 | 5   | As figuras de cada ciclo de vida referenciam a fonte?                                                  | Sim        | - |
 | 6   | A escolha do ciclo de vida foi justificada?                             | Sim        | - |
 | 7   | O ciclo de vida escolhido foi detalhado?             | Sim        | - |
@@ -47,7 +47,10 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 <font size="3"><p style="text-align: center">Fonte: [Lucas Caldas](https://github.com/lucascaldasb).</p></font>
 
 ## Problemas encontrados
-Com base na tabela preenchida, nenhum problema foi encontrado.
+Com base na tabela preenchida, há uma observação:
+
+### ID 4 - Todos os textos estão na norma padrão?
+Algumas figuras quando chamadas no texto, estão com a numeração errada.
 
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -62,4 +65,4 @@ Com base na tabela preenchida, nenhum problema foi encontrado.
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- `1.0` | 15/11/2023 | Criação do documento | [Lucas Caldas](https://github.com/lucascaldasb) | [Felipe de Sousa](https://github.com/fsousac) |
+ `1.0` | 04/12/2023 | Criação do documento | [Lucas Caldas](https://github.com/lucascaldasb) | [Felipe de Sousa](https://github.com/fsousac) |

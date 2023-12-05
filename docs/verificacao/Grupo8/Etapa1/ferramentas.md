@@ -1,14 +1,14 @@
 ## Introdução
 
-Este documento é de verificação do artefato [Ferramentas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/planejamento%20do%20projeto/ferramentas/) produzido pelo [Grupo 1 da disciplina de IHC](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) que tem o projeto voltado ao site Nota Legal. Com base nisso, o artefato será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silva.
+Este documento é de verificação do artefato [Ferramentas](../../../planejamento/ferramentas.md). Com base nisso, o artefato será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silva.
 
 ## Objetivos
 
-O objetivo deste documento é verificar a conformidade com os padrões de qualidade estabelecidos e identificar possíveis problemas no artefato de Ferremantas produzido na Etapa 1 pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/).
+O objetivo deste documento é verificar a conformidade com os padrões de qualidade estabelecidos e identificar possíveis problemas no artefato de Ferremantas produzido na Etapa 1.
 
 ## Metodologia
 
-Para a verificação do artefato, será feita uma checklist com base no que fora exigido pelo professor em sala de aula e, se possível, com pontos apontados pela literatura referida. Essa será composta por 4 perguntas que serão o padrão exigido para a documentação e, em seguida, perguntas envolvendo o conteúdo do artefato. A Tabela 1 explicita todas as perguntas abordadas para verficação do artefato, a versão utilizada para a verificação será a 1.5, feita no dia 11 de Outubro de 2023.
+Para a verificação do artefato, será feita uma checklist com base no que fora exigido pelo professor em sala de aula e, se possível, com pontos apontados pela literatura referida. Essa será composta por 4 perguntas que serão o padrão exigido para a documentação e, em seguida, perguntas envolvendo o conteúdo do artefato. A Tabela 1 explicita todas as perguntas abordadas para verficação do artefato, a versão utilizada para a verificação será a 1.2, feita no dia 29 de Novembro de 2023.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist Ferramentas. </p></font>
 
@@ -64,4 +64,4 @@ Com base na tabela preenchida, nenhum problema foi encontrado.
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- `1.0` | 15/11/2023 | Criação do documento | [Lucas Caldas](https://github.com/lucascaldasb) | [Felipe de Sousa](https://github.com/fsousac) |
+ `1.0` | 04/12/2023 | Criação do documento | [Lucas Caldas](https://github.com/lucascaldasb) | [Felipe de Sousa](https://github.com/fsousac) |

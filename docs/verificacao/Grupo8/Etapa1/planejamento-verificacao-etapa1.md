@@ -1,12 +1,12 @@
-# Planejamento da Verificação da Etapa 1 do Grupo 1
+# Planejamento da Verificação da Etapa 1 do Grupo 8
 
 ## Introdução
 
-A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) na Etapa 1.
+A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo grupo na Etapa 1.
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos na Etapa 1 do [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) possuem os itens e o padrão exigidos para tais.
+O objetivo deste documento é verificar se os artefatos produzidos na Etapa 1 possuem os itens e o padrão exigidos para tais.
 
 ## Metodologia
 
@@ -14,21 +14,21 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 ### Participantes
 
-O responsável por essa verificação será o integrante do Grupo 8 [Lucas Caldas](https://github.com/lucascaldasb), que realiza tanto o planejamento quanto a inspeção do artefato. Em relação a revisão dos artefatos produzidos por essa verificação, fica a cargo do integrante do Grupo 8 [Felipe de Sousa](https://github.com/fsousac).
+O responsável por essa verificação será o integrante [Lucas Caldas](https://github.com/lucascaldasb), que realiza tanto o planejamento quanto a inspeção do artefato. Em relação a revisão dos artefatos produzidos por essa verificação, fica a cargo do integrante do Grupo 8 [Felipe de Sousa](https://github.com/fsousac).
 
 ### Objetos de Verificação
 
 Os artefatos alvos dessa verificação são:
 
-- As [**Ferramentas**](./ferramentas.md) na versão 1.5 de data 11/10/2023, autorada por [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira);
-- O [**Cronograma**](./cronograma.md) na versão 1.3 de data 27/09/2023, autorada por [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09);
-- O [**Site Escolhido**](./site-escolhido.md) na versão 1.2 de data 20/09/2023, autorada por [Lucas Víctor](https://github.com/Lucas13032003);
-- - O [**Sites Avaliados**](./sites-avaliados.md) na versão 1.10 de data 11/10/2023, autorada por [Zenilda Vieira](https://github.com/ZenildaVieira);
-- O [**Processo de Design**](./processo-design.md) na versão 1.7 de data 18/09/2023, autorada por [Gabriel Zaranza](https://github.com/gzaranza).
+- As [**Ferramentas**](./ferramentas.md) na versão 1.2 de data 29/11/2023, autorada por [Felipe de Sousa](https://github.com/fsousac);
+- O [**Cronograma**](./cronograma.md) na versão 2.0 de data 14/11/2023, autorada por [João Pedro](https://github.com/JoosPerro);
+- O [**Site Escolhido**](./site-escolhido.md) na versão 1.1 de data 04/10/2023, autorada por [Lucas Caldas](https://github.com/lucascaldasb);
+- - O [**Sites Avaliados**](./sites-avaliados.md) na versão 1.1 de data 01/10/2023, autorada por [Millena](https://github.com/millenaqueiroz);
+- O [**Processo de Design**](./processo-design.md) na versão 1.2 de data 05/10/2023, autorada por [Felipe de Sousa](https://github.com/fsousac).
 
 ### Cronograma
 
-A verificação será realizada no período de 14 de Novembro de 2023 até dia 15 de Novembro de 2023, com os resultados sendo relatados através da página de documentação do Grupo 8 no dia 15 de Novembro de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
+A verificação será realizada no dia 04 de Dezembro de 2023, com os resultados sendo relatados através da página de documentação do Grupo 8 também no dia 04. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 <center>
 
@@ -36,12 +36,12 @@ A verificação será realizada no período de 14 de Novembro de 2023 até dia 1
 
 | Data       | Descrição                                                                                                                   | Responsável                                      |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 15/11/2023 | Verificação do Cronograma.                                                             | [Lucas Caldas](https://github.com/lucascaldasb) |
-| 15/11/2023 | Verificação das Ferramentas.                                                               | [Lucas Caldas](https://github.com/lucascaldasb) |
-| 15/11/2023 | Verificação dos Sites Avaliados.                                                               | [Lucas Caldas](https://github.com/lucascaldasb) |
-| 15/11/2023 | Verificação do Processo de Design.                                                             | [Lucas Caldas](https://github.com/lucascaldasb) |
-| 15/11/2023 | Verificação do Site Escolhido. | [Lucas Caldas](https://github.com/lucascaldasb) |
-| 15/11/2023 | Adição da documentação na página do grupo.                                                       | [Lucas Caldas](https://github.com/lucascaldasb) |
+| 03/12/2023 | Verificação do Cronograma.                                                             | [Lucas Caldas](https://github.com/lucascaldasb) |
+| 03/12/2023 | Verificação das Ferramentas.                                                               | [Lucas Caldas](https://github.com/lucascaldasb) |
+| 03/12/2023 | Verificação dos Sites Avaliados.                                                               | [Lucas Caldas](https://github.com/lucascaldasb) |
+| 03/12/2023 | Verificação do Processo de Design.                                                             | [Lucas Caldas](https://github.com/lucascaldasb) |
+| 03/12/2023 | Verificação do Site Escolhido. | [Lucas Caldas](https://github.com/lucascaldasb) |
+| 03/12/2023 | Adição da documentação na página do grupo.                                                       | [Lucas Caldas](https://github.com/lucascaldasb) |
 
 _Fonte: [Lucas Caldas](https://github.com/lucascaldasb), 2023._
 
@@ -202,4 +202,4 @@ _Fonte: [Lucas Caldas](https://github.com/lucascaldasb), 2023._
 
 | Versão | Data       | Descrição                                          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | -------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 15/11/2023 | Criação do documento.                                 | [Lucas Caldas](https://github.com/lucascaldasb) | [Felipe de Sousa](https://github.com/fsousac) |
+| `1.0`  | 04/12/2023 | Criação do documento.                                 | [Lucas Caldas](https://github.com/lucascaldasb) | [Felipe de Sousa](https://github.com/fsousac) |
