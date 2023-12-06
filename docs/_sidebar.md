@@ -56,33 +56,33 @@
 
   - Análise de Tarefas
 
-    - [Planejamento da avaliação de análise de tarefas](design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-avaliacao-analise-tarefas.md)
-    - [Planejamento do relato dos resultados da avaliação](design-avaliacao-desenvolvimento/planejamento/analise-tarefas/planejamento-resultado-analise-tarefas.md)
-    - [Relato dos resultados das avaliações do Storyboard e análise de tarefas](design-avaliacao-desenvolvimento/planejamento/resultados-entrevistas-hta-storyboard.md)
+    - [Planejamento da avaliação de análise de tarefas](design-avaliacao-desenvolvimento/analise-tarefas/planejamento-avaliacao-analise-tarefas.md)
+    - [Planejamento do relato dos resultados da avaliação](design-avaliacao-desenvolvimento/analise-tarefas/planejamento-resultado-analise-tarefas.md)
+    - [Relato dos resultados das avaliações do Storyboard e análise de tarefas](design-avaliacao-desenvolvimento/resultados-entrevistas-hta-storyboard.md)
 
   - Storyboard
 
-    - [Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/storyboards.md)
-    - [Planejamento da avaliação do Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/planejamento-avaliacao-storyboard.md)
-    - [Planejamento do Relato dos Resultados - Storyboard](design-avaliacao-desenvolvimento/planejamento/storyboard/planej-relat-resul.md)
-    - [Relato dos resultados das avaliações do Storyboard e análise de tarefas](design-avaliacao-desenvolvimento/planejamento/resultados-entrevistas-hta-storyboard.md)
+    - [Storyboard](design-avaliacao-desenvolvimento/storyboard/storyboards.md)
+    - [Planejamento da avaliação do Storyboard](design-avaliacao-desenvolvimento/storyboard/planejamento-avaliacao-storyboard.md)
+    - [Planejamento do Relato dos Resultados - Storyboard](design-avaliacao-desenvolvimento/storyboard/planej-relat-resul.md)
+    - [Relato dos resultados das avaliações do Storyboard e análise de tarefas](design-avaliacao-desenvolvimento/resultados-entrevistas-hta-storyboard.md)
 
   - Protótipo de papel
 
     - Protótipos de papel
-      - [Protótipos da Pesquisa processual (Servidor)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-servidor.md)
-      - [Protótipos de Verificação de Autenticidade (Cidadão)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-aut-doc.md)
-      - [Protótipos de Iniciar um processo (Servidor)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-de-papel-iniciar-processo.md)
-      - [Protótipos de Pesquisa processual (Cidadão)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-pesquisa-cidadao.md)
-      - [Protótipos de Gerar Documento (Servidor)](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/prototipos/prototipo-papel-gerar-doc.md)
-    - [Planejamento da avaliação do Protótipo de papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel.md)
-    - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/planejamento-relato-resultados-pp.md)
-    - [Relato dos resultados do Protótipo de Papel](design-avaliacao-desenvolvimento/planejamento/prototipo-papel/relat-resultados-prot-papel.md)
+      - [Protótipos da Pesquisa processual (Servidor)](design-avaliacao-desenvolvimento/prototipo-papel/prototipos/prototipo-papel-pesquisa-servidor.md)
+      - [Protótipos de Verificação de Autenticidade (Cidadão)](design-avaliacao-desenvolvimento/prototipo-papel/prototipos/prototipo-papel-aut-doc.md)
+      - [Protótipos de Iniciar um processo (Servidor)](design-avaliacao-desenvolvimento/prototipo-papel/prototipos/prototipo-de-papel-iniciar-processo.md)
+      - [Protótipos de Pesquisa processual (Cidadão)](design-avaliacao-desenvolvimento/prototipo-papel/prototipos/prototipo-papel-pesquisa-cidadao.md)
+      - [Protótipos de Gerar Documento (Servidor)](design-avaliacao-desenvolvimento/prototipo-papel/prototipos/prototipo-papel-gerar-doc.md)
+    - [Planejamento da avaliação do Protótipo de papel](design-avaliacao-desenvolvimento/prototipo-papel/Planejamento-avaliacao-protot-papel.md)
+    - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/prototipo-papel/planejamento-relato-resultados-pp.md)
+    - [Relato dos resultados do Protótipo de Papel](design-avaliacao-desenvolvimento/prototipo-papel/relat-resultados-prot-papel.md)
 
   - Protótipo de alta fidelidade
-    - [Planejamento da avaliação do Protótipo de Alta Fidelidade](design-avaliacao-desenvolvimento/planejamento/prototipo-alta-fidelidade/planejamento-avaliacao-protot-alta-fid.md)
-    - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-alta-fidelidade/planejamento-relato-result-protot-alta-fid.md)
-    - [Relato dos resultados](design-avaliacao-desenvolvimento/planejamento/prototipo-alta-fidelidade/relato-resultados-paf.md)
+    - [Planejamento da avaliação do Protótipo de Alta Fidelidade](design-avaliacao-desenvolvimento/prototipo-alta-fidelidade/planejamento-avaliacao-protot-alta-fid.md)
+    - [Planejamento do relato dos resultados](design-avaliacao-desenvolvimento/prototipo-alta-fidelidade/planejamento-relato-result-protot-alta-fid.md)
+    - [Relato dos resultados](design-avaliacao-desenvolvimento/prototipo-alta-fidelidade/relato-resultados-paf.md)
 
 * Verificação
   - Grupo 1

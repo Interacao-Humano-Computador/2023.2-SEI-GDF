@@ -1,5 +1,6 @@
 # Metas de Usabilidade
-## introdução
+
+## Introdução
 
 O Artefato de metas de usabilidade é caracterizado pela definição de quais fatores de qualidade de uso devem ser priorizados ao longo do projeto e como será a avaliação dos mesmos durante o processo de design. É também avaliado a questão dos valores de aceitação dos indicadores de interesse <a id="anchor_1" href="#REF1">^1^</a>.
 As metas de usabilidade do sistema SEI! vão ser baseadas nos perfis de usuários que são os servidores que trabalham com a plataforma, e os cidadãos que abrem as queixas na plataforma.
