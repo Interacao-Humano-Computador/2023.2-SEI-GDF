@@ -54,5 +54,5 @@ Apenas a alteração do item mencionado na pergunta de ID 7, tirando isso o docu
 
 | Versão | Data       | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | ---------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 15/11/2023 | Criação do documento | [Caio Mesquita](https://github.com/Caiomesvie) |   | 
+| `1.0`  | 15/11/2023 | Criação do documento | [Caio Mesquita](https://github.com/Caiomesvie) |  [Lucas Caldas](https://github.com/lucascaldasb) | 
 

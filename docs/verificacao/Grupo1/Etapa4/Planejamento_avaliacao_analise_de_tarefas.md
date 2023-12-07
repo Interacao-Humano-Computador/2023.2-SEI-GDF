@@ -55,5 +55,5 @@ O documento está quase perfeito, apenas incluir algumas especificações faltan
 
 | Versão | Data       | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | ---------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 15/11/2023 | Criação do documento | [Caio Mesquita](https://github.com/Caiomesvie) |   | 
+| `1.0`  | 15/11/2023 | Criação do documento | [Caio Mesquita](https://github.com/Caiomesvie) |  [Lucas Caldas](https://github.com/lucascaldasb) | 
 

@@ -55,4 +55,4 @@ O documento está muito bem estruturado mas a recomendação que fica é de não
 
 | Versão | Data       | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | ---------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 15/11/2023 | Criação do documento | [Caio Mesquita](https://github.com/Caiomesvie) |   | 
+| `1.0`  | 15/11/2023 | Criação do documento | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb)  | 

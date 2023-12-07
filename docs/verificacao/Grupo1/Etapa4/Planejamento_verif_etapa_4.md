@@ -171,4 +171,4 @@ Com o intuito de melhor organizar a verificação, a checklist será dividida em
 
 | Versão | Data       | Descrição             | Autor(es)                                     | Revisor(es)                                     |
 | ------ | ---------- | --------------------- | --------------------------------------------- | ----------------------------------------------- |
-| `1.0`  | 15/11/2023 | Criação do documento. | [Caio Mesquita](https://github.com/Caiomesvie) |  |
+| `1.0`  | 15/11/2023 | Criação do documento. | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb)  |
