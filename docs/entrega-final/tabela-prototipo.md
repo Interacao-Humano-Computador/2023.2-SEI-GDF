@@ -23,5 +23,5 @@ Neste documento está presente a tabela que contém os dados de todas as avalia�
 ## Histórico de Versões
 | Versão | Data       | Descrição            | Autor(es)                                     | Revisor(es)                                          |
 | ------ | ---------- | -------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 04/11/2023 | Criação do documento | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb)  | 
+| `1.0`  | 06/12/2023 | Criação do documento | [Caio Mesquita](https://github.com/Caiomesvie) | [Lucas Caldas](https://github.com/lucascaldasb)  | 
 
