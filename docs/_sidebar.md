@@ -161,5 +161,5 @@
     - [Síntese das verificações](entrega-final/sintese-verificacoes.md)
     - [Síntese dos artefatos](entrega-final/tabela-artefatos.md)
     - [Síntese dos protótipos](entrega-final/tabela-prototipo.md)
-    - [Síntese das técnicas](entrega-final/tabela-tecni1cas.md)
+    - [Síntese das técnicas](entrega-final/tabela-tecnicas.md)
 
