@@ -29,4 +29,4 @@ Optou-se por essa metodologia devido à sua adaptabilidade, agilidade e capacida
 
 | Versão | Data       | Descrição                       | Autor(es)                                        | Revisor(es)                                      |
 | :------: | :----------: | ------------------------        | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 01/10/2023 | Criação da documentação.        | [Millena](https://github.com/millenaqueiroz)     | -                                            |
+| `1.0`  | 01/10/2023 | Criação da documentação.        | [Millena](https://github.com/millenaqueiroz)     | [Felipe de Sousa](https://github.com/fsousac)                                           |
