@@ -157,3 +157,9 @@
     - [Execução do Projeto](entrega-final/execucao-projeto.md)
     - [Resultado da execução do projeto](entrega-final/resultados-execucao-projeto.md)
     - [Ferramentas utilizadas no projeto](entrega-final/ferramentas.md)
+    - [Síntese das apresentações](entrega-final/sintese-apresentacao.md)
+    - [Síntese das verificações](entrega-final/sintese-verificacoes.md)
+    - [Síntese dos artefatos](entrega-final/tabela-artefatos.md)
+    - [Síntese dos protótipos](entrega-final/tabela-prototipo.md)
+    - [Síntese das técnicas](entrega-final/tabela-tecnicas.md)
+
