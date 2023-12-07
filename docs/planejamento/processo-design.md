@@ -64,8 +64,8 @@
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 :-------: | :-----: | ------ | ---------- | ----------
- `1.0` | 28/09/2023 | Criação do documento | [Felipe de Sousa](https://github.com/fsousac) | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb), [Millena Queiroz](https://github.com/MillenaQueiroz), [Pablo Santos](https://github.com/pabloheika)
+ `1.0` | 28/09/2023 | Criação do documento | [Felipe de Sousa](https://github.com/fsousac) | [Lucas Caldas](https://github.com/lucascaldasb)
  `1.1` | 29/09/2023 | Finalização do documento e envio para revisão | [Felipe de Sousa](https://github.com/fsousac)| [Caio Mesquita](https://github.com/Caiomesvie)
- `1.2` | 05/10/2023 | Aplicação de padrões no histórico de versões | [Felipe de Sousa](https://github.com/fsousac) | [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb), [Millena Queiroz](https://github.com/MillenaQueiroz), [Pablo Santos](https://github.com/pabloheika)
+ `1.2` | 05/10/2023 | Aplicação de padrões no histórico de versões | [Felipe de Sousa](https://github.com/fsousac) [Caio Mesquita](https://github.com/Caiomesvie)
  
 
