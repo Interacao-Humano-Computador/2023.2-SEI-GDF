@@ -149,3 +149,11 @@
       - [Planejamento do Protótipo de Papel](verificacao/Grupo8/Etapa5/verificação_planejamento_protótipo_papel.md)
       - [Relato dos Resultados da Avaliação da Análise de Tarefas](verificacao/Grupo8/Etapa5/verificação_relato_resultados_analise_tarefas.md)
       - [Relato dos Resultados da Avaliação do Storyboard](verificacao/Grupo8/Etapa5/verificação_relato_resultados_storyboard.md)
+
+* Entrega Final
+    - [Site selecionado](entrega-final/site-selecionado.md)
+    - [Ciclo de vida](entrega-final/ciclo-de-vida.md)
+    - [Cronograma](entrega-final/cronograma-planejado-executado.md)
+    - [Execução do Projeto](entrega-final/execucao-projeto.md)
+    - [Resultado da execução do projeto](entrega-final/resultados-execucao-projeto.md)
+    - [Ferramentas utilizadas no projeto](entrega-final/ferramentas.md)
