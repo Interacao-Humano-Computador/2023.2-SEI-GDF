@@ -14,7 +14,7 @@ No contexto do projeto da disciplina, como o sistema escolhido já está em prod
 
 <center>
   
-   ![image](https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/9c20cdfe-8f71-49ff-8eef-6207c7d24753)
+   <img src=https://github.com/Interacao-Humano-Computador/2023.2-SEI-GDF/assets/95441810/9c20cdfe-8f71-49ff-8eef-6207c7d24753>
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
 
 </center>
