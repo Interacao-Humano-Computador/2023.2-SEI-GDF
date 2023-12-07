@@ -145,11 +145,7 @@
       - [Planejamento da avaliação da análise de tarefas](verificacao/Grupo8/Etapa4/Planejamento_avaliacao_analise_de_tarefas.md)
       - [Planejamento do relato dos resultados do storyboard](verificacao/Grupo8/Etapa4/Planejamento_relato_resultados_storyboard.md)
       - [Planejamento do relato dos resultados da análise de tarefas](verificacao/Grupo8/Etapa4/Planejamento_relato_resultados_analise_tarefas.md)
-    - Etapa 5
-      - [Planejamento da Verificação da Etapa 5](verificacao/Grupo8/Etapa5/planejamento_verificação.md)
-      - [Planejamento do Protótipo de Papel](verificacao/Grupo8/Etapa5/verificação_planejamento_protótipo_papel.md)
-      - [Relato dos Resultados da Avaliação da Análise de Tarefas](verificacao/Grupo8/Etapa5/verificação_relato_resultados_analise_tarefas.md)
-      - [Relato dos Resultados da Avaliação do Storyboard](verificacao/Grupo8/Etapa5/verificação_relato_resultados_storyboard.md)
+    
 
 * Entrega Final
     - [Site selecionado](entrega-final/site-selecionado.md)
