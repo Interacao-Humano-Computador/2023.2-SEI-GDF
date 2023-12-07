@@ -8,7 +8,7 @@ Neste artefato conterá as técnicas utilizadas ao longo do semestre pelos integ
 
 |        Técnica     |  Usuários   | 
 | :------------------------------------: | :----: | 
-|Havaliação Heurística| [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro),  [Lucas Caldas](https://github.com/lucascaldasb), [Millena Queiroz](https://github.com/millenaqueiroz) |
+|Avaliação Heurística| [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro),  [Lucas Caldas](https://github.com/lucascaldasb), [Millena Queiroz](https://github.com/millenaqueiroz) |
 |FrameWork DECIDE| [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro),  [Lucas Caldas](https://github.com/lucascaldasb), [Millena Queiroz](https://github.com/millenaqueiroz)|
 |Teste Piloto| [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro),  [Lucas Caldas](https://github.com/lucascaldasb), [Millena Queiroz](https://github.com/millenaqueiroz)|
 |Entrevista| [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Sousa](https://github.com/fsousac), [João Pedro](https://github.com/JoosPerro),  [Lucas Caldas](https://github.com/lucascaldasb), [Millena Queiroz](https://github.com/millenaqueiroz)|
